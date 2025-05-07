@@ -70,3 +70,98 @@ options.add_argument("--headless")
 # Démarrer le navigateur
 driver = webdriver.Chrome(options=options)
 
+def read_csv_to_array(file_path):
+    """
+    Reads a CSV file and stores each line in an array.
+    
+    Args:
+        file_path: Path to the CSV file
+        
+    Returns:
+        A list where each element is a row from the CSV file
+    """
+    data = []
+    try:
+        with open(file_path, 'r', newline='', encoding='utf-8') as csvfile:
+            csv_reader = csv.reader(csvfile)
+            for row in csv_reader:
+                data.append(row)
+        return data
+    except Exception as e:
+        return []
+
+# Example usage
+file_path = 'AmP_EcoInfo_basic.csv'  # Replace with your actual file path
+
+
+def filter_data(data, filter_value):
+    """
+    Filters the data based on a specific value in the first column.
+    
+    Args:
+        data: List of rows from the CSV file
+        filter_value: Value to filter the first column by
+    """
+    filtered_data = []
+    for row in data:
+        if row and row[1] == filter_value:
+            names_component = row[0].split('_')
+            new_row = [names_component[0], names_component[1]]
+            filtered_data.append(new_row)
+    return filtered_data
+
+# Print the data (optional)
+
+data_array = read_csv_to_array(file_path)
+data_filtered = filter_data(data_array, 'M')
+
+base_url = 'https://www.aquamaps.org/ScientificNameSearchList.php?Crit1_FieldName=scientific_names.Genus&Crit1_FieldType=CHAR&Crit2_FieldName=scientific_names.Species&Crit2_FieldType=CHAR&Group=All&Crit1_Operator=EQUAL&Crit1_Value=Balaena&Crit2_Operator=EQUAL&Crit2_Value=mysticetus'
+
+def fetch_species_data(genus, species):
+    species_data = {}
+    """
+    Fetch data for a specific species from AquaMaps
+    
+    Args:
+        genus: The genus name
+        species: The species name
+    
+    Returns:
+        The response content or None if the request failed
+    """
+    url = 'https://www.aquamaps.org/ScientificNameSearchList.php'
+    params = {
+        'Crit1_FieldName': 'scientific_names.Genus',
+        'Crit1_FieldType': 'CHAR',
+        'Crit2_FieldName': 'scientific_names.Species',
+        'Crit2_FieldType': 'CHAR',
+        'Group': 'All',
+        'Crit1_Operator': 'EQUAL',
+        'Crit1_Value': genus,
+        'Crit2_Operator': 'EQUAL',
+        'Crit2_Value': species
+    }
+    
+    try:
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36'
+        }
+        response = requests.get(url, params=params, headers=headers)
+        response.raise_for_status()  # Raise exception for 4XX/5XX status codes
+        print(url)
+        html = response.text[1000:]
+
+        # Check if the species name appears in the response
+        species_full_name = f'{genus} {species}'
+        
+            
+        # You could extract more specific information about the occurrence
+        # For example, find position or context
+        position = html.find(species_full_name)
+        print(position)
+        if position != -1:
+            # Get some context (50 characters before and after)
+            start = max(0, position - 44)
+            end = min(len(html), position + len(species_full_name) - len(species_full_name) - 5)
+            context = html[start:end]
+            
