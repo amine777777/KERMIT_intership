@@ -250,15 +250,20 @@ data_filtered = filter_data(data_array, 'M')
 
 last_species = get_last_species()
 
-index = data_filtered.index([last_species.split('_')[0], last_species.split('_')[1]])
-data_filteredV2 = data_filtered[index+1:]
-
-
-
-
-
-
-count = index+1
+# Fix for when there's no existing data.json or it's empty
+if last_species:
+    try:
+        index = data_filtered.index([last_species.split('_')[0], last_species.split('_')[1]])
+        data_filteredV2 = data_filtered[index+1:]
+        count = index + 1
+    except (ValueError, IndexError):
+        # If species not found in data_filtered or splitting fails
+        data_filteredV2 = data_filtered
+        count = 0
+else:
+    # Start from the beginning if no last species exists
+    data_filteredV2 = data_filtered
+    count = 0
 
 
 # species_data = {}
@@ -291,17 +296,24 @@ count = index+1
 ok = False
 indx = 0
 while ok == False:
+    # Check if data_filteredV2 is empty or if index is out of range
+    if not data_filteredV2 or indx >= len(data_filteredV2):
+        print("No more species to process or empty list.")
+        break
     
     species = data_filteredV2[indx]
     genus = species[0]
     species_name = species[1]
     result = fetch_species_data(genus, species_name)
     if result:
-        ok= True
+        ok = True
         add_species_data_to_json(result)
-
     else:
         indx += 1
+        # If we've tried all species and none worked, break the loop
+        if indx >= len(data_filteredV2):
+            print("Tried all available species, none could be processed.")
+            break
 
     count += 1
     print(f"Pourcentage : {count/len(data_filtered)*100}%")
