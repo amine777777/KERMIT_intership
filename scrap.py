@@ -167,5 +167,141 @@ def get_species_id(genus, species):
     
 
 def get_data_from_csv_url(url, genus, species):
-   
-def add_species_data_to_json(species_id, genus, species, data):
+    """
+    Fetches data from a CSV URL and returns it as a list of lists.
+    
+    Args:
+        url: The URL to fetch the CSV data from
+        
+    Returns:
+        A list of lists containing the CSV data
+    """
+    specie_data = {}
+    try:
+        csv_download = requests.get(url, headers=headers)
+        csv_download.raise_for_status()
+        
+        csv_content = csv_download.text
+        print(csv_content)
+        
+        if "Species Envelope (HSPEN):" in csv_content:
+
+            csv_data = csv_content.split("Species Envelope (HSPEN):")[1].strip()
+            csv_lines = csv_data.strip().split('\n')[1:]
+
+            csv_reader = csv.reader(csv_lines)
+            specie_data[f'{genus}_{species}'] = {}
+
+            for row in csv_reader:
+                if row:  # Skip empty rows
+                    specie_data[f'{genus}_{species}'][row[0]] = row[1:]
+                    
+            
+            return(specie_data)
+            
+        else:
+            print("Could not find species envelope data in the CSV content")
+                    
+                    
+                    
+    except requests.exceptions.RequestException as e:
+        return None
+
+
+
+def fetch_species_data(genus, species):
+    """
+    Fetch data for a specific species from AquaMaps
+    
+    Args:
+        genus: The genus name
+        species: The species name
+    
+    Returns:
+        The response content or None if the request failed
+    """
+    species_id = get_species_id(genus, species)
+    url_csv = get_url(species_id)
+    data = get_data_from_csv_url(url_csv, genus=genus, species=species)
+    return data
+
+
+def add_species_data_to_json(specie_data):
+    """
+    Add species data to a JSON file.
+    
+    Args:
+        species_data: The species data to add
+    """
+    try:
+        with open('data.json', 'r', encoding='utf-8') as json_file:
+            existing_data = json.load(json_file)
+    except (FileNotFoundError, json.JSONDecodeError):
+        existing_data = {}
+
+    existing_data.update(specie_data)
+
+    with open('data.json', 'w', encoding='utf-8') as json_file:
+        json.dump(existing_data, json_file, indent=4)
+
+        
+data_array = read_csv_to_array(file_path)
+data_filtered = filter_data(data_array, 'M')
+
+last_species = get_last_species()
+
+index = data_filtered.index([last_species.split('_')[0], last_species.split('_')[1]])
+data_filteredV2 = data_filtered[index+1:]
+
+
+
+
+
+
+count = index+1
+
+
+# species_data = {}
+# for species in data_filteredV2:
+#     if len(species) >= 2:
+#         genus = species[0]
+#         species_name = species[1]
+#         result = fetch_species_data(genus, species_name)
+#         if result:
+#             # If result is not None and has data
+#             if result and isinstance(result, dict):
+#                 # Update the species_data dictionary with the new result
+#                 species_data.update(result)
+
+
+#             # Write species_data to a JSON file
+
+#             # Save the species data to a JSON file
+#             with open('data.json', 'w', encoding='utf-8') as json_file:
+#                 json.dump(species_data, json_file, indent=4)
+#             # Here you could parse the HTML response if needed
+#             # For example, using BeautifulSoup
+#         else:
+#             continue
+
+#     count += 1
+#     print(f"Pourcentage : {count/len(data_filtered)*100}%")
+
+
+ok = False
+indx = 0
+while ok == False:
+    
+    species = data_filteredV2[indx]
+    genus = species[0]
+    species_name = species[1]
+    result = fetch_species_data(genus, species_name)
+    if result:
+        ok= True
+        add_species_data_to_json(result)
+
+    else:
+        indx += 1
+
+    count += 1
+    print(f"Pourcentage : {count/len(data_filtered)*100}%")
