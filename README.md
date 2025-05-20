@@ -21,4 +21,4 @@ The project involves:
 - Visualisation through different graphs, curves and maps. 
 
 
-This project is conducted over a 3-month period, under the academic guidance of a PhD researcher from Ghent University.
+This project is conducted over a 3-month period, under the academic guidance of a postdoctoral researcher from Ghent University.
