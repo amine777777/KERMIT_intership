@@ -1,0 +1,133 @@
+Mapping parameters for Octopus maya (Mexican four-eyed octopus)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 31,
+Bounding Box (NSWE): ,23,16,-98,-86
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,11,50,100
+Temperature (°C),1,24.58,25.99,28.09,32.29
+Salinity (psu),1,32.58,34.76,36.4,38.61
+Primary Production (mgC·m-3·day-1) ,1,1.1,2.1,7.66,43.27
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,147.2,198.74,210.97,222.81
+Distance to Land (km),0,14,15,126,188.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 85): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Octopus,maya,18.25,-92.75,7109:382:2,0.16
+Octopus,maya,18.25,-93.25,7109:383:1,0.16
+Octopus,maya,22.75,-86.75,7208:226:4,0.10
+Octopus,maya,20.75,-96.75,7209:206:4,0.18
+Octopus,maya,22.75,-97.25,7209:227:3,0.05
+Octopus,maya,19.75,-87.75,7108:497:4,0.30
+Octopus,maya,18.75,-92.75,7109:382:4,0.35
+Octopus,maya,20.25,-87.25,7208:207:1,0.32
+Octopus,maya,21.25,-87.25,7208:217:1,0.20
+Octopus,maya,22.75,-88.75,7208:228:4,0.32
+Octopus,maya,22.25,-90.75,7209:120:2,0.29
+Octopus,maya,21.75,-97.75,7209:217:4,0.31
+Octopus,maya,22.75,-97.75,7209:227:4,0.27
+Octopus,maya,18.25,-87.75,7108:487:2,0.52
+Octopus,maya,18.25,-88.25,7108:488:1,0.47
+Octopus,maya,18.75,-93.25,7109:383:3,0.42
+Octopus,maya,21.25,-88.75,7208:218:2,0.40
+Octopus,maya,21.75,-91.25,7209:111:3,0.43
+Octopus,maya,21.75,-97.25,7209:217:3,0.47
+Octopus,maya,17.25,-88.25,7108:478:1,0.66
+Octopus,maya,18.75,-87.75,7108:487:4,0.76
+Octopus,maya,18.25,-93.75,7109:383:2,0.71
+Octopus,maya,19.75,-91.25,7109:391:3,0.73
+Octopus,maya,22.75,-88.25,7208:228:3,0.70
+Octopus,maya,21.25,-91.25,7209:111:1,0.70
+Octopus,maya,22.25,-90.25,7209:120:1,0.70
+Octopus,maya,16.75,-88.25,7108:468:3,0.98
+Octopus,maya,17.75,-88.25,7108:478:3,1.00
+Octopus,maya,19.25,-87.75,7108:497:2,1.00
+Octopus,maya,18.75,-91.25,7109:381:3,1.00
+Octopus,maya,18.75,-91.75,7109:381:4,0.81
+Octopus,maya,18.75,-92.25,7109:382:3,0.88
+Octopus,maya,18.75,-93.75,7109:383:4,1.00
+Octopus,maya,18.25,-94.25,7109:384:1,1.00
+Octopus,maya,18.25,-94.75,7109:384:2,0.99
+Octopus,maya,18.75,-94.75,7109:384:4,1.00
+Octopus,maya,19.25,-90.75,7109:390:2,1.00
+Octopus,maya,19.75,-90.25,7109:390:3,1.00
+Octopus,maya,19.75,-90.75,7109:390:4,0.96
+Octopus,maya,19.25,-91.25,7109:391:1,1.00
+Octopus,maya,19.25,-91.75,7109:391:2,0.88
+Octopus,maya,19.25,-92.25,7109:392:1,1.00
+Octopus,maya,19.25,-92.75,7109:392:2,1.00
+Octopus,maya,18.75,-95.25,7109:485:3,1.00
+Octopus,maya,18.75,-95.75,7109:485:4,0.98
+Octopus,maya,19.25,-95.75,7109:495:2,1.00
+Octopus,maya,19.25,-96.25,7109:496:1,1.00
+Octopus,maya,19.75,-96.25,7109:496:3,1.00
+Octopus,maya,20.75,-86.75,7208:206:4,1.00
+Octopus,maya,20.75,-87.25,7208:207:3,1.00
+Octopus,maya,21.25,-86.25,7208:216:1,1.00
+Octopus,maya,21.25,-86.75,7208:216:2,1.00
+Octopus,maya,21.75,-86.25,7208:216:3,1.00
+Octopus,maya,21.75,-86.75,7208:216:4,1.00
+Octopus,maya,21.75,-87.25,7208:217:3,1.00
+Octopus,maya,21.75,-87.75,7208:217:4,1.00
+Octopus,maya,21.75,-88.25,7208:218:3,0.96
+Octopus,maya,21.75,-88.75,7208:218:4,0.98
+Octopus,maya,21.25,-89.25,7208:219:1,1.00
+Octopus,maya,21.25,-89.75,7208:219:2,1.00
+Octopus,maya,21.75,-89.25,7208:219:3,1.00
+Octopus,maya,21.75,-89.75,7208:219:4,1.00
+Octopus,maya,22.25,-86.75,7208:226:2,1.00
+Octopus,maya,22.25,-87.25,7208:227:1,1.00
+Octopus,maya,22.25,-87.75,7208:227:2,1.00
+Octopus,maya,22.75,-87.25,7208:227:3,1.00
+Octopus,maya,22.75,-87.75,7208:227:4,1.00
+Octopus,maya,22.25,-88.25,7208:228:1,1.00
+Octopus,maya,22.25,-88.75,7208:228:2,1.00
+Octopus,maya,22.25,-89.25,7208:229:1,1.00
+Octopus,maya,22.25,-89.75,7208:229:2,1.00
+Octopus,maya,20.25,-90.25,7209:100:1,1.00
+Octopus,maya,20.25,-90.75,7209:100:2,0.98
+Octopus,maya,20.75,-90.25,7209:100:3,1.00
+Octopus,maya,20.75,-90.75,7209:100:4,1.00
+Octopus,maya,20.25,-91.25,7209:101:1,0.98
+Octopus,maya,20.75,-91.25,7209:101:3,0.98
+Octopus,maya,21.25,-90.25,7209:110:1,1.00
+Octopus,maya,21.25,-90.75,7209:110:2,1.00
+Octopus,maya,21.75,-90.25,7209:110:3,1.00
+Octopus,maya,21.75,-90.75,7209:110:4,1.00
+Octopus,maya,20.25,-96.75,7209:206:2,1.00
+Octopus,maya,20.75,-97.25,7209:207:3,1.00
+Octopus,maya,21.25,-97.25,7209:217:1,1.00
+Octopus,maya,22.25,-97.25,7209:227:1,0.80
+
+
+Occurrence cells used for creating environmental envelope (n = 12)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Octopus,maya,16.75,-88.25,7108:468:3,3,28.1621417999268,28.2388954162598,35.4500465393066,35.9210205078125,2.5210001040250103,0,198.739044189453,17
+Octopus,maya,17.25,-88.25,7108:478:1,3,28.0943183898926,28.1022796630859,35.4901809692383,35.943431854248,1.75699999090284,0,199.237518310547,15
+Octopus,maya,18.25,-94.25,7109:384:1,27,26.9536170959473,26.9962997436523,34.8418197631836,36.012825012207,5.1060002297163,0,203.268814086914,16
+Octopus,maya,18.75,-92.25,7109:382:3,13,27.3388442993164,27.3965263366699,34.4956321716309,36.1684455871582,7.66499992460012,0,201.992462158203,16
+Octopus,maya,19.25,-95.75,7109:495:2,435,26.6971836090088,6.90276718139648,34.761589050293,34.9410362243652,4.67499997466803,0,147.203109741211,26
+Octopus,maya,19.75,-90.75,7109:390:4,19,27.4039192199707,27.4049282073975,36.4911880493164,36.2854423522949,3.95500008016825,0,200.526779174805,22
+Octopus,maya,21.25,-90.25,7209:110:1,7,26.2835655212402,26.5453472137451,36.3297653198242,36.4972114562988,5.46000013127923,0,202.989364624023,22
+Octopus,maya,21.75,-87.75,7208:217:4,15,25.9922542572021,26.2852802276611,36.2157173156738,36.272819519043,4.62999986484647,0,208.167221069336,22
+Octopus,maya,21.75,-90.75,7209:110:4,45,26.4987735748291,26.3940811157227,36.396900177002,36.4958305358887,2.43499991483986,0,208.668106079102,126
+Octopus,maya,22.25,-88.25,7208:228:1,36,26.2746334075928,26.2372627258301,36.2839126586914,36.321403503418,3.43800010159612,0,207.289093017578,85
+Octopus,maya,22.25,-89.75,7208:229:2,40,26.6298732757568,25.1731834411621,36.3507499694824,36.4535865783691,2.0959998946636897,0,214.047836303711,141
+Octopus,maya,22.25,-97.75,7209:227:2,18,25.9342212677002,25.752986907959,35.5242958068848,36.46923828125,43.2670004665852,0,210.966293334961,15

@@ -1,0 +1,56 @@
+Mapping parameters for Monocentris reedi (Pinecone fish)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO
+FAOAreas: 87,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,28,118,250
+Temperature (°C),1,14.33,16.78,19.36,21.45
+Salinity (psu),1,33.7,34.2,35.2,35.7
+Primary Production (mgC·m-3·day-1) ,1,1.49,2.49,4.49,5.49
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,65.53,125.05,168.19,226.69
+Distance to Land (km),0,22.4,23.4,409.4,603
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 15): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Monocentris,reedi,-25.75,-86.75,5208:456:4,0.16
+Monocentris,reedi,-25.25,-87.25,5208:457:1,0.02
+Monocentris,reedi,-25.75,-82.75,5208:352:4,0.32
+Monocentris,reedi,-25.75,-85.25,5208:455:3,0.36
+Monocentris,reedi,-22.25,-81.25,5208:121:1,0.48
+Monocentris,reedi,-25.75,-82.25,5208:352:3,0.53
+Monocentris,reedi,-21.25,-81.75,5208:111:2,0.78
+Monocentris,reedi,-25.75,-84.25,5208:354:3,0.66
+Monocentris,reedi,-26.25,-79.75,5207:469:2,1.00
+Monocentris,reedi,-25.25,-81.75,5208:351:2,0.87
+Monocentris,reedi,-26.25,-80.25,5208:360:1,1.00
+Monocentris,reedi,-33.75,-77.75,5307:237:4,0.83
+Monocentris,reedi,-33.75,-78.75,5307:238:4,0.94
+Monocentris,reedi,-33.75,-79.25,5307:239:3,0.99
+Monocentris,reedi,-33.75,-80.75,5308:130:4,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 5)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Monocentris,reedi,-33.75,-78.75,5307:238:4,1732,16.6370010375977,2.86713194847107,34.3366661071777,34.5502471923828,4.2659998871386104,0,124.447402954102,23
+Monocentris,reedi,-33.25,-79.25,5307:239:1,3940,16.9985275268555,1.30932998657227,34.4008712768555,34.6892623901367,3.76200000755489,0,169.472351074219,119
+Monocentris,reedi,-26.25,-79.75,5207:469:2,2471,18.6854114532471,1.51752102375031,34.8172721862793,34.6827049255371,4.3420000001788095,0,165.144348144531,24
+Monocentris,reedi,-26.25,-80.25,5208:360:1,3164,18.7795352935791,2.48476600646973,34.8487243652344,34.6082534790039,4.28400002419949,0,125.964576721191,100
+Monocentris,reedi,-25.75,-85.25,5208:455:3,2459,19.7513179779053,1.4183269739151,35.1751518249512,34.687816619873,1.93100003525615,0,166.254150390625,603

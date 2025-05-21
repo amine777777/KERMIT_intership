@@ -1,0 +1,81 @@
+Mapping parameters for Chrysoblephus laticeps (Roman seabream)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 47 |  51,
+Bounding Box (NSWE): ,-21,-28,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,11,50,100
+Temperature (°C),1,12.77,14.06,16.2,24.69
+Salinity (psu),1,34.22,34.72,35.2,35.7
+Primary Production (mgC·m-3·day-1) ,1,14.67,65.95,115.23,144.37
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,12.87,13.37,178.23,329.14
+Distance to Land (km),0,3,10,89,161.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 27): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Chrysoblephus,laticeps,-25.75,32.75,3203:352:4,0.01
+Chrysoblephus,laticeps,-26.75,14.75,3201:364:4,0.34
+Chrysoblephus,laticeps,-27.75,15.75,3201:475:4,0.54
+Chrysoblephus,laticeps,-21.25,13.25,3201:113:1,0.50
+Chrysoblephus,laticeps,-27.25,15.25,3201:475:1,0.66
+Chrysoblephus,laticeps,-24.75,14.25,3201:144:3,0.78
+Chrysoblephus,laticeps,-24.25,14.25,3201:144:1,0.66
+Chrysoblephus,laticeps,-22.25,13.75,3201:123:2,0.66
+Chrysoblephus,laticeps,-27.75,15.25,3201:475:3,1.00
+Chrysoblephus,laticeps,-26.75,15.25,3201:465:3,1.00
+Chrysoblephus,laticeps,-26.25,15.25,3201:465:1,1.00
+Chrysoblephus,laticeps,-26.25,14.75,3201:364:2,1.00
+Chrysoblephus,laticeps,-25.75,14.75,3201:354:4,1.00
+Chrysoblephus,laticeps,-25.25,14.75,3201:354:2,0.99
+Chrysoblephus,laticeps,-24.75,14.75,3201:144:4,1.00
+Chrysoblephus,laticeps,-24.25,14.75,3201:144:2,1.00
+Chrysoblephus,laticeps,-23.75,14.75,3201:134:4,1.00
+Chrysoblephus,laticeps,-23.75,14.25,3201:134:3,1.00
+Chrysoblephus,laticeps,-23.25,14.75,3201:134:2,1.00
+Chrysoblephus,laticeps,-23.25,14.25,3201:134:1,1.00
+Chrysoblephus,laticeps,-22.75,14.75,3201:124:4,1.00
+Chrysoblephus,laticeps,-22.75,14.25,3201:124:3,1.00
+Chrysoblephus,laticeps,-22.25,14.25,3201:124:1,1.00
+Chrysoblephus,laticeps,-21.75,14.25,3201:114:3,1.00
+Chrysoblephus,laticeps,-21.75,13.75,3201:113:4,0.96
+Chrysoblephus,laticeps,-21.75,13.25,3201:113:3,0.81
+Chrysoblephus,laticeps,-21.25,13.75,3201:113:2,0.91
+
+
+Occurrence cells used for creating environmental envelope (n = 18)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Chrysoblephus,laticeps,-27.25,14.75,3201:374:2,310,15.645320892334,10.313759803772,34.9978103637695,34.847843170166,65.9549981355667,0,90.5896911621094,74
+Chrysoblephus,laticeps,-27.25,32.75,3203:372:2,406,24.6925525665283,21.223072052002,35.1957397460938,35.3864364624023,14.6749997511506,0,178.115997314453,11
+Chrysoblephus,laticeps,-26.75,15.25,3201:465:3,59,14.439525604248,13.1856031417847,34.7234573364258,35.0184669494629,97.3774641752243,0,116.159843444824,10
+Chrysoblephus,laticeps,-26.25,14.25,3201:364:1,302,15.030553817749,9.56925773620605,35.0662422180176,34.7779655456543,71.16299867629999,0,93.1282730102539,89
+Chrysoblephus,laticeps,-26.25,14.75,3201:364:2,161,14.215407371521,12.3136005401611,34.9219779968262,34.9822959899902,90.6810015439987,0,44.2772483825684,50
+Chrysoblephus,laticeps,-26.25,15.25,3201:465:1,46,14.3443384170532,13.8024005889893,34.868766784668,35.035587310791,99.7573360800743,0,155.995635986328,3
+Chrysoblephus,laticeps,-25.75,14.25,3201:354:3,238,14.6229372024536,10.9789848327637,35.0670394897461,34.9452857971191,77.7700021862984,0,60.0997085571289,75
+Chrysoblephus,laticeps,-25.75,14.75,3201:354:4,127,14.0553579330444,13.9512434005737,35.0163192749023,35.0885925292969,93.9520001411438,0,62.6296310424805,22
+Chrysoblephus,laticeps,-25.25,14.75,3201:354:2,95,14.0415992736816,14.5777797698975,35.0217132568359,35.0665435791016,108.522996306419,0,222.049423217773,19
+Chrysoblephus,laticeps,-24.75,14.25,3201:144:3,145,14.4917840957642,12.8286008834839,34.9696769714355,35.0520210266113,98.3309969305992,0,20.9679985046387,76
+Chrysoblephus,laticeps,-24.75,14.75,3201:144:4,64,14.4070129394531,14.6196689605713,35.0296058654785,35.0836715698242,108.087383210659,0,178.227844238281,15
+Chrysoblephus,laticeps,-24.25,14.25,3201:144:1,131,14.6139154434204,13.4816131591797,34.7116775512695,35.0933647155762,124.66699630022,0,16.6736812591553,76
+Chrysoblephus,laticeps,-23.75,13.75,3201:133:4,222,15.498607635498,11.6818246841431,35.0114669799805,34.9976921081543,84.6239998936653,0,29.8912296295166,126
+Chrysoblephus,laticeps,-23.75,14.25,3201:134:3,127,14.7667617797852,13.6502447128296,34.8997001647949,35.1000328063965,110.866002738476,0,13.371488571167,76
+Chrysoblephus,laticeps,-23.25,14.25,3201:134:1,109,15.0186500549316,14.3057384490967,35.1138458251953,35.1339302062988,101.64300352335,0,15.8805351257324,25
+Chrysoblephus,laticeps,-22.75,14.25,3201:124:3,93,15.2663450241089,14.4749374389648,35.1517219543457,35.1614990234375,110.266998410225,0,13.2785835266113,50
+Chrysoblephus,laticeps,-22.25,14.25,3201:124:1,78,15.7368907928467,15.9435358047485,35.1112098693848,35.1640319824219,115.226000547409,0,144.236450195313,21
+Chrysoblephus,laticeps,-21.75,13.75,3201:113:4,101,16.2039661407471,15.0836448669434,35.222095489502,35.2170867919922,103.366002440453,0,23.9148406982422,25

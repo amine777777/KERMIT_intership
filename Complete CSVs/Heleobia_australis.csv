@@ -1,0 +1,262 @@
+Mapping parameters for Heleobia australis ()
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 41,
+Bounding Box (NSWE): ,-24,-41,62,46
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,6,31,60
+Temperature (°C),1,6.02,14.64,22.79,30.14
+Salinity (psu),1,13.52,30.04,35.28,39.84
+Primary Production (mgC·m-3·day-1) ,1,1.18,2.18,39.54,51.6
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,175.07,218.96,271.89,318.86
+Distance to Land (km),0,1,2,168,236
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 206): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Heleobia,australis,-25.25,-48.75,5204:458:2,0.17
+Heleobia,australis,-31.25,-51.25,5305:111:1,0.07
+Heleobia,australis,-31.25,-51.75,5305:111:2,0.16
+Heleobia,australis,-33.25,-51.25,5305:131:1,0.14
+Heleobia,australis,-35.75,-56.75,5305:456:4,0.09
+Heleobia,australis,-36.25,-56.75,5305:466:2,0.16
+Heleobia,australis,-37.25,-55.25,5305:475:1,0.02
+Heleobia,australis,-40.75,-56.75,5405:206:4,0.03
+Heleobia,australis,-40.25,-61.75,5406:101:2,0.16
+Heleobia,australis,-40.75,-61.25,5406:101:3,0.16
+Heleobia,australis,-40.75,-64.25,5406:104:3,0.15
+Heleobia,australis,-24.75,-45.25,5204:245:3,0.38
+Heleobia,australis,-27.75,-47.75,5204:477:4,0.37
+Heleobia,australis,-30.75,-49.25,5304:209:3,0.37
+Heleobia,australis,-30.25,-50.75,5305:100:2,0.26
+Heleobia,australis,-32.75,-50.25,5305:120:3,0.24
+Heleobia,australis,-35.25,-56.25,5305:456:1,0.23
+Heleobia,australis,-36.25,-57.25,5305:467:1,0.23
+Heleobia,australis,-37.75,-55.25,5305:475:3,0.32
+Heleobia,australis,-39.75,-58.25,5305:498:3,0.37
+Heleobia,australis,-39.75,-59.25,5305:499:3,0.23
+Heleobia,australis,-40.25,-56.25,5405:206:1,0.34
+Heleobia,australis,-40.25,-56.75,5405:206:2,0.35
+Heleobia,australis,-40.25,-57.75,5405:207:2,0.33
+Heleobia,australis,-40.25,-58.75,5405:208:2,0.27
+Heleobia,australis,-24.25,-45.25,5204:245:1,0.54
+Heleobia,australis,-24.75,-46.25,5204:246:3,0.41
+Heleobia,australis,-25.75,-45.25,5204:455:3,0.49
+Heleobia,australis,-25.25,-46.75,5204:456:2,0.47
+Heleobia,australis,-25.75,-47.25,5204:457:3,0.59
+Heleobia,australis,-26.75,-47.75,5204:467:4,0.55
+Heleobia,australis,-29.25,-48.75,5204:498:2,0.40
+Heleobia,australis,-31.25,-50.75,5305:110:2,0.55
+Heleobia,australis,-32.25,-50.75,5305:120:2,0.45
+Heleobia,australis,-32.75,-50.75,5305:120:4,0.59
+Heleobia,australis,-32.75,-51.25,5305:121:3,0.55
+Heleobia,australis,-34.75,-55.75,5305:245:4,0.41
+Heleobia,australis,-36.25,-54.75,5305:364:2,0.54
+Heleobia,australis,-36.75,-54.75,5305:364:4,0.51
+Heleobia,australis,-37.25,-54.25,5305:374:1,0.48
+Heleobia,australis,-35.25,-55.75,5305:455:2,0.55
+Heleobia,australis,-35.75,-56.25,5305:456:3,0.52
+Heleobia,australis,-36.75,-55.25,5305:465:3,0.52
+Heleobia,australis,-36.25,-56.25,5305:466:1,0.48
+Heleobia,australis,-36.75,-56.25,5305:466:3,0.59
+Heleobia,australis,-36.75,-56.75,5305:466:4,0.56
+Heleobia,australis,-37.75,-55.75,5305:475:4,0.46
+Heleobia,australis,-39.25,-56.25,5305:496:1,0.45
+Heleobia,australis,-39.75,-56.25,5305:496:3,0.40
+Heleobia,australis,-39.75,-57.75,5305:497:4,0.46
+Heleobia,australis,-39.75,-58.75,5305:498:4,0.48
+Heleobia,australis,-39.25,-62.25,5306:392:1,0.54
+Heleobia,australis,-40.25,-60.25,5406:100:1,0.48
+Heleobia,australis,-40.75,-60.25,5406:100:3,0.57
+Heleobia,australis,-24.25,-45.75,5204:245:2,0.78
+Heleobia,australis,-24.75,-45.75,5204:245:4,0.75
+Heleobia,australis,-25.25,-45.25,5204:455:1,0.61
+Heleobia,australis,-25.75,-45.75,5204:455:4,0.62
+Heleobia,australis,-29.75,-49.25,5204:499:3,0.79
+Heleobia,australis,-30.75,-49.75,5304:209:4,0.62
+Heleobia,australis,-31.25,-49.75,5304:219:2,0.61
+Heleobia,australis,-30.75,-50.25,5305:100:3,0.71
+Heleobia,australis,-31.75,-51.25,5305:111:3,0.61
+Heleobia,australis,-34.75,-53.75,5305:143:4,0.70
+Heleobia,australis,-34.75,-55.25,5305:245:3,0.61
+Heleobia,australis,-35.75,-54.25,5305:354:3,0.77
+Heleobia,australis,-36.25,-54.25,5305:364:1,0.74
+Heleobia,australis,-37.25,-55.75,5305:475:2,0.77
+Heleobia,australis,-37.75,-56.25,5305:476:3,0.79
+Heleobia,australis,-37.25,-57.25,5305:477:1,0.79
+Heleobia,australis,-38.25,-55.25,5305:485:1,0.79
+Heleobia,australis,-38.75,-55.75,5305:485:4,0.72
+Heleobia,australis,-38.75,-56.25,5305:486:3,0.76
+Heleobia,australis,-38.75,-57.75,5305:487:4,0.76
+Heleobia,australis,-39.25,-55.75,5305:495:2,0.62
+Heleobia,australis,-39.25,-56.75,5305:496:2,0.61
+Heleobia,australis,-39.75,-57.25,5305:497:3,0.76
+Heleobia,australis,-39.25,-61.25,5306:391:1,0.71
+Heleobia,australis,-39.25,-61.75,5306:391:2,0.62
+Heleobia,australis,-40.25,-57.25,5405:207:1,0.65
+Heleobia,australis,-40.25,-58.25,5405:208:1,0.73
+Heleobia,australis,-40.75,-58.75,5405:208:4,0.72
+Heleobia,australis,-40.25,-59.75,5405:209:2,0.74
+Heleobia,australis,-40.75,-59.25,5405:209:3,0.70
+Heleobia,australis,-40.75,-59.75,5405:209:4,0.65
+Heleobia,australis,-24.25,-46.25,5204:246:1,0.81
+Heleobia,australis,-24.25,-46.75,5204:246:2,0.89
+Heleobia,australis,-24.75,-46.75,5204:246:4,0.84
+Heleobia,australis,-24.25,-47.25,5204:247:1,0.94
+Heleobia,australis,-24.75,-47.25,5204:247:3,0.96
+Heleobia,australis,-24.75,-47.75,5204:247:4,0.97
+Heleobia,australis,-25.25,-47.25,5204:457:1,0.89
+Heleobia,australis,-25.25,-47.75,5204:457:2,0.98
+Heleobia,australis,-25.75,-47.75,5204:457:4,0.93
+Heleobia,australis,-25.25,-48.25,5204:458:1,0.99
+Heleobia,australis,-25.75,-48.25,5204:458:3,1.00
+Heleobia,australis,-25.75,-48.75,5204:458:4,1.00
+Heleobia,australis,-26.25,-47.75,5204:467:2,0.81
+Heleobia,australis,-26.25,-48.25,5204:468:1,0.98
+Heleobia,australis,-26.25,-48.75,5204:468:2,1.00
+Heleobia,australis,-26.75,-48.25,5204:468:3,0.97
+Heleobia,australis,-26.75,-48.75,5204:468:4,1.00
+Heleobia,australis,-27.25,-48.25,5204:478:1,0.97
+Heleobia,australis,-27.25,-48.75,5204:478:2,1.00
+Heleobia,australis,-27.75,-48.25,5204:478:3,0.97
+Heleobia,australis,-27.75,-48.75,5204:478:4,1.00
+Heleobia,australis,-28.25,-48.25,5204:488:1,0.93
+Heleobia,australis,-28.25,-48.75,5204:488:2,1.00
+Heleobia,australis,-28.75,-48.75,5204:488:4,1.00
+Heleobia,australis,-28.75,-49.25,5204:489:3,1.00
+Heleobia,australis,-29.25,-49.25,5204:499:1,1.00
+Heleobia,australis,-29.25,-49.75,5204:499:2,1.00
+Heleobia,australis,-29.75,-49.75,5204:499:4,1.00
+Heleobia,australis,-29.75,-50.25,5205:390:3,1.00
+Heleobia,australis,-30.25,-49.75,5304:209:2,1.00
+Heleobia,australis,-30.25,-50.25,5305:100:1,1.00
+Heleobia,australis,-31.25,-50.25,5305:110:1,1.00
+Heleobia,australis,-31.75,-50.75,5305:110:4,1.00
+Heleobia,australis,-31.75,-51.75,5305:111:4,0.88
+Heleobia,australis,-31.75,-52.25,5305:112:3,1.00
+Heleobia,australis,-32.25,-50.25,5305:120:1,0.92
+Heleobia,australis,-32.25,-51.25,5305:121:1,1.00
+Heleobia,australis,-32.25,-51.75,5305:121:2,1.00
+Heleobia,australis,-32.75,-51.75,5305:121:4,1.00
+Heleobia,australis,-32.25,-52.25,5305:122:1,1.00
+Heleobia,australis,-32.75,-52.25,5305:122:3,1.00
+Heleobia,australis,-32.75,-52.75,5305:122:4,1.00
+Heleobia,australis,-33.25,-51.75,5305:131:2,1.00
+Heleobia,australis,-33.75,-51.75,5305:131:4,1.00
+Heleobia,australis,-33.25,-52.25,5305:132:1,1.00
+Heleobia,australis,-33.25,-52.75,5305:132:2,1.00
+Heleobia,australis,-33.75,-52.25,5305:132:3,1.00
+Heleobia,australis,-33.75,-52.75,5305:132:4,1.00
+Heleobia,australis,-33.25,-53.25,5305:133:1,1.00
+Heleobia,australis,-33.75,-53.25,5305:133:3,1.00
+Heleobia,australis,-33.75,-53.75,5305:133:4,0.94
+Heleobia,australis,-34.25,-51.75,5305:141:2,1.00
+Heleobia,australis,-34.25,-52.25,5305:142:1,0.97
+Heleobia,australis,-34.25,-52.75,5305:142:2,0.88
+Heleobia,australis,-34.75,-52.75,5305:142:4,1.00
+Heleobia,australis,-34.25,-53.25,5305:143:1,1.00
+Heleobia,australis,-34.25,-53.75,5305:143:2,1.00
+Heleobia,australis,-34.75,-53.25,5305:143:3,0.87
+Heleobia,australis,-34.75,-54.25,5305:144:3,0.84
+Heleobia,australis,-34.75,-54.75,5305:144:4,0.81
+Heleobia,australis,-35.25,-52.75,5305:352:2,1.00
+Heleobia,australis,-35.25,-53.25,5305:353:1,0.99
+Heleobia,australis,-35.25,-53.75,5305:353:2,0.90
+Heleobia,australis,-35.75,-53.25,5305:353:3,1.00
+Heleobia,australis,-35.75,-53.75,5305:353:4,0.94
+Heleobia,australis,-35.25,-54.25,5305:354:1,0.96
+Heleobia,australis,-35.25,-54.75,5305:354:2,0.96
+Heleobia,australis,-35.75,-54.75,5305:354:4,1.00
+Heleobia,australis,-36.25,-53.25,5305:363:1,1.00
+Heleobia,australis,-36.25,-53.75,5305:363:2,1.00
+Heleobia,australis,-36.75,-53.75,5305:363:4,1.00
+Heleobia,australis,-36.75,-54.25,5305:364:3,0.93
+Heleobia,australis,-35.25,-55.25,5305:455:1,0.80
+Heleobia,australis,-35.75,-55.25,5305:455:3,0.96
+Heleobia,australis,-35.75,-55.75,5305:455:4,0.80
+Heleobia,australis,-36.25,-55.25,5305:465:1,0.87
+Heleobia,australis,-36.25,-55.75,5305:465:2,0.80
+Heleobia,australis,-36.75,-55.75,5305:465:4,0.84
+Heleobia,australis,-37.25,-56.25,5305:476:1,0.87
+Heleobia,australis,-37.25,-56.75,5305:476:2,0.88
+Heleobia,australis,-37.75,-56.75,5305:476:4,1.00
+Heleobia,australis,-37.75,-57.25,5305:477:3,1.00
+Heleobia,australis,-37.75,-57.75,5305:477:4,0.96
+Heleobia,australis,-38.25,-55.75,5305:485:2,0.81
+Heleobia,australis,-38.25,-56.25,5305:486:1,0.90
+Heleobia,australis,-38.25,-56.75,5305:486:2,0.99
+Heleobia,australis,-38.75,-56.75,5305:486:4,0.89
+Heleobia,australis,-38.25,-57.25,5305:487:1,1.00
+Heleobia,australis,-38.25,-57.75,5305:487:2,1.00
+Heleobia,australis,-38.75,-57.25,5305:487:3,0.82
+Heleobia,australis,-38.25,-58.25,5305:488:1,1.00
+Heleobia,australis,-38.75,-58.25,5305:488:3,1.00
+Heleobia,australis,-38.75,-58.75,5305:488:4,1.00
+Heleobia,australis,-38.75,-59.25,5305:489:3,1.00
+Heleobia,australis,-38.75,-59.75,5305:489:4,1.00
+Heleobia,australis,-39.25,-57.25,5305:497:1,0.86
+Heleobia,australis,-39.25,-57.75,5305:497:2,0.90
+Heleobia,australis,-39.25,-58.25,5305:498:1,0.95
+Heleobia,australis,-39.25,-58.75,5305:498:2,1.00
+Heleobia,australis,-39.25,-59.25,5305:499:1,0.97
+Heleobia,australis,-39.25,-59.75,5305:499:2,1.00
+Heleobia,australis,-39.75,-59.75,5305:499:4,1.00
+Heleobia,australis,-38.75,-60.25,5306:380:3,1.00
+Heleobia,australis,-38.75,-60.75,5306:380:4,1.00
+Heleobia,australis,-38.75,-61.25,5306:381:3,1.00
+Heleobia,australis,-38.75,-61.75,5306:381:4,1.00
+Heleobia,australis,-38.75,-62.25,5306:382:3,1.00
+Heleobia,australis,-39.25,-60.25,5306:390:1,1.00
+Heleobia,australis,-39.25,-60.75,5306:390:2,1.00
+Heleobia,australis,-39.75,-60.25,5306:390:3,0.90
+Heleobia,australis,-39.75,-60.75,5306:390:4,0.85
+Heleobia,australis,-39.75,-61.75,5306:391:4,1.00
+Heleobia,australis,-39.75,-62.25,5306:392:3,1.00
+Heleobia,australis,-40.25,-59.25,5405:209:1,0.86
+Heleobia,australis,-40.25,-60.75,5406:100:2,0.89
+Heleobia,australis,-40.75,-60.75,5406:100:4,0.96
+Heleobia,australis,-40.25,-62.25,5406:102:1,1.00
+Heleobia,australis,-40.75,-62.25,5406:102:3,0.97
+Heleobia,australis,-40.75,-62.75,5406:102:4,0.99
+Heleobia,australis,-40.75,-64.75,5406:104:4,0.98
+Heleobia,australis,-40.75,-65.25,5406:205:3,0.97
+
+
+Occurrence cells used for creating environmental envelope (n = 20)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Heleobia,australis,-40.75,-62.25,5406:102:3,12,14.4624719619751,14.4131593704224,33.5010147094727,33.6817359924316,2.17500003054738,0,257.464202880859,13
+Heleobia,australis,-40.25,-62.25,5406:102:1,7,14.6385154724121,14.6113882064819,32.7054214477539,33.6728134155273,6.62400014698505,0,257.153991699219,14
+Heleobia,australis,-39.25,-62.25,5306:392:1,9,14.9699602127075,14.9253416061401,34.1165885925293,33.6727409362793,1.71999994199723,0,256.137023925781,9
+Heleobia,australis,-38.75,-58.75,5305:488:4,29,15.0643749237061,13.0643005371094,34.1047706604004,33.5343475341797,11.386999860405899,0,271.891448974609,19
+Heleobia,australis,-38.75,-61.25,5306:381:3,13,15.3950634002686,15.1783094406128,31.0538520812988,33.1737632751465,10.660485364496699,0,261.664276123047,2
+Heleobia,australis,-38.75,-62.25,5306:382:3,9,15.2286167144775,14.7532377243042,31.6995792388916,33.3203544616699,9.90390405058861,0,255.205856323242,5
+Heleobia,australis,-38.25,-57.25,5305:487:1,43,15.0418128967285,11.9466381072998,32.8401794433594,33.5667991638184,18.401000648737,0,270.551940917969,82
+Heleobia,australis,-34.75,-54.25,5305:144:3,28,17.0333423614502,14.3929090499878,30.0413799285889,33.8714141845703,41.5120013058186,0,264.93505859375,16
+Heleobia,australis,-34.75,-56.25,5305:246:3,10,17.3701267242432,17.3003711700439,13.5246591567993,30.3671436309814,28.920264914631797,0,277.425567626953,9
+Heleobia,australis,-33.75,-53.25,5305:133:3,14,17.6405220031738,17.0132312774658,31.6798305511475,33.7476463317871,24.6140006929636,0,265.979675292969,17
+Heleobia,australis,-33.25,-50.25,5305:130:1,688,21.202693939209,5.16302108764648,36.1500091552734,34.317497253418,13.4720001369715,0,228.386596679688,236
+Heleobia,australis,-32.75,-50.75,5305:120:4,141,19.8411083221436,18.5082759857178,34.8698883056641,36.3566055297852,20.8940003067255,0,208.463668823242,168
+Heleobia,australis,-32.25,-52.25,5305:122:1,11,18.8053188323975,18.5789241790771,32.3393249511719,31.9208087921143,18.0830005556345,0,248.275573730469,12
+Heleobia,australis,-31.75,-52.25,5305:112:3,5,19.2432136535645,18.8637943267822,32.2035064697266,24.0579299926758,28.176000341772998,0,245.110870361328,7
+Heleobia,australis,-30.25,-50.25,5305:100:1,14,19.9784259796143,20.1807403564453,33.1855201721191,35.2777633666992,39.5350009202957,0,235.693359375,12
+Heleobia,australis,-29.25,-49.75,5204:499:2,36,20.3655567169189,20.6319828033447,33.7765426635742,35.8787307739258,14.2810000106692,0,230.136688232422,9
+Heleobia,australis,-28.25,-48.75,5204:488:2,21,21.0934162139893,21.5745792388916,35.1719703674316,36.1269874572754,10.556000284850601,0,223.628082275391,11
+Heleobia,australis,-25.75,-48.25,5204:458:3,18,22.7911739349365,22.2867221832275,35.2766494750977,35.5703926086426,6.36699981987476,0,228.98747253418,24
+Heleobia,australis,-25.25,-47.75,5204:457:2,22,22.9421215057373,21.8651695251465,35.1172294616699,35.5621643066406,4.33399993926287,0,231.384338378906,25
+Heleobia,australis,-25.25,-48.75,5204:458:2,1,22.6544284820557,22.4501953125,34.9556350708008,35.0780563354492,10.3766648098826,0,218.964340209961,2

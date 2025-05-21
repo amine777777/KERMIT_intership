@@ -1,0 +1,243 @@
+Mapping parameters for Anchoa tricolor (Piquitinga anchovy)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 41,
+Bounding Box (NSWE): ,-2,-39,-60,-32
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,5,26,50
+Temperature (°C),1,16.87,17.37,27.36,31.56
+Salinity (psu),1,13.52,30.04,36.8,39.03
+Primary Production (mgC·m-3·day-1) ,1,5.37,6.37,34.58,69.99
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,178.02,203.45,264.94,277.43
+Distance to Land (km),0,0,1,24,86
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 195): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Anchoa,tricolor,-3.75,-38.25,5003:238:3,0.03
+Anchoa,tricolor,-5.25,-36.25,5003:456:1,0.08
+Anchoa,tricolor,-6.25,-35.25,5003:465:1,0.07
+Anchoa,tricolor,-2.75,-43.25,5004:123:3,0.17
+Anchoa,tricolor,-2.25,-49.25,5004:229:1,0.06
+Anchoa,tricolor,-25.25,-46.75,5204:456:2,0.03
+Anchoa,tricolor,-26.25,-48.25,5204:468:1,0.10
+Anchoa,tricolor,-27.75,-47.75,5204:477:4,0.06
+Anchoa,tricolor,-29.25,-48.75,5204:498:2,0.08
+Anchoa,tricolor,-29.75,-51.25,5205:391:3,0.10
+Anchoa,tricolor,-30.75,-49.25,5304:209:3,0.12
+Anchoa,tricolor,-32.25,-50.75,5305:120:2,0.12
+Anchoa,tricolor,-35.25,-54.25,5305:354:1,0.05
+Anchoa,tricolor,-35.25,-54.75,5305:354:2,0.16
+Anchoa,tricolor,-35.25,-55.25,5305:455:1,0.19
+Anchoa,tricolor,-35.75,-55.75,5305:455:4,0.17
+Anchoa,tricolor,-35.25,-56.25,5305:456:1,0.18
+Anchoa,tricolor,-35.75,-56.75,5305:456:4,0.04
+Anchoa,tricolor,-2.75,-40.25,5004:120:3,0.20
+Anchoa,tricolor,-2.25,-44.75,5004:124:2,0.33
+Anchoa,tricolor,-3.25,-44.75,5004:134:2,0.34
+Anchoa,tricolor,-12.75,-38.25,5103:228:3,0.39
+Anchoa,tricolor,-13.75,-39.25,5103:239:3,0.20
+Anchoa,tricolor,-14.25,-39.25,5103:249:1,0.38
+Anchoa,tricolor,-15.25,-39.25,5103:459:1,0.28
+Anchoa,tricolor,-17.75,-38.75,5103:478:4,0.32
+Anchoa,tricolor,-23.25,-41.25,5204:131:1,0.36
+Anchoa,tricolor,-24.75,-45.25,5204:245:3,0.25
+Anchoa,tricolor,-24.75,-46.25,5204:246:3,0.21
+Anchoa,tricolor,-25.25,-48.25,5204:458:1,0.24
+Anchoa,tricolor,-25.25,-48.75,5204:458:2,0.20
+Anchoa,tricolor,-30.75,-49.75,5304:209:4,0.33
+Anchoa,tricolor,-30.75,-50.75,5305:100:4,0.34
+Anchoa,tricolor,-30.25,-51.25,5305:101:1,0.24
+Anchoa,tricolor,-32.75,-50.75,5305:120:4,0.29
+Anchoa,tricolor,-32.75,-51.25,5305:121:3,0.25
+Anchoa,tricolor,-34.75,-54.25,5305:144:3,0.26
+Anchoa,tricolor,-34.75,-54.75,5305:144:4,0.36
+Anchoa,tricolor,-34.75,-55.25,5305:245:3,0.32
+Anchoa,tricolor,-34.75,-55.75,5305:245:4,0.24
+Anchoa,tricolor,-35.25,-55.75,5305:455:2,0.25
+Anchoa,tricolor,-35.75,-56.25,5305:456:3,0.21
+Anchoa,tricolor,-10.75,-37.25,5103:207:3,0.40
+Anchoa,tricolor,-12.25,-37.75,5103:227:2,0.40
+Anchoa,tricolor,-22.75,-40.75,5204:120:4,0.42
+Anchoa,tricolor,-24.25,-45.25,5204:245:1,0.46
+Anchoa,tricolor,-29.75,-49.25,5204:499:3,0.54
+Anchoa,tricolor,-31.25,-49.75,5304:219:2,0.46
+Anchoa,tricolor,-30.75,-51.25,5305:101:3,0.41
+Anchoa,tricolor,-31.25,-51.25,5305:111:1,0.54
+Anchoa,tricolor,-31.25,-51.75,5305:111:2,0.57
+Anchoa,tricolor,-34.75,-53.25,5305:143:3,0.53
+Anchoa,tricolor,-34.75,-53.75,5305:143:4,0.42
+Anchoa,tricolor,-9.25,-35.75,5003:495:2,0.60
+Anchoa,tricolor,-2.75,-43.75,5004:123:4,0.68
+Anchoa,tricolor,-13.25,-38.75,5103:238:2,0.79
+Anchoa,tricolor,-16.25,-39.25,5103:469:1,0.66
+Anchoa,tricolor,-25.75,-45.25,5204:455:3,0.65
+Anchoa,tricolor,-28.25,-48.25,5204:488:1,0.79
+Anchoa,tricolor,-30.25,-50.75,5305:100:2,0.61
+Anchoa,tricolor,-30.75,-50.25,5305:100:3,0.76
+Anchoa,tricolor,-31.25,-50.75,5305:110:2,0.71
+Anchoa,tricolor,-31.75,-51.25,5305:111:3,0.73
+Anchoa,tricolor,-34.25,-52.25,5305:142:1,0.75
+Anchoa,tricolor,-3.75,-38.75,5003:238:4,0.90
+Anchoa,tricolor,-3.25,-39.75,5003:239:2,0.88
+Anchoa,tricolor,-4.25,-37.75,5003:247:2,0.91
+Anchoa,tricolor,-4.75,-37.25,5003:247:3,0.90
+Anchoa,tricolor,-4.75,-37.75,5003:247:4,0.91
+Anchoa,tricolor,-4.25,-38.25,5003:248:1,0.90
+Anchoa,tricolor,-7.25,-34.75,5003:374:2,0.95
+Anchoa,tricolor,-7.75,-34.75,5003:374:4,0.85
+Anchoa,tricolor,-5.25,-36.75,5003:456:2,0.92
+Anchoa,tricolor,-8.75,-35.25,5003:485:3,1.00
+Anchoa,tricolor,-9.25,-35.25,5003:495:1,0.97
+Anchoa,tricolor,-9.75,-35.75,5003:495:4,0.98
+Anchoa,tricolor,-2.75,-40.75,5004:120:4,0.86
+Anchoa,tricolor,-2.75,-41.25,5004:121:3,0.85
+Anchoa,tricolor,-2.75,-41.75,5004:121:4,0.84
+Anchoa,tricolor,-2.25,-42.25,5004:122:1,0.86
+Anchoa,tricolor,-2.25,-42.75,5004:122:2,0.84
+Anchoa,tricolor,-2.75,-42.25,5004:122:3,0.83
+Anchoa,tricolor,-2.75,-42.75,5004:122:4,0.84
+Anchoa,tricolor,-2.25,-43.25,5004:123:1,0.84
+Anchoa,tricolor,-2.25,-43.75,5004:123:2,0.82
+Anchoa,tricolor,-2.25,-44.25,5004:124:1,0.80
+Anchoa,tricolor,-2.75,-44.25,5004:124:3,0.85
+Anchoa,tricolor,-2.75,-44.75,5004:124:4,0.84
+Anchoa,tricolor,-10.25,-35.75,5103:205:2,1.00
+Anchoa,tricolor,-10.25,-36.25,5103:206:1,1.00
+Anchoa,tricolor,-10.75,-36.25,5103:206:3,1.00
+Anchoa,tricolor,-10.75,-36.75,5103:206:4,1.00
+Anchoa,tricolor,-11.25,-36.75,5103:216:2,1.00
+Anchoa,tricolor,-11.25,-37.25,5103:217:1,1.00
+Anchoa,tricolor,-11.75,-37.25,5103:217:3,0.93
+Anchoa,tricolor,-11.75,-37.75,5103:217:4,0.96
+Anchoa,tricolor,-12.75,-38.75,5103:228:4,0.86
+Anchoa,tricolor,-14.75,-39.25,5103:249:3,0.90
+Anchoa,tricolor,-15.75,-38.75,5103:458:4,0.85
+Anchoa,tricolor,-16.25,-38.75,5103:468:2,0.87
+Anchoa,tricolor,-16.75,-39.25,5103:469:3,0.86
+Anchoa,tricolor,-17.25,-39.25,5103:479:1,0.95
+Anchoa,tricolor,-17.75,-39.25,5103:479:3,0.93
+Anchoa,tricolor,-18.25,-39.25,5103:489:1,0.91
+Anchoa,tricolor,-18.25,-39.75,5103:489:2,0.97
+Anchoa,tricolor,-18.75,-39.25,5103:489:3,0.87
+Anchoa,tricolor,-18.75,-39.75,5103:489:4,0.96
+Anchoa,tricolor,-19.25,-39.25,5103:499:1,0.88
+Anchoa,tricolor,-19.25,-39.75,5103:499:2,1.00
+Anchoa,tricolor,-19.75,-39.75,5103:499:4,1.00
+Anchoa,tricolor,-19.75,-40.25,5104:390:3,1.00
+Anchoa,tricolor,-20.25,-40.25,5204:100:1,1.00
+Anchoa,tricolor,-20.75,-40.25,5204:100:3,0.95
+Anchoa,tricolor,-20.75,-40.75,5204:100:4,1.00
+Anchoa,tricolor,-21.25,-40.25,5204:110:1,0.87
+Anchoa,tricolor,-21.25,-40.75,5204:110:2,1.00
+Anchoa,tricolor,-21.75,-40.25,5204:110:3,0.89
+Anchoa,tricolor,-21.75,-40.75,5204:110:4,1.00
+Anchoa,tricolor,-21.25,-41.25,5204:111:1,1.00
+Anchoa,tricolor,-21.75,-41.25,5204:111:3,0.80
+Anchoa,tricolor,-22.25,-40.25,5204:120:1,0.90
+Anchoa,tricolor,-22.25,-40.75,5204:120:2,1.00
+Anchoa,tricolor,-22.25,-41.25,5204:121:1,1.00
+Anchoa,tricolor,-22.25,-41.75,5204:121:2,1.00
+Anchoa,tricolor,-22.75,-41.25,5204:121:3,0.83
+Anchoa,tricolor,-22.75,-41.75,5204:121:4,1.00
+Anchoa,tricolor,-22.75,-42.25,5204:122:3,1.00
+Anchoa,tricolor,-22.75,-42.75,5204:122:4,1.00
+Anchoa,tricolor,-22.75,-43.25,5204:123:3,1.00
+Anchoa,tricolor,-22.75,-43.75,5204:123:4,1.00
+Anchoa,tricolor,-22.75,-44.25,5204:124:3,1.00
+Anchoa,tricolor,-23.25,-41.75,5204:131:2,1.00
+Anchoa,tricolor,-23.25,-42.75,5204:132:2,1.00
+Anchoa,tricolor,-23.25,-43.25,5204:133:1,1.00
+Anchoa,tricolor,-23.25,-43.75,5204:133:2,0.89
+Anchoa,tricolor,-23.25,-44.25,5204:134:1,1.00
+Anchoa,tricolor,-23.25,-44.75,5204:134:2,1.00
+Anchoa,tricolor,-23.75,-44.75,5204:134:4,1.00
+Anchoa,tricolor,-23.25,-45.25,5204:235:1,1.00
+Anchoa,tricolor,-23.75,-45.25,5204:235:3,1.00
+Anchoa,tricolor,-23.75,-45.75,5204:235:4,1.00
+Anchoa,tricolor,-23.75,-46.25,5204:236:3,1.00
+Anchoa,tricolor,-24.25,-45.75,5204:245:2,1.00
+Anchoa,tricolor,-24.75,-45.75,5204:245:4,0.96
+Anchoa,tricolor,-24.25,-46.25,5204:246:1,1.00
+Anchoa,tricolor,-24.25,-46.75,5204:246:2,1.00
+Anchoa,tricolor,-24.75,-46.75,5204:246:4,0.95
+Anchoa,tricolor,-24.25,-47.25,5204:247:1,1.00
+Anchoa,tricolor,-25.25,-45.25,5204:455:1,1.00
+Anchoa,tricolor,-25.75,-45.75,5204:455:4,1.00
+Anchoa,tricolor,-25.75,-48.25,5204:458:3,1.00
+Anchoa,tricolor,-25.75,-48.75,5204:458:4,1.00
+Anchoa,tricolor,-26.25,-48.75,5204:468:2,1.00
+Anchoa,tricolor,-26.75,-48.25,5204:468:3,1.00
+Anchoa,tricolor,-26.75,-48.75,5204:468:4,1.00
+Anchoa,tricolor,-27.25,-48.25,5204:478:1,1.00
+Anchoa,tricolor,-27.25,-48.75,5204:478:2,1.00
+Anchoa,tricolor,-27.75,-48.25,5204:478:3,1.00
+Anchoa,tricolor,-27.75,-48.75,5204:478:4,1.00
+Anchoa,tricolor,-28.25,-48.75,5204:488:2,1.00
+Anchoa,tricolor,-28.75,-48.75,5204:488:4,1.00
+Anchoa,tricolor,-28.75,-49.25,5204:489:3,1.00
+Anchoa,tricolor,-29.25,-49.25,5204:499:1,1.00
+Anchoa,tricolor,-29.25,-49.75,5204:499:2,1.00
+Anchoa,tricolor,-29.75,-49.75,5204:499:4,1.00
+Anchoa,tricolor,-29.75,-50.25,5205:390:3,1.00
+Anchoa,tricolor,-30.25,-49.75,5304:209:2,1.00
+Anchoa,tricolor,-30.25,-50.25,5305:100:1,0.86
+Anchoa,tricolor,-31.25,-50.25,5305:110:1,1.00
+Anchoa,tricolor,-31.75,-50.75,5305:110:4,1.00
+Anchoa,tricolor,-31.75,-51.75,5305:111:4,0.82
+Anchoa,tricolor,-31.75,-52.25,5305:112:3,1.00
+Anchoa,tricolor,-32.25,-50.25,5305:120:1,1.00
+Anchoa,tricolor,-32.25,-51.25,5305:121:1,1.00
+Anchoa,tricolor,-32.25,-51.75,5305:121:2,1.00
+Anchoa,tricolor,-32.75,-51.75,5305:121:4,1.00
+Anchoa,tricolor,-32.25,-52.25,5305:122:1,1.00
+Anchoa,tricolor,-32.75,-52.25,5305:122:3,1.00
+Anchoa,tricolor,-32.75,-52.75,5305:122:4,1.00
+Anchoa,tricolor,-33.25,-51.75,5305:131:2,1.00
+Anchoa,tricolor,-33.75,-51.75,5305:131:4,1.00
+Anchoa,tricolor,-33.25,-52.25,5305:132:1,1.00
+Anchoa,tricolor,-33.25,-52.75,5305:132:2,1.00
+Anchoa,tricolor,-33.75,-52.25,5305:132:3,0.90
+Anchoa,tricolor,-33.75,-52.75,5305:132:4,1.00
+Anchoa,tricolor,-33.25,-53.25,5305:133:1,1.00
+Anchoa,tricolor,-33.75,-53.25,5305:133:3,1.00
+Anchoa,tricolor,-33.75,-53.75,5305:133:4,0.94
+Anchoa,tricolor,-34.25,-51.75,5305:141:2,1.00
+Anchoa,tricolor,-34.25,-52.75,5305:142:2,0.82
+Anchoa,tricolor,-34.75,-52.75,5305:142:4,1.00
+Anchoa,tricolor,-34.25,-53.25,5305:143:1,1.00
+Anchoa,tricolor,-34.25,-53.75,5305:143:2,0.81
+Anchoa,tricolor,-35.25,-52.75,5305:352:2,0.83
+Anchoa,tricolor,-36.25,-53.25,5305:363:1,0.92
+
+
+Occurrence cells used for creating environmental envelope (n = 12)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Anchoa,tricolor,-34.75,-54.25,5305:144:3,28,17.0333423614502,14.3929090499878,30.0413799285889,33.8714141845703,41.5120013058186,0,264.93505859375,16
+Anchoa,tricolor,-34.75,-56.25,5305:246:3,10,17.3701267242432,17.3003711700439,13.5246591567993,30.3671436309814,28.920264914631797,0,277.425567626953,9
+Anchoa,tricolor,-25.75,-48.25,5204:458:3,18,22.7911739349365,22.2867221832275,35.2766494750977,35.5703926086426,6.36699981987476,0,228.98747253418,24
+Anchoa,tricolor,-25.25,-48.25,5204:458:1,17,22.8277797698975,23.0540752410889,35.2464752197266,35.006534576416,5.61399990692735,0,219.718170166016,12
+Anchoa,tricolor,-23.75,-45.25,5204:235:3,49,23.4450225830078,23.2343921661377,36.041389465332,36.0944137573242,20.354000851512,0,225.427963256836,19
+Anchoa,tricolor,-23.25,-43.25,5204:133:1,74,23.290828704834,18.6904163360596,36.445182800293,36.3862953186035,32.2460010647774,0,208.602355957031,86
+Anchoa,tricolor,-23.25,-45.25,5204:235:1,4,23.6248455047607,22.7601470947266,35.9193458557129,35.9937934875488,21.8593087047338,0,221.788772583008,1
+Anchoa,tricolor,-22.75,-43.25,5204:123:3,8,23.478328704834,23.6685886383057,36.3115234375,36.185131072998,34.5759987831116,0,218.437240600586,8
+Anchoa,tricolor,-20.25,-40.25,5204:100:1,24,24.5211296081543,25.3599395751953,36.7593421936035,37.0190353393555,12.214000336825801,0,209.064666748047,14
+Anchoa,tricolor,-13.75,-39.25,5103:239:3,1,26.7344455718994,19.9028415679932,36.8418998718262,36.3443298339844,7.08469608798623,0,208.974807739258,1
+Anchoa,tricolor,-8.75,-35.25,5003:485:3,8,27.3588562011719,26.2568244934082,36.7975807189941,36.5816230773926,9.12074744701385,0,203.448577880859,6
+Anchoa,tricolor,-4.75,-37.25,5003:247:3,17,27.7638740539551,27.6566143035889,35.807300567627,36.1932029724121,8.58100038021803,0,201.216186523438,15

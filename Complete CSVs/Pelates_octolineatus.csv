@@ -1,0 +1,193 @@
+Mapping parameters for Pelates octolineatus (Western striped grunter)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 57,
+Bounding Box (NSWE): ,,-26,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,6,26,50
+Temperature (°C),1,19.14,22.67,25.28,29.48
+Salinity (psu),1,33.85,34.35,35.35,35.95
+Primary Production (mgC·m-3·day-1) ,1,1.78,4.02,6.02,8.25
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,196.18,209.18,218.76,231.11
+Distance to Land (km),0,5,8.9,20,27.875
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 153): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Pelates,octolineatus,-9.75,128.25,3012:498:3,0.03
+Pelates,octolineatus,-9.75,128.75,3012:498:4,0.02
+Pelates,octolineatus,-11.25,104.75,3110:114:2,0.09
+Pelates,octolineatus,-10.25,105.75,3110:205:2,0.10
+Pelates,octolineatus,-10.75,105.75,3110:205:4,0.10
+Pelates,octolineatus,-16.75,119.75,3111:469:4,0.02
+Pelates,octolineatus,-17.25,118.75,3111:478:2,0.01
+Pelates,octolineatus,-17.75,118.75,3111:478:4,0.15
+Pelates,octolineatus,-17.25,119.25,3111:479:1,0.04
+Pelates,octolineatus,-17.25,119.75,3111:479:2,0.08
+Pelates,octolineatus,-17.75,119.25,3111:479:3,0.15
+Pelates,octolineatus,-18.75,117.75,3111:487:4,0.14
+Pelates,octolineatus,-18.75,118.75,3111:488:4,0.16
+Pelates,octolineatus,-18.75,119.75,3111:489:4,0.16
+Pelates,octolineatus,-19.25,117.75,3111:497:2,0.15
+Pelates,octolineatus,-19.75,119.25,3111:499:3,0.16
+Pelates,octolineatus,-19.75,119.75,3111:499:4,0.19
+Pelates,octolineatus,-11.75,123.25,3112:113:3,0.01
+Pelates,octolineatus,-12.25,122.75,3112:122:2,0.04
+Pelates,octolineatus,-12.25,123.25,3112:123:1,0.04
+Pelates,octolineatus,-12.25,123.75,3112:123:2,0.04
+Pelates,octolineatus,-12.75,123.75,3112:123:4,0.06
+Pelates,octolineatus,-12.25,124.25,3112:124:1,0.03
+Pelates,octolineatus,-12.75,124.75,3112:124:4,0.01
+Pelates,octolineatus,-13.75,121.75,3112:131:4,0.04
+Pelates,octolineatus,-13.75,122.25,3112:132:3,0.04
+Pelates,octolineatus,-14.25,121.75,3112:141:2,0.05
+Pelates,octolineatus,-14.25,122.25,3112:142:1,0.07
+Pelates,octolineatus,-14.75,122.25,3112:142:3,0.03
+Pelates,octolineatus,-14.75,122.75,3112:142:4,0.14
+Pelates,octolineatus,-14.25,123.75,3112:143:2,0.13
+Pelates,octolineatus,-14.75,123.75,3112:143:4,0.14
+Pelates,octolineatus,-14.25,124.25,3112:144:1,0.11
+Pelates,octolineatus,-14.75,124.25,3112:144:3,0.19
+Pelates,octolineatus,-14.75,124.75,3112:144:4,0.08
+Pelates,octolineatus,-10.25,126.75,3112:206:2,0.01
+Pelates,octolineatus,-10.75,126.25,3112:206:3,0.01
+Pelates,octolineatus,-10.75,126.75,3112:206:4,0.02
+Pelates,octolineatus,-10.25,127.25,3112:207:1,0.02
+Pelates,octolineatus,-10.25,127.75,3112:207:2,0.02
+Pelates,octolineatus,-10.75,127.25,3112:207:3,0.02
+Pelates,octolineatus,-10.75,127.75,3112:207:4,0.02
+Pelates,octolineatus,-10.25,128.25,3112:208:1,0.03
+Pelates,octolineatus,-10.25,128.75,3112:208:2,0.04
+Pelates,octolineatus,-10.75,128.25,3112:208:3,0.01
+Pelates,octolineatus,-10.75,128.75,3112:208:4,0.08
+Pelates,octolineatus,-11.25,125.75,3112:215:2,0.01
+Pelates,octolineatus,-11.75,125.25,3112:215:3,0.02
+Pelates,octolineatus,-11.25,126.25,3112:216:1,0.01
+Pelates,octolineatus,-11.25,126.75,3112:216:2,0.01
+Pelates,octolineatus,-11.75,126.25,3112:216:3,0.01
+Pelates,octolineatus,-11.75,126.75,3112:216:4,0.02
+Pelates,octolineatus,-11.75,127.25,3112:217:3,0.01
+Pelates,octolineatus,-11.25,128.25,3112:218:1,0.03
+Pelates,octolineatus,-11.25,128.75,3112:218:2,0.10
+Pelates,octolineatus,-11.75,128.75,3112:218:4,0.05
+Pelates,octolineatus,-13.25,125.75,3112:235:2,0.12
+Pelates,octolineatus,-13.75,125.25,3112:235:3,0.17
+Pelates,octolineatus,-13.25,126.25,3112:236:1,0.15
+Pelates,octolineatus,-13.25,126.75,3112:236:2,0.15
+Pelates,octolineatus,-13.75,126.25,3112:236:3,0.06
+Pelates,octolineatus,-13.25,127.25,3112:237:1,0.11
+Pelates,octolineatus,-13.25,128.75,3112:238:2,0.12
+Pelates,octolineatus,-13.75,128.75,3112:238:4,0.17
+Pelates,octolineatus,-14.25,125.25,3112:245:1,0.06
+Pelates,octolineatus,-14.25,127.75,3112:247:2,0.16
+Pelates,octolineatus,-14.25,128.25,3112:248:1,0.10
+Pelates,octolineatus,-14.25,128.75,3112:248:2,0.13
+Pelates,octolineatus,-15.25,121.75,3112:351:2,0.13
+Pelates,octolineatus,-15.75,121.25,3112:351:3,0.12
+Pelates,octolineatus,-15.75,121.75,3112:351:4,0.15
+Pelates,octolineatus,-15.25,122.25,3112:352:1,0.16
+Pelates,octolineatus,-15.25,122.75,3112:352:2,0.11
+Pelates,octolineatus,-15.75,122.25,3112:352:3,0.18
+Pelates,octolineatus,-15.75,123.25,3112:353:3,0.16
+Pelates,octolineatus,-15.75,123.75,3112:353:4,0.11
+Pelates,octolineatus,-16.25,121.25,3112:361:1,0.19
+Pelates,octolineatus,-16.75,122.25,3112:362:3,0.07
+Pelates,octolineatus,-17.75,121.75,3112:371:4,0.13
+Pelates,octolineatus,-18.75,120.25,3112:380:3,0.04
+Pelates,octolineatus,-18.25,121.75,3112:381:2,0.18
+Pelates,octolineatus,-19.75,120.75,3112:390:4,0.13
+Pelates,octolineatus,-19.75,121.25,3112:391:3,0.04
+Pelates,octolineatus,-24.25,112.75,3211:142:2,0.06
+Pelates,octolineatus,-20.75,115.75,3211:205:4,0.12
+Pelates,octolineatus,-20.75,116.75,3211:206:4,0.10
+Pelates,octolineatus,-20.75,117.25,3211:207:3,0.18
+Pelates,octolineatus,-20.75,117.75,3211:207:4,0.17
+Pelates,octolineatus,-20.25,118.25,3211:208:1,0.08
+Pelates,octolineatus,-20.25,118.75,3211:208:2,0.04
+Pelates,octolineatus,-20.25,119.25,3211:209:1,0.17
+Pelates,octolineatus,-19.75,116.25,3111:496:3,0.20
+Pelates,octolineatus,-19.75,116.75,3111:496:4,0.22
+Pelates,octolineatus,-14.25,124.75,3112:144:2,0.21
+Pelates,octolineatus,-13.75,125.75,3112:235:4,0.30
+Pelates,octolineatus,-13.75,127.25,3112:237:3,0.20
+Pelates,octolineatus,-13.75,127.75,3112:237:4,0.20
+Pelates,octolineatus,-15.75,122.75,3112:352:4,0.26
+Pelates,octolineatus,-15.25,123.25,3112:353:1,0.24
+Pelates,octolineatus,-15.25,123.75,3112:353:2,0.21
+Pelates,octolineatus,-16.25,121.75,3112:361:2,0.23
+Pelates,octolineatus,-16.75,121.25,3112:361:3,0.27
+Pelates,octolineatus,-16.25,122.25,3112:362:1,0.35
+Pelates,octolineatus,-16.25,122.75,3112:362:2,0.27
+Pelates,octolineatus,-18.75,121.25,3112:381:3,0.39
+Pelates,octolineatus,-19.25,120.25,3112:390:1,0.30
+Pelates,octolineatus,-19.75,120.25,3112:390:3,0.23
+Pelates,octolineatus,-24.75,112.75,3211:142:4,0.37
+Pelates,octolineatus,-20.25,119.75,3211:209:2,0.22
+Pelates,octolineatus,-25.25,112.75,3211:352:2,0.36
+Pelates,octolineatus,-25.75,112.75,3211:352:4,0.34
+Pelates,octolineatus,-19.25,116.75,3111:496:2,0.50
+Pelates,octolineatus,-19.25,118.25,3111:498:1,0.55
+Pelates,octolineatus,-19.25,118.75,3111:498:2,0.42
+Pelates,octolineatus,-19.75,118.75,3111:498:4,0.47
+Pelates,octolineatus,-19.25,119.25,3111:499:1,0.57
+Pelates,octolineatus,-19.25,119.75,3111:499:2,0.51
+Pelates,octolineatus,-16.75,121.75,3112:361:4,0.40
+Pelates,octolineatus,-17.25,121.75,3112:371:2,0.41
+Pelates,octolineatus,-19.25,120.75,3112:390:2,0.40
+Pelates,octolineatus,-23.25,113.25,3211:133:1,0.57
+Pelates,octolineatus,-24.25,113.25,3211:143:1,0.43
+Pelates,octolineatus,-20.25,117.75,3211:207:2,0.48
+Pelates,octolineatus,-21.25,115.75,3211:215:2,0.44
+Pelates,octolineatus,-25.25,113.25,3211:353:1,0.56
+Pelates,octolineatus,-19.75,117.25,3111:497:3,0.61
+Pelates,octolineatus,-19.75,117.75,3111:497:4,0.63
+Pelates,octolineatus,-19.75,118.25,3111:498:3,0.64
+Pelates,octolineatus,-21.75,113.75,3211:113:4,0.79
+Pelates,octolineatus,-23.75,113.25,3211:133:3,0.60
+Pelates,octolineatus,-20.25,115.25,3211:205:1,0.69
+Pelates,octolineatus,-20.25,115.75,3211:205:2,0.75
+Pelates,octolineatus,-20.25,116.25,3211:206:1,0.73
+Pelates,octolineatus,-20.25,116.75,3211:206:2,0.67
+Pelates,octolineatus,-20.25,117.25,3211:207:1,0.60
+Pelates,octolineatus,-21.25,114.75,3211:114:2,0.84
+Pelates,octolineatus,-21.75,114.25,3211:114:3,0.97
+Pelates,octolineatus,-21.75,114.75,3211:114:4,0.95
+Pelates,octolineatus,-22.25,113.75,3211:123:2,0.86
+Pelates,octolineatus,-22.75,113.75,3211:123:4,1.00
+Pelates,octolineatus,-22.25,114.25,3211:124:1,1.00
+Pelates,octolineatus,-22.25,114.75,3211:124:2,0.80
+Pelates,octolineatus,-23.25,113.75,3211:133:2,1.00
+Pelates,octolineatus,-23.75,113.75,3211:133:4,1.00
+Pelates,octolineatus,-24.75,113.25,3211:143:3,0.89
+Pelates,octolineatus,-24.75,113.75,3211:143:4,1.00
+Pelates,octolineatus,-20.75,115.25,3211:205:3,0.81
+Pelates,octolineatus,-21.25,115.25,3211:215:1,0.88
+Pelates,octolineatus,-21.75,115.25,3211:215:3,0.97
+Pelates,octolineatus,-25.25,113.75,3211:353:2,1.00
+Pelates,octolineatus,-25.75,113.25,3211:353:3,0.93
+Pelates,octolineatus,-25.75,113.75,3211:353:4,0.99
+Pelates,octolineatus,-25.75,114.25,3211:354:3,0.95
+
+
+Occurrence cells used for creating environmental envelope (n = 4)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Pelates,octolineatus,-25.75,113.75,3211:353:4,3,22.6429748535156,22.4375419616699,35.2008018493652,35.3758239746094,4.24699997529387,0,219.260223388672,20
+Pelates,octolineatus,-25.25,113.75,3211:353:2,7,22.7432250976563,22.6970863342285,35.186393737793,35.3416023254395,4.0830001235008195,0,217.592010498047,20
+Pelates,octolineatus,-22.25,114.25,3211:124:1,27,25.0009422302246,25.2185611724854,34.7759475708008,34.9997062683105,5.96000021323562,0,209.113006591797,18
+Pelates,octolineatus,-21.75,115.25,3211:215:3,4,25.4045219421387,25.3940773010254,34.3939971923828,35.0520629882813,5.7774796150624805,0,209.332000732422,5

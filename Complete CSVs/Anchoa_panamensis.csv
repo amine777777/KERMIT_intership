@@ -1,0 +1,68 @@
+Mapping parameters for Anchoa panamensis (Panama anchovy)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77 |  87,
+Bounding Box (NSWE): ,10,5,-82,-77
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,5,26,50
+Temperature (°C),1,27.11,27.61,28.4,32.6
+Salinity (psu),1,29.96,30.46,31.21,31.71
+Primary Production (mgC·m-3·day-1) ,1,19.31,24.44,39.78,45.79
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,34.92,59.59,207.47,357.98
+Distance to Land (km),0,11.5,14.8,22.6,25
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 27): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Anchoa,panamensis,7.25,-79.75,7007:479:2,0.09
+Anchoa,panamensis,7.25,-77.75,7007:477:2,0.07
+Anchoa,panamensis,7.75,-79.75,7007:479:4,0.30
+Anchoa,panamensis,7.75,-78.75,7007:478:4,0.39
+Anchoa,panamensis,6.75,-77.75,7007:467:4,0.32
+Anchoa,panamensis,8.25,-79.25,7007:489:1,0.59
+Anchoa,panamensis,7.75,-78.25,7007:478:3,0.50
+Anchoa,panamensis,7.25,-78.25,7007:478:1,0.56
+Anchoa,panamensis,6.75,-77.25,7007:467:3,0.44
+Anchoa,panamensis,7.75,-81.75,7008:371:4,0.77
+Anchoa,panamensis,7.25,-81.75,7008:371:2,0.79
+Anchoa,panamensis,8.75,-78.25,7007:488:3,0.65
+Anchoa,panamensis,8.25,-78.25,7007:488:1,0.77
+Anchoa,panamensis,6.25,-77.25,7007:467:1,0.79
+Anchoa,panamensis,5.25,-77.25,7007:457:1,0.64
+Anchoa,panamensis,8.25,-80.25,7008:380:1,1.00
+Anchoa,panamensis,7.75,-81.25,7008:371:3,1.00
+Anchoa,panamensis,7.25,-81.25,7008:371:1,0.84
+Anchoa,panamensis,7.75,-80.75,7008:370:4,1.00
+Anchoa,panamensis,7.75,-80.25,7008:370:3,1.00
+Anchoa,panamensis,7.25,-80.75,7008:370:2,1.00
+Anchoa,panamensis,7.25,-80.25,7008:370:1,0.88
+Anchoa,panamensis,8.75,-79.75,7007:489:4,0.94
+Anchoa,panamensis,8.75,-79.25,7007:489:3,0.87
+Anchoa,panamensis,8.25,-79.75,7007:489:2,0.89
+Anchoa,panamensis,8.25,-78.75,7007:488:2,0.84
+Anchoa,panamensis,5.75,-77.25,7007:457:3,0.90
+
+
+Occurrence cells used for creating environmental envelope (n = 5)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Anchoa,panamensis,7.75,-81.75,7008:371:4,106,28.4573020935059,24.4803943634033,31.3219623565674,33.4473037719727,26.181999593973202,0,166.756622314453,25
+Anchoa,panamensis,8.25,-78.25,7007:488:1,28,27.7920055389404,14.8876419067383,30.6465911865234,35.4504661560059,23.2844557613134,0,96.6063766479492,16
+Anchoa,panamensis,8.25,-80.25,7008:380:1,17,27.7641830444336,27.0561046600342,30.7811527252197,33.8444480895996,27.7110002934933,0,201.156265258789,18
+Anchoa,panamensis,8.75,-78.75,7007:488:4,88,27.6476306915283,14.8313617706299,30.9423179626465,35.3168601989746,45.7919985055923,0,34.9155578613281,19
+Anchoa,panamensis,8.75,-79.75,7007:489:4,23,27.5814514160156,27.6392459869385,31.047643661499,34.2106781005859,30.7609997689724,0,211.67448425293,14

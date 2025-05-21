@@ -1,0 +1,76 @@
+Mapping parameters for Gaidropsarus guttatus (Spotted rockling)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 27 |  34,
+Bounding Box (NSWE): ,40,27,-32,-13
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,5,5,8,10
+Temperature (°C),1,17.52,18.7,20.7,21.2
+Salinity (psu),1,35.44,35.94,36.7,37.2
+Primary Production (mgC·m-3·day-1) ,1,-0.4,0.6,4.01,8.42
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,119.74,189.57,250.65,311.18
+Distance to Land (km),0,18,19,89,192.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 29): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Gaidropsarus,guttatus,28.25,-15.75,7201:485:2,0.04
+Gaidropsarus,guttatus,27.75,-15.75,7201:475:4,0.04
+Gaidropsarus,guttatus,30.25,-15.75,7301:205:2,0.31
+Gaidropsarus,guttatus,28.25,-15.25,7201:485:1,0.22
+Gaidropsarus,guttatus,32.75,-17.25,7301:227:3,0.58
+Gaidropsarus,guttatus,27.75,-15.25,7201:475:3,0.46
+Gaidropsarus,guttatus,33.25,-16.25,7301:236:1,0.64
+Gaidropsarus,guttatus,32.75,-16.75,7301:226:4,0.61
+Gaidropsarus,guttatus,32.75,-16.25,7301:226:3,0.62
+Gaidropsarus,guttatus,29.25,-13.75,7201:393:2,0.75
+Gaidropsarus,guttatus,28.75,-14.25,7201:384:3,0.63
+Gaidropsarus,guttatus,39.75,-31.25,7303:391:3,1.00
+Gaidropsarus,guttatus,39.25,-31.25,7303:391:1,1.00
+Gaidropsarus,guttatus,39.25,-28.25,7302:498:1,0.95
+Gaidropsarus,guttatus,39.25,-27.75,7302:497:2,0.89
+Gaidropsarus,guttatus,38.75,-28.75,7302:488:4,1.00
+Gaidropsarus,guttatus,38.75,-28.25,7302:488:3,1.00
+Gaidropsarus,guttatus,38.25,-28.25,7302:488:1,1.00
+Gaidropsarus,guttatus,38.75,-27.75,7302:487:4,0.93
+Gaidropsarus,guttatus,38.75,-27.25,7302:487:3,0.98
+Gaidropsarus,guttatus,38.25,-27.75,7302:487:2,1.00
+Gaidropsarus,guttatus,37.75,-25.75,7302:475:4,1.00
+Gaidropsarus,guttatus,37.75,-25.25,7302:475:3,1.00
+Gaidropsarus,guttatus,37.25,-25.25,7302:475:1,1.00
+Gaidropsarus,guttatus,36.75,-25.25,7302:465:3,1.00
+Gaidropsarus,guttatus,29.25,-13.25,7201:393:1,0.99
+Gaidropsarus,guttatus,28.25,-14.25,7201:384:1,0.92
+Gaidropsarus,guttatus,28.75,-13.75,7201:383:4,1.00
+Gaidropsarus,guttatus,28.25,-13.75,7201:383:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 11)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Gaidropsarus,guttatus,28.25,-14.25,7201:384:1,874,20.7380046844482,20.6121768951416,36.6969375610352,36.6449775695801,0.60299999313429,0,226.862121582031,21
+Gaidropsarus,guttatus,32.75,-17.25,7301:227:3,2290,20.6987972259521,5.77242088317871,36.7621688842773,35.4669570922852,0.257999985478818,0,237.407867431641,21
+Gaidropsarus,guttatus,36.75,-24.25,7302:364:3,3749,19.6480846405029,2.37648892402649,36.3827590942383,34.9307556152344,0.998000032268465,0,250.646926879883,134
+Gaidropsarus,guttatus,37.25,-24.75,7302:374:2,1586,19.3626079559326,7.88443183898926,36.3102607727051,35.6073150634766,1.63700000848621,0,212.074569702148,89
+Gaidropsarus,guttatus,37.25,-25.75,7302:475:2,1891,19.4722175598145,9.7130823135376,36.3162651062012,35.5268592834473,1.5670000575482799,0,189.341247558594,89
+Gaidropsarus,guttatus,38.25,-28.25,7302:488:1,1409,19.1479034423828,4.32575798034668,36.2048988342285,35.0079803466797,3.96500015631318,0,265.860778808594,20
+Gaidropsarus,guttatus,38.25,-28.75,7302:488:2,942,19.2042980194092,5.88980579376221,36.2222480773926,35.2924461364746,3.70700005441904,0,239.300308227539,87
+Gaidropsarus,guttatus,38.75,-27.25,7302:487:3,910,18.6789436340332,6.47983360290527,36.1616554260254,35.2040252685547,4.0114019066095405,0,234.104766845703,19
+Gaidropsarus,guttatus,38.75,-27.75,7302:487:4,1246,18.7044773101807,5.79414701461792,36.1736869812012,35.1879730224609,4.32300008833408,0,239.394332885742,21
+Gaidropsarus,guttatus,38.75,-28.25,7302:488:3,983,18.7956161499023,12.2129192352295,36.186336517334,35.6113128662109,3.96100012585521,0,191.534164428711,19
+Gaidropsarus,guttatus,38.75,-28.75,7302:488:4,1120,18.8956890106201,10.51833152771,36.2009963989258,35.5180397033691,3.70300002396107,0,189.566604614258,21

@@ -1,0 +1,117 @@
+Mapping parameters for Lutjanus alexandrei ()
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 41,
+Bounding Box (NSWE): ,-1,-18,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,5,28,54
+Temperature (°C),1,25.52,26.24,27.67,31.87
+Salinity (psu),1,35.61,36.11,37.11,37.83
+Primary Production (mgC·m-3·day-1) ,1,1.84,4.59,8.21,11.13
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,200.32,201.95,205.99,207.58
+Distance to Land (km),0,11,12.2,62.5,79
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 77): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Lutjanus,alexandrei,-2.25,-39.75,5003:229:2,0.01
+Lutjanus,alexandrei,-2.75,-39.25,5003:229:3,0.11
+Lutjanus,alexandrei,-3.75,-37.75,5003:237:4,0.07
+Lutjanus,alexandrei,-3.25,-38.25,5003:238:1,0.03
+Lutjanus,alexandrei,-4.75,-35.75,5003:245:4,0.01
+Lutjanus,alexandrei,-4.75,-36.25,5003:246:3,0.13
+Lutjanus,alexandrei,-9.25,-34.75,5003:394:2,0.09
+Lutjanus,alexandrei,-1.75,-42.75,5004:112:4,0.14
+Lutjanus,alexandrei,-1.25,-43.75,5004:113:2,0.11
+Lutjanus,alexandrei,-2.25,-40.25,5004:120:1,0.13
+Lutjanus,alexandrei,-2.25,-40.75,5004:120:2,0.18
+Lutjanus,alexandrei,-11.75,-37.75,5103:217:4,0.14
+Lutjanus,alexandrei,-15.75,-38.25,5103:458:3,0.03
+Lutjanus,alexandrei,-16.25,-38.25,5103:468:1,0.07
+Lutjanus,alexandrei,-3.25,-38.75,5003:238:2,0.32
+Lutjanus,alexandrei,-4.25,-37.25,5003:247:1,0.27
+Lutjanus,alexandrei,-4.75,-37.25,5003:247:3,0.34
+Lutjanus,alexandrei,-6.25,-34.75,5003:364:2,0.22
+Lutjanus,alexandrei,-1.75,-43.25,5004:113:3,0.31
+Lutjanus,alexandrei,-2.25,-41.25,5004:121:1,0.26
+Lutjanus,alexandrei,-2.25,-42.75,5004:122:2,0.34
+Lutjanus,alexandrei,-13.75,-39.25,5103:239:3,0.20
+Lutjanus,alexandrei,-14.25,-38.75,5103:248:2,0.31
+Lutjanus,alexandrei,-14.75,-38.75,5103:248:4,0.20
+Lutjanus,alexandrei,-17.75,-38.25,5103:478:3,0.31
+Lutjanus,alexandrei,-4.75,-37.75,5003:247:4,0.53
+Lutjanus,alexandrei,-8.75,-34.75,5003:384:4,0.55
+Lutjanus,alexandrei,-5.25,-35.25,5003:455:1,0.46
+Lutjanus,alexandrei,-5.25,-35.75,5003:455:2,0.55
+Lutjanus,alexandrei,-1.75,-43.75,5004:113:4,0.41
+Lutjanus,alexandrei,-1.25,-44.25,5004:114:1,0.54
+Lutjanus,alexandrei,-2.25,-41.75,5004:121:2,0.58
+Lutjanus,alexandrei,-2.25,-43.25,5004:123:1,0.51
+Lutjanus,alexandrei,-12.75,-37.75,5103:227:4,0.58
+Lutjanus,alexandrei,-13.25,-38.25,5103:238:1,0.42
+Lutjanus,alexandrei,-13.75,-38.75,5103:238:4,0.44
+Lutjanus,alexandrei,-14.25,-39.25,5103:249:1,0.40
+Lutjanus,alexandrei,-15.25,-38.75,5103:458:2,0.56
+Lutjanus,alexandrei,-15.25,-39.25,5103:459:1,0.40
+Lutjanus,alexandrei,-17.25,-38.75,5103:478:2,0.53
+Lutjanus,alexandrei,-17.75,-38.75,5103:478:4,0.56
+Lutjanus,alexandrei,-17.25,-39.25,5103:479:1,0.45
+Lutjanus,alexandrei,-17.75,-39.25,5103:479:3,0.52
+Lutjanus,alexandrei,-3.75,-38.25,5003:238:3,0.60
+Lutjanus,alexandrei,-4.25,-37.75,5003:247:2,0.64
+Lutjanus,alexandrei,-4.25,-38.25,5003:248:1,0.71
+Lutjanus,alexandrei,-5.75,-35.25,5003:455:3,0.63
+Lutjanus,alexandrei,-8.75,-35.25,5003:485:3,0.69
+Lutjanus,alexandrei,-2.75,-40.75,5004:120:4,0.79
+Lutjanus,alexandrei,-2.25,-42.25,5004:122:1,0.72
+Lutjanus,alexandrei,-12.25,-37.25,5103:227:1,0.78
+Lutjanus,alexandrei,-16.75,-38.75,5103:468:4,0.68
+Lutjanus,alexandrei,-16.75,-39.25,5103:469:3,0.74
+Lutjanus,alexandrei,-2.75,-39.75,5003:229:4,0.96
+Lutjanus,alexandrei,-3.75,-38.75,5003:238:4,0.80
+Lutjanus,alexandrei,-3.25,-39.25,5003:239:1,0.94
+Lutjanus,alexandrei,-3.25,-39.75,5003:239:2,0.85
+Lutjanus,alexandrei,-4.75,-36.75,5003:246:4,0.95
+Lutjanus,alexandrei,-6.75,-34.75,5003:364:4,1.00
+Lutjanus,alexandrei,-7.25,-34.75,5003:374:2,0.83
+Lutjanus,alexandrei,-7.75,-34.75,5003:374:4,1.00
+Lutjanus,alexandrei,-8.25,-34.75,5003:384:2,0.82
+Lutjanus,alexandrei,-5.25,-36.25,5003:456:1,1.00
+Lutjanus,alexandrei,-5.25,-36.75,5003:456:2,0.80
+Lutjanus,alexandrei,-6.25,-35.25,5003:465:1,1.00
+Lutjanus,alexandrei,-9.25,-35.25,5003:495:1,0.82
+Lutjanus,alexandrei,-9.75,-35.25,5003:495:3,1.00
+Lutjanus,alexandrei,-2.75,-40.25,5004:120:3,0.95
+Lutjanus,alexandrei,-11.75,-37.25,5103:217:3,1.00
+Lutjanus,alexandrei,-12.25,-37.75,5103:227:2,1.00
+Lutjanus,alexandrei,-12.75,-38.25,5103:228:3,0.97
+Lutjanus,alexandrei,-12.75,-38.75,5103:228:4,1.00
+Lutjanus,alexandrei,-13.25,-38.75,5103:238:2,1.00
+Lutjanus,alexandrei,-14.75,-39.25,5103:249:3,1.00
+Lutjanus,alexandrei,-15.75,-38.75,5103:458:4,0.97
+Lutjanus,alexandrei,-16.25,-38.75,5103:468:2,0.84
+Lutjanus,alexandrei,-16.25,-39.25,5103:469:1,0.94
+
+
+Occurrence cells used for creating environmental envelope (n = 4)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Lutjanus,alexandrei,-17.75,-38.75,5103:478:4,32,25.9209766387939,25.9652633666992,37.0773277282715,37.2426910400391,5.73300011456013,0,206.748031616211,79
+Lutjanus,alexandrei,-12.75,-38.75,5103:228:4,7,26.9997692108154,26.8692569732666,37.1043357849121,37.1455001831055,7.33700022101402,0,203.65185546875,11
+Lutjanus,alexandrei,-8.25,-34.75,5003:384:2,131,27.4592361450195,26.9626865386963,36.8442039489746,36.6396865844727,4.09599998965859,0,204.229370117188,24
+Lutjanus,alexandrei,-4.75,-37.25,5003:247:3,17,27.7638740539551,27.6566143035889,35.807300567627,36.1932029724121,8.58100038021803,0,201.216186523438,15

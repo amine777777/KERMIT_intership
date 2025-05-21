@@ -1,0 +1,244 @@
+Mapping parameters for Robsonella fontaniana (small octopus)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO
+FAOAreas: 87,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,22,95,200
+Temperature (°C),1,11.03,12.73,18.4,20.86
+Salinity (psu),1,25.39,32.63,34.96,35.6
+Primary Production (mgC·m-3·day-1) ,1,1.09,9.79,84.7,116.5
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,5.58,55.07,176.68,220.13
+Distance to Land (km),0,1,2,292,1068
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 195): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Robsonella,fontaniana,-5.25,-80.75,5008:350:2,0.14
+Robsonella,fontaniana,-8.25,-80.25,5008:380:1,0.14
+Robsonella,fontaniana,-16.25,-72.75,5107:362:2,0.10
+Robsonella,fontaniana,-17.25,-71.75,5107:371:2,0.11
+Robsonella,fontaniana,-21.25,-81.75,5208:111:2,0.08
+Robsonella,fontaniana,-22.25,-81.25,5208:121:1,0.02
+Robsonella,fontaniana,-25.25,-81.75,5208:351:2,0.10
+Robsonella,fontaniana,-25.75,-82.25,5208:352:3,0.03
+Robsonella,fontaniana,-25.75,-84.25,5208:354:3,0.05
+Robsonella,fontaniana,-25.75,-85.25,5208:455:3,0.03
+Robsonella,fontaniana,-25.75,-86.75,5208:456:4,0.01
+Robsonella,fontaniana,-25.25,-87.25,5208:457:1,0.01
+Robsonella,fontaniana,-41.25,-72.25,5407:112:1,0.01
+Robsonella,fontaniana,-41.25,-72.75,5407:112:2,0.17
+Robsonella,fontaniana,-41.75,-72.25,5407:112:3,0.01
+Robsonella,fontaniana,-41.25,-73.25,5407:113:1,0.03
+Robsonella,fontaniana,-41.75,-73.25,5407:113:3,0.11
+Robsonella,fontaniana,-42.25,-72.25,5407:122:1,0.16
+Robsonella,fontaniana,-42.25,-72.75,5407:122:2,0.18
+Robsonella,fontaniana,-42.75,-72.75,5407:122:4,0.15
+Robsonella,fontaniana,-42.25,-73.25,5407:123:1,0.19
+Robsonella,fontaniana,-43.25,-72.75,5407:132:2,0.09
+Robsonella,fontaniana,-43.75,-72.75,5407:132:4,0.01
+Robsonella,fontaniana,-43.25,-74.25,5407:134:1,0.14
+Robsonella,fontaniana,-43.75,-74.75,5407:134:4,0.17
+Robsonella,fontaniana,-44.75,-75.25,5407:245:3,0.15
+Robsonella,fontaniana,-45.25,-75.25,5407:455:1,0.13
+Robsonella,fontaniana,-45.75,-75.25,5407:455:3,0.01
+Robsonella,fontaniana,-43.25,-97.75,5409:237:2,0.08
+Robsonella,fontaniana,-43.25,-98.25,5409:238:1,0.07
+Robsonella,fontaniana,-8.75,-79.75,5007:489:4,0.37
+Robsonella,fontaniana,-9.25,-79.75,5007:499:2,0.20
+Robsonella,fontaniana,-9.75,-79.25,5007:499:3,0.25
+Robsonella,fontaniana,-4.75,-81.25,5008:141:3,0.30
+Robsonella,fontaniana,-6.25,-80.75,5008:360:2,0.32
+Robsonella,fontaniana,-7.25,-80.75,5008:370:2,0.35
+Robsonella,fontaniana,-12.25,-77.75,5107:227:2,0.31
+Robsonella,fontaniana,-12.75,-77.25,5107:227:3,0.39
+Robsonella,fontaniana,-16.75,-72.25,5107:362:3,0.30
+Robsonella,fontaniana,-26.25,-79.75,5207:469:2,0.33
+Robsonella,fontaniana,-26.25,-80.25,5208:360:1,0.31
+Robsonella,fontaniana,-33.75,-77.75,5307:237:4,0.38
+Robsonella,fontaniana,-33.75,-78.75,5307:238:4,0.37
+Robsonella,fontaniana,-33.75,-79.25,5307:239:3,0.34
+Robsonella,fontaniana,-35.75,-73.25,5307:353:3,0.26
+Robsonella,fontaniana,-33.75,-80.75,5308:130:4,0.36
+Robsonella,fontaniana,-40.25,-74.25,5407:104:1,0.37
+Robsonella,fontaniana,-41.75,-73.75,5407:113:4,0.39
+Robsonella,fontaniana,-41.25,-74.25,5407:114:1,0.31
+Robsonella,fontaniana,-42.25,-73.75,5407:123:2,0.27
+Robsonella,fontaniana,-42.75,-74.25,5407:124:3,0.38
+Robsonella,fontaniana,-43.25,-74.75,5407:134:2,0.35
+Robsonella,fontaniana,-43.25,-75.25,5407:235:1,0.35
+Robsonella,fontaniana,-44.25,-75.25,5407:245:1,0.22
+Robsonella,fontaniana,-6.75,-79.75,5007:469:4,0.47
+Robsonella,fontaniana,-8.25,-78.75,5007:488:2,0.59
+Robsonella,fontaniana,-8.25,-79.75,5007:489:2,0.57
+Robsonella,fontaniana,-9.25,-79.25,5007:499:1,0.51
+Robsonella,fontaniana,-5.75,-80.75,5008:350:4,0.41
+Robsonella,fontaniana,-5.25,-81.25,5008:351:1,0.50
+Robsonella,fontaniana,-5.75,-81.25,5008:351:3,0.53
+Robsonella,fontaniana,-6.25,-80.25,5008:360:1,0.48
+Robsonella,fontaniana,-6.75,-80.75,5008:360:4,0.58
+Robsonella,fontaniana,-6.25,-81.25,5008:361:1,0.45
+Robsonella,fontaniana,-7.75,-80.25,5008:370:3,0.42
+Robsonella,fontaniana,-10.25,-78.75,5107:208:2,0.46
+Robsonella,fontaniana,-15.75,-73.75,5107:353:4,0.54
+Robsonella,fontaniana,-17.25,-71.25,5107:371:1,0.48
+Robsonella,fontaniana,-17.75,-71.25,5107:371:3,0.59
+Robsonella,fontaniana,-17.25,-72.25,5107:372:1,0.46
+Robsonella,fontaniana,-31.75,-71.25,5307:111:3,0.50
+Robsonella,fontaniana,-41.25,-73.75,5407:113:2,0.51
+Robsonella,fontaniana,-41.75,-74.25,5407:114:3,0.56
+Robsonella,fontaniana,-42.25,-74.25,5407:124:1,0.52
+Robsonella,fontaniana,-42.75,-74.75,5407:124:4,0.55
+Robsonella,fontaniana,-43.75,-75.25,5407:235:3,0.40
+Robsonella,fontaniana,-7.75,-79.25,5007:479:3,0.64
+Robsonella,fontaniana,-8.75,-78.75,5007:488:4,0.74
+Robsonella,fontaniana,-8.75,-79.25,5007:489:3,0.72
+Robsonella,fontaniana,-9.25,-78.25,5007:498:1,0.73
+Robsonella,fontaniana,-9.75,-78.75,5007:498:4,0.72
+Robsonella,fontaniana,-6.75,-80.25,5008:360:3,0.70
+Robsonella,fontaniana,-7.25,-80.25,5008:370:1,0.66
+Robsonella,fontaniana,-10.75,-78.25,5107:208:3,0.71
+Robsonella,fontaniana,-11.75,-77.25,5107:217:3,0.71
+Robsonella,fontaniana,-13.75,-76.75,5107:236:4,0.61
+Robsonella,fontaniana,-16.75,-72.75,5107:362:4,0.76
+Robsonella,fontaniana,-16.25,-73.25,5107:363:1,0.72
+Robsonella,fontaniana,-16.75,-73.25,5107:363:3,0.69
+Robsonella,fontaniana,-16.25,-74.25,5107:364:1,0.71
+Robsonella,fontaniana,-17.75,-70.75,5107:370:4,0.60
+Robsonella,fontaniana,-18.25,-70.25,5107:380:1,0.61
+Robsonella,fontaniana,-18.25,-70.75,5107:380:2,0.62
+Robsonella,fontaniana,-18.75,-70.25,5107:380:3,0.66
+Robsonella,fontaniana,-19.25,-70.25,5107:390:1,0.74
+Robsonella,fontaniana,-39.75,-73.25,5307:393:3,0.67
+Robsonella,fontaniana,-39.75,-73.75,5307:393:4,0.76
+Robsonella,fontaniana,-40.25,-73.75,5407:103:2,0.71
+Robsonella,fontaniana,-40.75,-73.75,5407:103:4,0.64
+Robsonella,fontaniana,-40.75,-74.25,5407:104:3,0.64
+Robsonella,fontaniana,-41.75,-74.75,5407:114:4,0.60
+Robsonella,fontaniana,-42.25,-74.75,5407:124:2,0.71
+Robsonella,fontaniana,-26.25,-70.75,5207:360:2,1.00
+Robsonella,fontaniana,-26.75,-70.75,5207:360:4,1.00
+Robsonella,fontaniana,-27.25,-70.75,5207:370:2,1.00
+Robsonella,fontaniana,-27.75,-70.75,5207:370:4,1.00
+Robsonella,fontaniana,-27.75,-71.25,5207:371:3,1.00
+Robsonella,fontaniana,-7.25,-79.75,5007:479:2,0.92
+Robsonella,fontaniana,-7.75,-79.75,5007:479:4,0.80
+Robsonella,fontaniana,-8.25,-79.25,5007:489:1,0.88
+Robsonella,fontaniana,-9.25,-78.75,5007:498:2,0.85
+Robsonella,fontaniana,-9.75,-78.25,5007:498:3,0.83
+Robsonella,fontaniana,-10.25,-77.75,5107:207:2,0.85
+Robsonella,fontaniana,-10.75,-77.75,5107:207:4,0.94
+Robsonella,fontaniana,-10.25,-78.25,5107:208:1,0.84
+Robsonella,fontaniana,-11.25,-77.25,5107:217:1,0.94
+Robsonella,fontaniana,-11.25,-77.75,5107:217:2,0.88
+Robsonella,fontaniana,-11.75,-77.75,5107:217:4,0.86
+Robsonella,fontaniana,-12.25,-76.75,5107:226:2,0.96
+Robsonella,fontaniana,-12.75,-76.25,5107:226:3,1.00
+Robsonella,fontaniana,-12.75,-76.75,5107:226:4,1.00
+Robsonella,fontaniana,-12.25,-77.25,5107:227:1,0.97
+Robsonella,fontaniana,-13.25,-76.25,5107:236:1,1.00
+Robsonella,fontaniana,-13.25,-76.75,5107:236:2,0.95
+Robsonella,fontaniana,-13.75,-76.25,5107:236:3,1.00
+Robsonella,fontaniana,-14.25,-75.75,5107:245:2,1.00
+Robsonella,fontaniana,-14.75,-75.25,5107:245:3,1.00
+Robsonella,fontaniana,-14.75,-75.75,5107:245:4,1.00
+Robsonella,fontaniana,-14.25,-76.25,5107:246:1,0.97
+Robsonella,fontaniana,-14.75,-76.25,5107:246:3,0.81
+Robsonella,fontaniana,-15.25,-74.75,5107:354:2,1.00
+Robsonella,fontaniana,-15.75,-74.25,5107:354:3,1.00
+Robsonella,fontaniana,-15.75,-74.75,5107:354:4,1.00
+Robsonella,fontaniana,-16.25,-73.75,5107:363:2,0.94
+Robsonella,fontaniana,-19.75,-70.25,5107:390:3,0.83
+Robsonella,fontaniana,-15.25,-75.25,5107:455:1,1.00
+Robsonella,fontaniana,-15.25,-75.75,5107:455:2,0.87
+Robsonella,fontaniana,-20.25,-70.25,5207:100:1,0.92
+Robsonella,fontaniana,-20.75,-70.25,5207:100:3,1.00
+Robsonella,fontaniana,-21.25,-70.25,5207:110:1,0.99
+Robsonella,fontaniana,-21.75,-70.25,5207:110:3,1.00
+Robsonella,fontaniana,-22.25,-70.25,5207:120:1,1.00
+Robsonella,fontaniana,-22.75,-70.25,5207:120:3,1.00
+Robsonella,fontaniana,-23.25,-70.25,5207:130:1,1.00
+Robsonella,fontaniana,-23.25,-70.75,5207:130:2,1.00
+Robsonella,fontaniana,-23.75,-70.25,5207:130:3,1.00
+Robsonella,fontaniana,-23.75,-70.75,5207:130:4,0.98
+Robsonella,fontaniana,-24.25,-70.25,5207:140:1,1.00
+Robsonella,fontaniana,-24.25,-70.75,5207:140:2,1.00
+Robsonella,fontaniana,-24.75,-70.25,5207:140:3,1.00
+Robsonella,fontaniana,-24.75,-70.75,5207:140:4,1.00
+Robsonella,fontaniana,-25.25,-70.25,5207:350:1,1.00
+Robsonella,fontaniana,-25.25,-70.75,5207:350:2,1.00
+Robsonella,fontaniana,-25.75,-70.75,5207:350:4,1.00
+Robsonella,fontaniana,-28.25,-71.25,5207:381:1,1.00
+Robsonella,fontaniana,-28.75,-71.25,5207:381:3,1.00
+Robsonella,fontaniana,-28.75,-71.75,5207:381:4,1.00
+Robsonella,fontaniana,-29.25,-71.25,5207:391:1,1.00
+Robsonella,fontaniana,-29.25,-71.75,5207:391:2,1.00
+Robsonella,fontaniana,-29.75,-71.25,5207:391:3,1.00
+Robsonella,fontaniana,-29.75,-71.75,5207:391:4,1.00
+Robsonella,fontaniana,-30.25,-71.25,5307:101:1,1.00
+Robsonella,fontaniana,-30.25,-71.75,5307:101:2,1.00
+Robsonella,fontaniana,-30.75,-71.75,5307:101:4,1.00
+Robsonella,fontaniana,-31.25,-71.75,5307:111:2,1.00
+Robsonella,fontaniana,-31.75,-71.75,5307:111:4,1.00
+Robsonella,fontaniana,-32.25,-71.25,5307:121:1,1.00
+Robsonella,fontaniana,-32.25,-71.75,5307:121:2,1.00
+Robsonella,fontaniana,-32.75,-71.25,5307:121:3,1.00
+Robsonella,fontaniana,-32.75,-71.75,5307:121:4,1.00
+Robsonella,fontaniana,-33.25,-71.75,5307:131:2,1.00
+Robsonella,fontaniana,-33.75,-71.75,5307:131:4,1.00
+Robsonella,fontaniana,-33.75,-72.25,5307:132:3,1.00
+Robsonella,fontaniana,-34.25,-71.75,5307:141:2,1.00
+Robsonella,fontaniana,-34.25,-72.25,5307:142:1,1.00
+Robsonella,fontaniana,-34.75,-72.25,5307:142:3,1.00
+Robsonella,fontaniana,-35.25,-72.25,5307:352:1,1.00
+Robsonella,fontaniana,-35.25,-72.75,5307:352:2,1.00
+Robsonella,fontaniana,-35.75,-72.75,5307:352:4,1.00
+Robsonella,fontaniana,-36.25,-72.75,5307:362:2,1.00
+Robsonella,fontaniana,-36.75,-72.75,5307:362:4,1.00
+Robsonella,fontaniana,-36.25,-73.25,5307:363:1,1.00
+Robsonella,fontaniana,-36.75,-73.25,5307:363:3,1.00
+Robsonella,fontaniana,-36.75,-73.75,5307:363:4,1.00
+Robsonella,fontaniana,-37.25,-73.25,5307:373:1,1.00
+Robsonella,fontaniana,-37.25,-73.75,5307:373:2,1.00
+Robsonella,fontaniana,-37.75,-73.25,5307:373:3,1.00
+Robsonella,fontaniana,-37.75,-73.75,5307:373:4,1.00
+Robsonella,fontaniana,-38.25,-73.25,5307:383:1,0.99
+Robsonella,fontaniana,-38.25,-73.75,5307:383:2,0.97
+Robsonella,fontaniana,-38.75,-73.25,5307:383:3,0.90
+Robsonella,fontaniana,-38.75,-73.75,5307:383:4,1.00
+Robsonella,fontaniana,-38.25,-74.25,5307:384:1,1.00
+Robsonella,fontaniana,-39.25,-73.25,5307:393:1,0.80
+Robsonella,fontaniana,-39.25,-73.75,5307:393:2,0.95
+
+
+Occurrence cells used for creating environmental envelope (n = 13)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Robsonella,fontaniana,-41.75,-72.75,5407:112:4,131,11.9968881607056,9.42828559875488,25.3850841522217,34.378734588623,26.820000261068298,0,55.0728187561035,13
+Robsonella,fontaniana,-36.75,-72.75,5307:362:4,46,12.9339752197266,11.3986511230469,33.2956314086914,34.1406707763672,70.2575892210007,0,86.0385589599609,1
+Robsonella,fontaniana,-36.75,-73.25,5307:363:3,139,12.7341899871826,11.696400642395,32.6299171447754,34.0956649780273,84.696002304554,0,83.1979827880859,19
+Robsonella,fontaniana,-36.25,-75.25,5307:465:1,4124,14.4325914382935,1.30343496799469,33.9293785095215,34.6951599121094,9.793000295758251,0,167.888412475586,219
+Robsonella,fontaniana,-35.25,-72.75,5307:352:2,460,13.305718421936,10.338098526001,34.0418815612793,34.5565299987793,62.6929998397827,0,34.6772232055664,49
+Robsonella,fontaniana,-33.25,-71.75,5307:131:2,509,14.0279026031494,12.1824169158936,34.0795745849609,34.2473335266113,55.8260008692741,0,88.5015258789063,17
+Robsonella,fontaniana,-33.25,-91.75,5309:131:2,3804,18.3985748291016,1.38521897792816,34.5569381713867,34.6938018798828,1.08700001146644,0,176.680816650391,1068
+Robsonella,fontaniana,-32.75,-71.25,5307:121:3,39,14.4264144897461,9.40999794006348,33.5287475585938,34.173282623291,52.8765320777893,0,100.134544372559,2
+Robsonella,fontaniana,-32.75,-71.75,5307:121:4,1210,14.2182397842407,5.81501007080078,34.1778182983398,34.3138809204102,51.731001585722,0,98.8412017822266,23
+Robsonella,fontaniana,-32.25,-71.75,5307:121:2,1246,14.5788402557373,4.90584897994995,34.301155090332,34.3553504943848,54.2920008301735,0,108.518760681152,23
+Robsonella,fontaniana,-31.75,-71.75,5307:111:4,1429,14.8242998123169,4.92860984802246,34.3585090637207,34.3512573242188,48.5569983720779,0,106.53239440918,49
+Robsonella,fontaniana,-12.25,-79.75,5107:229:2,4739,20.8563785552979,1.42138600349426,35.1689987182617,34.6941719055176,15.107000246643999,0,139.674530029297,292
+Robsonella,fontaniana,-11.75,-77.25,5107:217:3,87,18.2189998626709,17.7786464691162,34.9571685791016,35.1131286621094,93.9470008015633,0,181.702758789063,19

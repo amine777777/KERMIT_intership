@@ -1,0 +1,236 @@
+Mapping parameters for Platycephalus caeruleopunctatus (Blue-spotted flathead)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO
+FAOAreas: 71 |  81,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,40,46,71,100
+Temperature (°C),1,16.39,19.16,23.74,27.01
+Salinity (psu),1,34.89,35.39,35.59,36.09
+Primary Production (mgC·m-3·day-1) ,1,4.82,10.61,22.54,30.68
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,150.17,184,223.94,244.62
+Distance to Land (km),0,0,2,71,215
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 164): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Platycephalus,caeruleopunctatus,-12.25,143.25,3114:123:1,0.01
+Platycephalus,caeruleopunctatus,-13.75,143.75,3114:133:4,0.02
+Platycephalus,caeruleopunctatus,-14.25,143.75,3114:143:2,0.02
+Platycephalus,caeruleopunctatus,-14.25,144.25,3114:144:1,0.02
+Platycephalus,caeruleopunctatus,-14.25,144.75,3114:144:2,0.01
+Platycephalus,caeruleopunctatus,-15.25,145.25,3114:455:1,0.02
+Platycephalus,caeruleopunctatus,-16.25,145.25,3114:465:1,0.02
+Platycephalus,caeruleopunctatus,-16.25,145.75,3114:465:2,0.02
+Platycephalus,caeruleopunctatus,-16.75,145.75,3114:465:4,0.11
+Platycephalus,caeruleopunctatus,-17.25,145.75,3114:475:2,0.06
+Platycephalus,caeruleopunctatus,-17.25,146.25,3114:476:1,0.11
+Platycephalus,caeruleopunctatus,-17.75,146.25,3114:476:3,0.17
+Platycephalus,caeruleopunctatus,-17.75,146.75,3114:476:4,0.01
+Platycephalus,caeruleopunctatus,-18.25,146.75,3114:486:2,0.16
+Platycephalus,caeruleopunctatus,-18.75,147.25,3114:487:3,0.06
+Platycephalus,caeruleopunctatus,-19.25,148.25,3114:498:1,0.03
+Platycephalus,caeruleopunctatus,-19.75,148.75,3114:498:4,0.13
+Platycephalus,caeruleopunctatus,-20.25,149.25,3214:209:1,0.18
+Platycephalus,caeruleopunctatus,-20.75,149.25,3214:209:3,0.11
+Platycephalus,caeruleopunctatus,-20.75,149.75,3214:209:4,0.10
+Platycephalus,caeruleopunctatus,-21.25,150.25,3215:110:1,0.10
+Platycephalus,caeruleopunctatus,-21.25,150.75,3215:110:2,0.01
+Platycephalus,caeruleopunctatus,-21.75,151.25,3215:111:3,0.05
+Platycephalus,caeruleopunctatus,-22.25,151.75,3215:121:2,0.12
+Platycephalus,caeruleopunctatus,-22.25,152.25,3215:122:1,0.04
+Platycephalus,caeruleopunctatus,-22.25,152.75,3215:122:2,0.02
+Platycephalus,caeruleopunctatus,-22.75,152.25,3215:122:3,0.16
+Platycephalus,caeruleopunctatus,-22.75,152.75,3215:122:4,0.02
+Platycephalus,caeruleopunctatus,-23.25,152.25,3215:132:1,0.18
+Platycephalus,caeruleopunctatus,-23.75,152.75,3215:132:4,0.13
+Platycephalus,caeruleopunctatus,-24.25,153.25,3215:143:1,0.16
+Platycephalus,caeruleopunctatus,-31.25,159.25,3315:219:1,0.14
+Platycephalus,caeruleopunctatus,-34.25,172.25,3317:142:1,0.10
+Platycephalus,caeruleopunctatus,-34.75,172.25,3317:142:3,0.03
+Platycephalus,caeruleopunctatus,-34.75,172.75,3317:142:4,0.11
+Platycephalus,caeruleopunctatus,-35.25,172.75,3317:352:2,0.09
+Platycephalus,caeruleopunctatus,-35.75,173.25,3317:353:3,0.07
+Platycephalus,caeruleopunctatus,-36.25,173.75,3317:363:2,0.05
+Platycephalus,caeruleopunctatus,-36.75,173.75,3317:363:4,0.01
+Platycephalus,caeruleopunctatus,-36.25,174.25,3317:364:1,0.14
+Platycephalus,caeruleopunctatus,-36.75,174.25,3317:364:3,0.04
+Platycephalus,caeruleopunctatus,-37.25,173.75,3317:373:2,0.05
+Platycephalus,caeruleopunctatus,-37.25,174.25,3317:374:1,0.07
+Platycephalus,caeruleopunctatus,-37.75,174.25,3317:374:3,0.12
+Platycephalus,caeruleopunctatus,-37.75,174.75,3317:374:4,0.07
+Platycephalus,caeruleopunctatus,-38.75,172.75,3317:382:4,0.01
+Platycephalus,caeruleopunctatus,-38.25,173.25,3317:383:1,0.04
+Platycephalus,caeruleopunctatus,-38.25,173.75,3317:383:2,0.07
+Platycephalus,caeruleopunctatus,-38.75,173.25,3317:383:3,0.04
+Platycephalus,caeruleopunctatus,-38.75,173.75,3317:383:4,0.03
+Platycephalus,caeruleopunctatus,-38.25,174.25,3317:384:1,0.12
+Platycephalus,caeruleopunctatus,-38.25,174.75,3317:384:2,0.06
+Platycephalus,caeruleopunctatus,-38.75,174.25,3317:384:3,0.03
+Platycephalus,caeruleopunctatus,-37.75,176.75,3317:476:4,0.19
+Platycephalus,caeruleopunctatus,-37.25,177.25,3317:477:1,0.11
+Platycephalus,caeruleopunctatus,-38.25,178.25,3317:488:1,0.08
+Platycephalus,caeruleopunctatus,-38.75,178.25,3317:488:3,0.02
+Platycephalus,caeruleopunctatus,-39.25,178.25,3317:498:1,0.06
+Platycephalus,caeruleopunctatus,-18.25,146.25,3114:486:1,0.22
+Platycephalus,caeruleopunctatus,-18.75,146.25,3114:486:3,0.28
+Platycephalus,caeruleopunctatus,-18.75,146.75,3114:486:4,0.28
+Platycephalus,caeruleopunctatus,-19.25,146.75,3114:496:2,0.37
+Platycephalus,caeruleopunctatus,-19.25,147.25,3114:497:1,0.30
+Platycephalus,caeruleopunctatus,-19.25,147.75,3114:497:2,0.31
+Platycephalus,caeruleopunctatus,-21.75,150.75,3215:110:4,0.21
+Platycephalus,caeruleopunctatus,-22.25,151.25,3215:121:1,0.24
+Platycephalus,caeruleopunctatus,-22.75,151.75,3215:121:4,0.34
+Platycephalus,caeruleopunctatus,-23.25,151.25,3215:131:1,0.33
+Platycephalus,caeruleopunctatus,-23.75,152.25,3215:132:3,0.39
+Platycephalus,caeruleopunctatus,-24.25,152.75,3215:142:2,0.38
+Platycephalus,caeruleopunctatus,-31.75,159.25,3315:219:3,0.21
+Platycephalus,caeruleopunctatus,-34.25,172.75,3317:142:2,0.24
+Platycephalus,caeruleopunctatus,-35.25,173.25,3317:353:1,0.27
+Platycephalus,caeruleopunctatus,-36.25,174.75,3317:364:2,0.36
+Platycephalus,caeruleopunctatus,-35.75,175.75,3317:455:4,0.32
+Platycephalus,caeruleopunctatus,-36.75,175.75,3317:465:4,0.38
+Platycephalus,caeruleopunctatus,-37.25,175.75,3317:475:2,0.31
+Platycephalus,caeruleopunctatus,-37.75,176.25,3317:476:3,0.26
+Platycephalus,caeruleopunctatus,-37.75,177.25,3317:477:3,0.33
+Platycephalus,caeruleopunctatus,-37.75,177.75,3317:477:4,0.32
+Platycephalus,caeruleopunctatus,-37.25,178.25,3317:478:1,0.23
+Platycephalus,caeruleopunctatus,-37.75,178.25,3317:478:3,0.29
+Platycephalus,caeruleopunctatus,-37.75,178.75,3317:478:4,0.24
+Platycephalus,caeruleopunctatus,-38.25,178.75,3317:488:2,0.21
+Platycephalus,caeruleopunctatus,-19.75,147.75,3114:497:4,0.50
+Platycephalus,caeruleopunctatus,-19.75,148.25,3114:498:3,0.41
+Platycephalus,caeruleopunctatus,-21.75,150.25,3215:110:3,0.59
+Platycephalus,caeruleopunctatus,-22.75,151.25,3215:121:3,0.57
+Platycephalus,caeruleopunctatus,-23.25,151.75,3215:131:2,0.46
+Platycephalus,caeruleopunctatus,-24.25,152.25,3215:142:1,0.55
+Platycephalus,caeruleopunctatus,-24.75,153.75,3215:143:4,0.40
+Platycephalus,caeruleopunctatus,-34.25,173.25,3317:143:1,0.41
+Platycephalus,caeruleopunctatus,-34.75,173.25,3317:143:3,0.48
+Platycephalus,caeruleopunctatus,-34.75,174.25,3317:144:3,0.42
+Platycephalus,caeruleopunctatus,-35.75,173.75,3317:353:4,0.41
+Platycephalus,caeruleopunctatus,-35.25,174.25,3317:354:1,0.52
+Platycephalus,caeruleopunctatus,-35.75,174.75,3317:354:4,0.49
+Platycephalus,caeruleopunctatus,-35.75,175.25,3317:455:3,0.53
+Platycephalus,caeruleopunctatus,-36.25,175.25,3317:465:1,0.40
+Platycephalus,caeruleopunctatus,-36.25,175.75,3317:465:2,0.49
+Platycephalus,caeruleopunctatus,-36.75,176.25,3317:466:3,0.47
+Platycephalus,caeruleopunctatus,-37.25,176.25,3317:476:1,0.42
+Platycephalus,caeruleopunctatus,-20.75,148.75,3214:208:4,0.73
+Platycephalus,caeruleopunctatus,-21.25,149.25,3214:219:1,0.77
+Platycephalus,caeruleopunctatus,-22.25,150.75,3215:120:2,0.64
+Platycephalus,caeruleopunctatus,-23.75,151.75,3215:131:4,0.77
+Platycephalus,caeruleopunctatus,-24.75,152.75,3215:142:4,0.62
+Platycephalus,caeruleopunctatus,-24.75,153.25,3215:143:3,0.62
+Platycephalus,caeruleopunctatus,-25.25,153.75,3215:353:2,0.62
+Platycephalus,caeruleopunctatus,-25.75,153.75,3215:353:4,0.69
+Platycephalus,caeruleopunctatus,-26.25,153.75,3215:363:2,0.73
+Platycephalus,caeruleopunctatus,-26.75,153.75,3215:363:4,0.79
+Platycephalus,caeruleopunctatus,-36.75,149.75,3314:469:4,0.63
+Platycephalus,caeruleopunctatus,-31.75,152.75,3315:112:4,0.65
+Platycephalus,caeruleopunctatus,-37.25,150.25,3315:370:1,0.75
+Platycephalus,caeruleopunctatus,-37.75,150.25,3315:370:3,0.69
+Platycephalus,caeruleopunctatus,-34.75,173.75,3317:143:4,0.62
+Platycephalus,caeruleopunctatus,-35.25,174.75,3317:354:2,0.63
+Platycephalus,caeruleopunctatus,-21.75,149.75,3214:219:4,0.85
+Platycephalus,caeruleopunctatus,-22.25,149.75,3214:229:2,0.89
+Platycephalus,caeruleopunctatus,-22.25,150.25,3215:120:1,0.86
+Platycephalus,caeruleopunctatus,-22.75,150.75,3215:120:4,0.92
+Platycephalus,caeruleopunctatus,-23.25,150.75,3215:130:2,1.00
+Platycephalus,caeruleopunctatus,-23.75,151.25,3215:131:3,0.99
+Platycephalus,caeruleopunctatus,-24.25,151.75,3215:141:2,1.00
+Platycephalus,caeruleopunctatus,-24.75,152.25,3215:142:3,1.00
+Platycephalus,caeruleopunctatus,-25.25,152.75,3215:352:2,1.00
+Platycephalus,caeruleopunctatus,-25.25,153.25,3215:353:1,0.98
+Platycephalus,caeruleopunctatus,-25.75,153.25,3215:353:3,0.97
+Platycephalus,caeruleopunctatus,-26.25,153.25,3215:363:1,0.92
+Platycephalus,caeruleopunctatus,-26.75,153.25,3215:363:3,1.00
+Platycephalus,caeruleopunctatus,-27.25,153.25,3215:373:1,1.00
+Platycephalus,caeruleopunctatus,-27.25,153.75,3215:373:2,0.85
+Platycephalus,caeruleopunctatus,-27.75,153.75,3215:373:4,0.93
+Platycephalus,caeruleopunctatus,-28.25,153.75,3215:383:2,1.00
+Platycephalus,caeruleopunctatus,-28.75,153.75,3215:383:4,1.00
+Platycephalus,caeruleopunctatus,-29.25,153.25,3215:393:1,1.00
+Platycephalus,caeruleopunctatus,-29.25,153.75,3215:393:2,1.00
+Platycephalus,caeruleopunctatus,-29.75,153.25,3215:393:3,1.00
+Platycephalus,caeruleopunctatus,-29.75,153.75,3215:393:4,1.00
+Platycephalus,caeruleopunctatus,-30.25,153.25,3315:103:1,1.00
+Platycephalus,caeruleopunctatus,-30.25,153.75,3315:103:2,1.00
+Platycephalus,caeruleopunctatus,-30.75,153.25,3315:103:3,1.00
+Platycephalus,caeruleopunctatus,-31.25,152.75,3315:112:2,1.00
+Platycephalus,caeruleopunctatus,-31.25,153.25,3315:113:1,1.00
+Platycephalus,caeruleopunctatus,-31.75,153.25,3315:113:3,1.00
+Platycephalus,caeruleopunctatus,-32.75,151.75,3315:121:4,1.00
+Platycephalus,caeruleopunctatus,-32.25,152.75,3315:122:2,0.81
+Platycephalus,caeruleopunctatus,-32.75,152.25,3315:122:3,1.00
+Platycephalus,caeruleopunctatus,-32.75,152.75,3315:122:4,1.00
+Platycephalus,caeruleopunctatus,-33.25,151.75,3315:131:2,1.00
+Platycephalus,caeruleopunctatus,-33.75,151.25,3315:131:3,1.00
+Platycephalus,caeruleopunctatus,-33.75,151.75,3315:131:4,1.00
+Platycephalus,caeruleopunctatus,-33.25,152.25,3315:132:1,1.00
+Platycephalus,caeruleopunctatus,-34.25,150.75,3315:140:2,0.99
+Platycephalus,caeruleopunctatus,-34.75,150.75,3315:140:4,1.00
+Platycephalus,caeruleopunctatus,-34.25,151.25,3315:141:1,1.00
+Platycephalus,caeruleopunctatus,-34.75,151.25,3315:141:3,1.00
+Platycephalus,caeruleopunctatus,-33.25,156.25,3315:236:1,0.86
+Platycephalus,caeruleopunctatus,-35.25,150.75,3315:350:2,1.00
+Platycephalus,caeruleopunctatus,-35.75,150.25,3315:350:3,0.96
+Platycephalus,caeruleopunctatus,-35.75,150.75,3315:350:4,0.98
+Platycephalus,caeruleopunctatus,-36.25,150.25,3315:360:1,1.00
+Platycephalus,caeruleopunctatus,-36.75,150.25,3315:360:3,0.90
+
+
+Occurrence cells used for creating environmental envelope (n = 36)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Platycephalus,caeruleopunctatus,-37.25,150.25,3315:370:1,391,18.4787502288818,16.0979862213135,35.5838623046875,35.4585266113281,19.2230008542538,0,213.27180480957,22
+Platycephalus,caeruleopunctatus,-36.75,150.25,3315:360:3,399,18.8941898345947,15.2096824645996,35.5814208984375,35.3957443237305,20.9819991141558,0,207.489852905273,22
+Platycephalus,caeruleopunctatus,-36.75,149.75,3314:469:4,9,18.1302661895752,16.7738094329834,35.589038848877,35.521541595459,20.1375037431717,0,222.754318237305,2
+Platycephalus,caeruleopunctatus,-36.25,150.25,3315:360:1,300,19.1574211120605,16.5478630065918,35.5854682922363,35.5173377990723,22.5389990955591,0,208.682662963867,17
+Platycephalus,caeruleopunctatus,-35.75,150.25,3315:350:3,56,19.1552925109863,18.4370212554932,35.5900077819824,35.5928344726563,22.8860005736351,0,218.205307006836,12
+Platycephalus,caeruleopunctatus,-35.25,150.75,3315:350:2,184,19.7186489105225,17.2264995574951,35.5791091918945,35.5259895324707,20.0479999184608,0,203.0458984375,20
+Platycephalus,caeruleopunctatus,-34.75,150.75,3315:140:4,25,19.8092765808105,20.5023193359375,35.5540390014648,35.582763671875,19.7999998927116,0,226.912399291992,9
+Platycephalus,caeruleopunctatus,-34.25,151.25,3315:141:1,181,20.5473594665527,17.2316284179688,35.5556869506836,35.4919967651367,19.0399996936321,0,195.749328613281,21
+Platycephalus,caeruleopunctatus,-34.25,150.75,3315:140:2,11,20.0122375488281,20.5275497436523,35.5968055725098,35.5807037353516,19.4278284907341,0,225.160308837891,2
+Platycephalus,caeruleopunctatus,-33.75,151.75,3315:131:4,335,21.0261707305908,12.1359968185425,35.568717956543,35.042724609375,16.0969998687506,0,196.898223876953,69
+Platycephalus,caeruleopunctatus,-33.75,151.25,3315:131:3,38,20.3722381591797,20.9656944274902,35.5346717834473,35.5825614929199,19.7570007294416,0,223.944488525391,12
+Platycephalus,caeruleopunctatus,-33.25,151.75,3315:131:2,80,20.7134037017822,18.6355323791504,35.5311088562012,35.5654487609863,18.309999257326098,0,197.036926269531,21
+Platycephalus,caeruleopunctatus,-33.25,151.25,3315:131:1,2,20.5834140777588,20.8014793395996,35.5900001525879,35.5703201293945,19.5011291652918,0,219.519897460938,1
+Platycephalus,caeruleopunctatus,-32.75,151.75,3315:121:4,20,20.9335784912109,20.8821964263916,35.5327529907227,35.5609321594238,20.1149471104145,0,214.871231079102,5
+Platycephalus,caeruleopunctatus,-32.75,152.25,3315:122:3,83,21.0859203338623,19.1069278717041,35.5331115722656,35.5813484191895,20.8919998258352,0,195.200134277344,20
+Platycephalus,caeruleopunctatus,-32.25,152.75,3315:122:2,94,21.8828563690186,19.480749130249,35.5292015075684,35.5920028686523,24.0989997982979,0,193.159683227539,23
+Platycephalus,caeruleopunctatus,-31.75,159.25,3315:219:3,1595,21.4378700256348,20.6593112945557,35.627857208252,35.6214637756348,6.15599984303117,0,225.005966186523,23
+Platycephalus,caeruleopunctatus,-31.75,152.75,3315:112:4,50,21.8090000152588,22.5515804290771,35.5090103149414,35.5278549194336,25.3679994493723,0,216.129364013672,13
+Platycephalus,caeruleopunctatus,-31.75,153.25,3315:113:3,956,22.8162021636963,5.56693887710571,35.4991912841797,34.4584999084473,22.019000723958,0,192.954284667969,71
+Platycephalus,caeruleopunctatus,-31.25,152.75,3315:112:2,11,21.9588394165039,21.9114475250244,35.4868240356445,35.5216064453125,21.8085646629333,0,212.489624023438,2
+Platycephalus,caeruleopunctatus,-31.25,153.25,3315:113:1,599,22.9294624328613,11.1208868026733,35.4834861755371,34.9604225158691,21.8269992619753,0,198.726974487305,24
+Platycephalus,caeruleopunctatus,-30.75,153.25,3315:103:3,411,22.9624805450439,16.1672306060791,35.466724395752,35.4792823791504,18.2329993695021,0,185.783340454102,23
+Platycephalus,caeruleopunctatus,-30.25,153.25,3315:103:1,91,22.7546119689941,22.7473316192627,35.4590797424316,35.5700531005859,22.257000207901,0,207.970550537109,18
+Platycephalus,caeruleopunctatus,-30.25,159.25,3315:209:1,2494,21.9958553314209,1.65022003650665,35.6293334960938,34.7116355895996,5.02699986100197,0,179.743698120117,215
+Platycephalus,caeruleopunctatus,-29.75,153.75,3215:393:4,782,23.4617748260498,4.88262510299683,35.4253959655762,34.4638862609863,14.5190004259348,0,183.997131347656,72
+Platycephalus,caeruleopunctatus,-29.75,153.25,3215:393:3,26,22.5346126556396,23.3930187225342,35.4397735595703,35.5085067749023,18.6819992959499,0,214.966751098633,10
+Platycephalus,caeruleopunctatus,-29.25,153.75,3215:393:2,298,23.4526233673096,18.8203449249268,35.4137153625488,35.5780181884766,14.224000275135001,0,184.882095336914,50
+Platycephalus,caeruleopunctatus,-29.25,153.25,3215:393:1,19,22.691068649292,23.32643699646,35.4345474243164,35.5078582763672,17.6174808293581,0,213.435577392578,6
+Platycephalus,caeruleopunctatus,-28.75,153.75,3215:383:4,219,23.5709533691406,22.3651103973389,35.4006805419922,35.6042900085449,13.381999917328399,0,201.836410522461,21
+Platycephalus,caeruleopunctatus,-28.25,153.75,3215:383:2,145,23.7432460784912,22.2882652282715,35.390323638916,35.6048698425293,14.041000045836,0,200.197402954102,22
+Platycephalus,caeruleopunctatus,-28.25,153.25,3215:383:1,3,22.9428424835205,23.5370635986328,35.4255790710449,35.4956016540527,16.070710495114298,0,212.44367980957,0
+Platycephalus,caeruleopunctatus,-27.75,153.25,3215:373:3,2,23.0281772613525,23.6905841827393,35.4232521057129,35.4835739135742,15.412227250635599,0,212.383544921875,5
+Platycephalus,caeruleopunctatus,-27.25,153.75,3215:373:2,302,24.0705528259277,18.3509693145752,35.3608322143555,35.5801391601563,12.4089997261763,0,181.593948364258,24
+Platycephalus,caeruleopunctatus,-27.25,153.25,3215:373:1,11,23.0629634857178,23.9589958190918,35.423999786377,35.4641342163086,14.7550003603101,0,213.25537109375,17
+Platycephalus,caeruleopunctatus,-26.75,153.75,3215:363:4,627,24.1855545043945,3.28895497322083,35.3499412536621,34.5391731262207,10.6109995394945,0,150.171936035156,74
+Platycephalus,caeruleopunctatus,-19.75,148.25,3114:498:3,28,25.3634872436523,25.5196228027344,35.3511581420898,35.170783996582,9.90100018680096,0,209.020874023438,24

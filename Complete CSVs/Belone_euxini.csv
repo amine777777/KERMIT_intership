@@ -1,0 +1,211 @@
+Mapping parameters for Belone euxini ()
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO
+FAOAreas: 37,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: True,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,2,11,20
+Temperature (°C),1,12.87,15.49,20.53,22.59
+Salinity (psu),1,8.19,16.2,32.77,39.21
+Primary Production (mgC·m-3·day-1) ,1,4.33,5.33,27.43,35.5
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,183.67,210.75,294.82,356.97
+Distance to Land (km),0,2,5.3,16.4,23.375
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 171): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Belone,euxini,38.75,22.75,1302:382:4,0.04
+Belone,euxini,36.75,29.25,1302:469:3,0.01
+Belone,euxini,38.25,26.75,1302:486:2,0.01
+Belone,euxini,38.75,26.75,1302:486:4,0.10
+Belone,euxini,38.25,27.25,1302:487:1,0.16
+Belone,euxini,39.25,26.25,1302:496:1,0.06
+Belone,euxini,36.25,36.25,1303:466:1,0.04
+Belone,euxini,36.75,36.25,1303:466:3,0.08
+Belone,euxini,43.25,6.25,1400:236:1,0.07
+Belone,euxini,42.75,11.25,1401:121:3,0.04
+Belone,euxini,44.75,14.25,1401:144:3,0.16
+Belone,euxini,40.75,19.25,1401:209:3,0.13
+Belone,euxini,41.25,19.25,1401:219:1,0.14
+Belone,euxini,41.75,19.25,1401:219:3,0.19
+Belone,euxini,42.75,17.75,1401:227:4,0.13
+Belone,euxini,42.75,18.75,1401:228:4,0.19
+Belone,euxini,43.25,16.75,1401:236:2,0.13
+Belone,euxini,43.75,16.75,1401:236:4,0.17
+Belone,euxini,44.25,15.75,1401:245:2,0.18
+Belone,euxini,40.25,23.75,1402:103:2,0.06
+Belone,euxini,41.75,34.75,1403:114:4,0.03
+Belone,euxini,45.75,34.75,1403:354:4,0.13
+Belone,euxini,45.75,36.25,1403:456:3,0.02
+Belone,euxini,46.25,36.25,1403:466:1,0.14
+Belone,euxini,46.75,36.25,1403:466:3,0.12
+Belone,euxini,37.75,22.75,1302:372:4,0.34
+Belone,euxini,38.25,22.25,1302:382:1,0.27
+Belone,euxini,38.25,23.25,1302:383:1,0.30
+Belone,euxini,40.75,0.75,1400:100:4,0.33
+Belone,euxini,40.75,1.25,1400:101:3,0.28
+Belone,euxini,41.25,0.75,1400:110:2,0.36
+Belone,euxini,41.25,1.25,1400:111:1,0.30
+Belone,euxini,41.25,1.75,1400:111:2,0.24
+Belone,euxini,41.75,2.25,1400:112:3,0.25
+Belone,euxini,42.75,4.25,1400:124:3,0.26
+Belone,euxini,42.75,4.75,1400:124:4,0.23
+Belone,euxini,43.25,3.25,1400:133:1,0.28
+Belone,euxini,43.25,3.75,1400:133:2,0.30
+Belone,euxini,43.75,3.75,1400:133:4,0.38
+Belone,euxini,43.75,4.25,1400:134:3,0.38
+Belone,euxini,43.25,5.25,1400:235:1,0.24
+Belone,euxini,43.25,5.75,1400:235:2,0.22
+Belone,euxini,43.75,6.75,1400:236:4,0.21
+Belone,euxini,44.25,9.75,1400:249:2,0.30
+Belone,euxini,43.25,10.75,1401:130:2,0.29
+Belone,euxini,44.25,14.75,1401:144:2,0.30
+Belone,euxini,44.75,14.75,1401:144:4,0.37
+Belone,euxini,40.75,19.75,1401:209:4,0.20
+Belone,euxini,41.25,19.75,1401:219:2,0.24
+Belone,euxini,41.75,19.75,1401:219:4,0.31
+Belone,euxini,42.75,18.25,1401:228:3,0.22
+Belone,euxini,42.25,19.25,1401:229:1,0.33
+Belone,euxini,43.75,16.25,1401:236:3,0.25
+Belone,euxini,43.25,17.25,1401:237:1,0.23
+Belone,euxini,43.25,17.75,1401:237:2,0.34
+Belone,euxini,44.25,15.25,1401:245:1,0.28
+Belone,euxini,44.75,15.25,1401:245:3,0.22
+Belone,euxini,40.75,27.25,1402:207:3,0.38
+Belone,euxini,43.25,28.75,1402:238:2,0.37
+Belone,euxini,45.75,30.25,1403:350:3,0.36
+Belone,euxini,46.75,35.25,1403:465:3,0.37
+Belone,euxini,47.25,37.25,1403:477:1,0.32
+Belone,euxini,47.25,37.75,1403:477:2,0.31
+Belone,euxini,47.25,38.25,1403:478:1,0.33
+Belone,euxini,47.25,38.75,1403:478:2,0.38
+Belone,euxini,36.75,-4.75,7300:364:4,0.20
+Belone,euxini,37.75,23.25,1302:373:3,0.46
+Belone,euxini,38.25,22.75,1302:382:2,0.55
+Belone,euxini,38.75,27.25,1302:487:3,0.50
+Belone,euxini,43.25,4.25,1400:134:1,0.43
+Belone,euxini,44.25,10.25,1401:140:1,0.42
+Belone,euxini,44.75,13.75,1401:143:4,0.47
+Belone,euxini,45.25,13.75,1401:353:2,0.54
+Belone,euxini,45.25,14.75,1401:354:2,0.53
+Belone,euxini,44.25,29.25,1402:249:1,0.40
+Belone,euxini,46.25,30.25,1403:360:1,0.52
+Belone,euxini,46.25,30.75,1403:360:2,0.51
+Belone,euxini,46.75,30.75,1403:360:4,0.43
+Belone,euxini,46.25,31.25,1403:361:1,0.51
+Belone,euxini,46.25,31.75,1403:361:2,0.50
+Belone,euxini,46.75,31.25,1403:361:3,0.43
+Belone,euxini,46.75,31.75,1403:361:4,0.43
+Belone,euxini,46.25,32.25,1403:362:1,0.52
+Belone,euxini,46.25,32.75,1403:362:2,0.53
+Belone,euxini,46.75,32.25,1403:362:3,0.43
+Belone,euxini,46.25,33.25,1403:363:1,0.55
+Belone,euxini,46.25,33.75,1403:363:2,0.53
+Belone,euxini,46.25,34.75,1403:364:2,0.41
+Belone,euxini,45.25,36.25,1403:456:1,0.53
+Belone,euxini,46.25,35.25,1403:465:1,0.41
+Belone,euxini,46.75,35.75,1403:465:4,0.43
+Belone,euxini,46.25,36.75,1403:466:2,0.53
+Belone,euxini,46.75,36.75,1403:466:4,0.42
+Belone,euxini,46.25,37.25,1403:467:1,0.55
+Belone,euxini,46.25,37.75,1403:467:2,0.57
+Belone,euxini,46.75,37.25,1403:467:3,0.42
+Belone,euxini,46.75,37.75,1403:467:4,0.41
+Belone,euxini,46.75,38.25,1403:468:3,0.41
+Belone,euxini,46.75,38.75,1403:468:4,0.48
+Belone,euxini,47.25,39.25,1403:479:1,0.44
+Belone,euxini,39.75,22.75,1302:392:4,0.70
+Belone,euxini,39.25,26.75,1302:496:2,0.65
+Belone,euxini,43.75,12.75,1401:132:4,0.76
+Belone,euxini,43.75,13.25,1401:133:3,0.70
+Belone,euxini,44.75,13.25,1401:143:3,0.68
+Belone,euxini,45.25,13.25,1401:353:1,0.74
+Belone,euxini,45.75,13.25,1401:353:3,0.67
+Belone,euxini,45.75,13.75,1401:353:4,0.65
+Belone,euxini,40.25,22.75,1402:102:2,0.67
+Belone,euxini,40.75,22.75,1402:102:4,0.78
+Belone,euxini,40.25,23.25,1402:103:1,0.74
+Belone,euxini,41.25,29.75,1402:219:2,0.62
+Belone,euxini,41.25,36.25,1403:216:1,0.71
+Belone,euxini,44.25,39.25,1403:249:1,0.66
+Belone,euxini,45.75,30.75,1403:350:4,0.75
+Belone,euxini,45.75,31.25,1403:351:3,0.78
+Belone,euxini,45.75,31.75,1403:351:4,0.76
+Belone,euxini,45.75,32.25,1403:352:3,0.73
+Belone,euxini,45.75,32.75,1403:352:4,0.67
+Belone,euxini,45.75,33.25,1403:353:3,0.74
+Belone,euxini,45.75,33.75,1403:353:4,0.76
+Belone,euxini,45.75,36.75,1403:456:4,0.69
+Belone,euxini,45.75,37.25,1403:457:3,0.70
+Belone,euxini,46.25,38.25,1403:468:1,0.61
+Belone,euxini,46.25,38.75,1403:468:2,0.61
+Belone,euxini,39.75,26.25,1302:496:3,1.00
+Belone,euxini,39.75,26.75,1302:496:4,1.00
+Belone,euxini,44.25,12.75,1401:142:2,0.97
+Belone,euxini,40.75,23.75,1402:103:4,0.96
+Belone,euxini,40.75,25.75,1402:205:4,1.00
+Belone,euxini,40.25,26.25,1402:206:1,1.00
+Belone,euxini,40.25,26.75,1402:206:2,1.00
+Belone,euxini,40.75,26.25,1402:206:3,1.00
+Belone,euxini,40.75,26.75,1402:206:4,0.81
+Belone,euxini,40.25,27.25,1402:207:1,1.00
+Belone,euxini,40.25,27.75,1402:207:2,1.00
+Belone,euxini,40.75,27.75,1402:207:4,1.00
+Belone,euxini,40.25,28.25,1402:208:1,1.00
+Belone,euxini,40.25,28.75,1402:208:2,1.00
+Belone,euxini,40.75,28.25,1402:208:3,0.97
+Belone,euxini,40.75,28.75,1402:208:4,1.00
+Belone,euxini,40.25,29.25,1402:209:1,1.00
+Belone,euxini,40.75,29.25,1402:209:3,1.00
+Belone,euxini,40.75,29.75,1402:209:4,1.00
+Belone,euxini,43.25,27.75,1402:237:2,0.92
+Belone,euxini,43.25,28.25,1402:238:1,1.00
+Belone,euxini,43.75,28.75,1402:238:4,1.00
+Belone,euxini,43.75,29.25,1402:239:3,1.00
+Belone,euxini,44.25,29.75,1402:249:2,1.00
+Belone,euxini,41.25,30.25,1403:110:1,1.00
+Belone,euxini,41.25,30.75,1403:110:2,1.00
+Belone,euxini,44.25,30.25,1403:140:1,0.80
+Belone,euxini,44.75,30.25,1403:140:3,1.00
+Belone,euxini,44.75,30.75,1403:140:4,0.99
+Belone,euxini,41.75,35.25,1403:215:3,1.00
+Belone,euxini,41.75,35.75,1403:215:4,1.00
+Belone,euxini,44.75,37.25,1403:247:3,1.00
+Belone,euxini,44.75,37.75,1403:247:4,1.00
+Belone,euxini,44.75,38.25,1403:248:3,1.00
+Belone,euxini,45.25,30.75,1403:350:2,0.99
+Belone,euxini,45.25,36.75,1403:456:2,1.00
+Belone,euxini,45.25,37.25,1403:457:1,1.00
+Belone,euxini,45.25,37.75,1403:457:2,1.00
+Belone,euxini,45.75,37.75,1403:457:4,0.85
+Belone,euxini,41.75,41.75,1404:111:4,1.00
+Belone,euxini,42.25,41.25,1404:121:1,1.00
+Belone,euxini,42.25,41.75,1404:121:2,1.00
+Belone,euxini,42.75,41.25,1404:121:3,1.00
+Belone,euxini,42.75,41.75,1404:121:4,1.00
+Belone,euxini,43.25,40.75,1404:130:2,1.00
+Belone,euxini,43.25,41.25,1404:131:1,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 4)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Belone,euxini,36.75,30.75,1303:360:4,587,22.5851860046387,14.2728004455566,39.209056854248,38.7436561584473,8.60199984163046,0,183.671508789063,15
+Belone,euxini,43.25,27.75,1402:237:2,9,15.6786184310913,15.6388092041016,17.7354469299316,18.0263748168945,5.24500012397766,0,273.920562744141,2
+Belone,euxini,43.25,28.25,1402:238:1,67,15.7214326858521,12.3301811218262,17.6626129150391,18.3189640045166,5.51899988204241,0,295.634735107422,17
+Belone,euxini,44.25,28.75,1402:248:2,55,15.4027948379517,12.0970401763916,15.5730619430542,18.2214393615723,35.49699857831,0,292.925018310547,13

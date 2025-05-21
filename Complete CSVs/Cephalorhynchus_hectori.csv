@@ -1,0 +1,254 @@
+Mapping parameters for Cephalorhynchus hectori (Hector's dolphin)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas:  81 ,
+Bounding Box (NSWE): ,0,-90,160,180
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,1,50,200
+Temperature (°C),1,9.32,12.05,15.08,17.97
+Salinity (psu),1,33.58,34.24,35.24,35.88
+Primary Production (mgC·m-3·day-1) ,1,5.9,18.87,50.22,58.12
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,140.92,210.31,282.86,363.63
+Distance to Land (km),0,1,5,78,277
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 192): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Cephalorhynchus,hectori,-34.25,172.75,3317:142:2,0.01
+Cephalorhynchus,hectori,-34.75,173.25,3317:143:3,0.02
+Cephalorhynchus,hectori,-35.25,173.25,3317:353:1,0.01
+Cephalorhynchus,hectori,-35.25,173.75,3317:353:2,0.02
+Cephalorhynchus,hectori,-35.75,173.75,3317:353:4,0.04
+Cephalorhynchus,hectori,-35.25,174.25,3317:354:1,0.03
+Cephalorhynchus,hectori,-35.75,174.25,3317:354:3,0.08
+Cephalorhynchus,hectori,-35.75,174.75,3317:354:4,0.03
+Cephalorhynchus,hectori,-36.25,174.25,3317:364:1,0.04
+Cephalorhynchus,hectori,-36.25,174.75,3317:364:2,0.11
+Cephalorhynchus,hectori,-36.75,174.75,3317:364:4,0.02
+Cephalorhynchus,hectori,-37.25,174.25,3317:374:1,0.02
+Cephalorhynchus,hectori,-37.75,174.25,3317:374:3,0.06
+Cephalorhynchus,hectori,-38.75,172.75,3317:382:4,0.02
+Cephalorhynchus,hectori,-38.25,173.25,3317:383:1,0.01
+Cephalorhynchus,hectori,-38.25,173.75,3317:383:2,0.03
+Cephalorhynchus,hectori,-38.75,173.25,3317:383:3,0.10
+Cephalorhynchus,hectori,-38.75,173.75,3317:383:4,0.14
+Cephalorhynchus,hectori,-38.25,174.25,3317:384:1,0.12
+Cephalorhynchus,hectori,-39.25,172.75,3317:392:2,0.11
+Cephalorhynchus,hectori,-39.75,172.25,3317:392:3,0.03
+Cephalorhynchus,hectori,-36.25,175.25,3317:465:1,0.09
+Cephalorhynchus,hectori,-36.25,175.75,3317:465:2,0.02
+Cephalorhynchus,hectori,-36.75,175.75,3317:465:4,0.11
+Cephalorhynchus,hectori,-37.25,175.75,3317:475:2,0.17
+Cephalorhynchus,hectori,-37.25,176.25,3317:476:1,0.07
+Cephalorhynchus,hectori,-37.75,176.75,3317:476:4,0.17
+Cephalorhynchus,hectori,-37.75,177.25,3317:477:3,0.14
+Cephalorhynchus,hectori,-37.75,177.75,3317:477:4,0.12
+Cephalorhynchus,hectori,-37.25,178.25,3317:478:1,0.01
+Cephalorhynchus,hectori,-37.75,178.25,3317:478:3,0.09
+Cephalorhynchus,hectori,-37.75,178.75,3317:478:4,0.07
+Cephalorhynchus,hectori,-38.25,178.75,3317:488:2,0.12
+Cephalorhynchus,hectori,-38.75,178.75,3317:488:4,0.04
+Cephalorhynchus,hectori,-39.75,177.75,3317:497:4,0.09
+Cephalorhynchus,hectori,-39.25,178.25,3317:498:1,0.13
+Cephalorhynchus,hectori,-42.75,169.75,3416:229:4,0.01
+Cephalorhynchus,hectori,-46.25,165.75,3416:465:2,0.03
+Cephalorhynchus,hectori,-46.75,166.25,3416:466:3,0.02
+Cephalorhynchus,hectori,-47.25,166.75,3416:476:2,0.01
+Cephalorhynchus,hectori,-47.25,167.25,3416:477:1,0.19
+Cephalorhynchus,hectori,-47.75,167.25,3416:477:3,0.07
+Cephalorhynchus,hectori,-47.75,167.75,3416:477:4,0.08
+Cephalorhynchus,hectori,-47.75,168.25,3416:478:3,0.10
+Cephalorhynchus,hectori,-47.75,168.75,3416:478:4,0.12
+Cephalorhynchus,hectori,-47.25,169.25,3416:479:1,0.06
+Cephalorhynchus,hectori,-47.25,169.75,3416:479:2,0.01
+Cephalorhynchus,hectori,-48.25,166.75,3416:486:2,0.02
+Cephalorhynchus,hectori,-48.25,167.25,3416:487:1,0.04
+Cephalorhynchus,hectori,-48.25,167.75,3416:487:2,0.03
+Cephalorhynchus,hectori,-48.25,168.25,3416:488:1,0.03
+Cephalorhynchus,hectori,-40.25,171.75,3417:101:2,0.03
+Cephalorhynchus,hectori,-40.75,171.25,3417:101:3,0.01
+Cephalorhynchus,hectori,-41.75,170.75,3417:110:4,0.08
+Cephalorhynchus,hectori,-44.75,172.75,3417:142:4,0.16
+Cephalorhynchus,hectori,-44.75,173.75,3417:143:4,0.04
+Cephalorhynchus,hectori,-40.25,177.25,3417:207:1,0.16
+Cephalorhynchus,hectori,-43.75,175.75,3417:235:4,0.07
+Cephalorhynchus,hectori,-43.25,176.75,3417:236:2,0.14
+Cephalorhynchus,hectori,-43.25,177.75,3417:237:2,0.02
+Cephalorhynchus,hectori,-44.25,175.75,3417:245:2,0.18
+Cephalorhynchus,hectori,-46.75,170.25,3417:360:3,0.07
+Cephalorhynchus,hectori,-37.25,174.75,3317:374:2,0.30
+Cephalorhynchus,hectori,-39.75,172.75,3317:392:4,0.31
+Cephalorhynchus,hectori,-39.25,173.25,3317:393:1,0.21
+Cephalorhynchus,hectori,-37.25,175.25,3317:475:1,0.24
+Cephalorhynchus,hectori,-37.75,175.75,3317:475:4,0.28
+Cephalorhynchus,hectori,-37.75,176.25,3317:476:3,0.23
+Cephalorhynchus,hectori,-38.25,178.25,3317:488:1,0.27
+Cephalorhynchus,hectori,-38.75,178.25,3317:488:3,0.30
+Cephalorhynchus,hectori,-46.25,166.25,3416:466:1,0.36
+Cephalorhynchus,hectori,-46.75,166.75,3416:466:4,0.22
+Cephalorhynchus,hectori,-47.25,167.75,3416:477:2,0.37
+Cephalorhynchus,hectori,-47.25,168.75,3416:478:2,0.23
+Cephalorhynchus,hectori,-41.25,171.25,3417:111:1,0.33
+Cephalorhynchus,hectori,-43.75,172.25,3417:132:3,0.38
+Cephalorhynchus,hectori,-43.75,174.25,3417:134:3,0.39
+Cephalorhynchus,hectori,-44.25,173.75,3417:143:2,0.28
+Cephalorhynchus,hectori,-43.25,175.25,3417:235:1,0.38
+Cephalorhynchus,hectori,-43.25,175.75,3417:235:2,0.35
+Cephalorhynchus,hectori,-43.75,175.25,3417:235:3,0.23
+Cephalorhynchus,hectori,-43.25,177.25,3417:237:1,0.22
+Cephalorhynchus,hectori,-44.25,176.25,3417:246:1,0.21
+Cephalorhynchus,hectori,-45.25,171.75,3417:351:2,0.36
+Cephalorhynchus,hectori,-45.75,171.25,3417:351:3,0.30
+Cephalorhynchus,hectori,-46.25,170.75,3417:360:2,0.35
+Cephalorhynchus,hectori,-37.75,174.75,3317:374:4,0.40
+Cephalorhynchus,hectori,-38.25,174.75,3317:384:2,0.45
+Cephalorhynchus,hectori,-38.75,174.25,3317:384:3,0.49
+Cephalorhynchus,hectori,-38.75,174.75,3317:384:4,0.55
+Cephalorhynchus,hectori,-39.25,173.75,3317:393:2,0.57
+Cephalorhynchus,hectori,-39.75,173.25,3317:393:3,0.43
+Cephalorhynchus,hectori,-38.75,177.75,3317:487:4,0.40
+Cephalorhynchus,hectori,-39.25,177.75,3317:497:2,0.52
+Cephalorhynchus,hectori,-39.75,177.25,3317:497:3,0.56
+Cephalorhynchus,hectori,-45.75,166.25,3416:456:3,0.57
+Cephalorhynchus,hectori,-46.75,167.25,3416:467:3,0.54
+Cephalorhynchus,hectori,-46.75,168.25,3416:468:3,0.41
+Cephalorhynchus,hectori,-47.25,168.25,3416:478:1,0.45
+Cephalorhynchus,hectori,-40.75,171.75,3417:101:4,0.52
+Cephalorhynchus,hectori,-43.75,171.75,3417:131:4,0.47
+Cephalorhynchus,hectori,-44.75,172.25,3417:142:3,0.48
+Cephalorhynchus,hectori,-39.75,173.75,3317:393:4,0.79
+Cephalorhynchus,hectori,-39.25,174.25,3317:394:1,0.66
+Cephalorhynchus,hectori,-39.25,176.75,3317:496:2,0.63
+Cephalorhynchus,hectori,-39.75,176.75,3317:496:4,0.73
+Cephalorhynchus,hectori,-39.25,177.25,3317:497:1,0.70
+Cephalorhynchus,hectori,-46.75,169.75,3416:469:4,0.64
+Cephalorhynchus,hectori,-40.25,172.25,3417:102:1,0.62
+Cephalorhynchus,hectori,-41.75,174.75,3417:114:4,0.78
+Cephalorhynchus,hectori,-42.25,170.75,3417:120:2,0.60
+Cephalorhynchus,hectori,-44.25,173.25,3417:143:1,0.64
+Cephalorhynchus,hectori,-40.25,176.75,3417:206:2,0.73
+Cephalorhynchus,hectori,-39.75,174.25,3317:394:3,0.86
+Cephalorhynchus,hectori,-39.75,174.75,3317:394:4,0.81
+Cephalorhynchus,hectori,-39.75,175.25,3317:495:3,0.82
+Cephalorhynchus,hectori,-43.75,168.25,3416:238:3,0.83
+Cephalorhynchus,hectori,-43.75,168.75,3416:238:4,1.00
+Cephalorhynchus,hectori,-43.25,169.25,3416:239:1,1.00
+Cephalorhynchus,hectori,-43.25,169.75,3416:239:2,1.00
+Cephalorhynchus,hectori,-43.75,169.25,3416:239:3,1.00
+Cephalorhynchus,hectori,-43.75,169.75,3416:239:4,1.00
+Cephalorhynchus,hectori,-44.25,167.75,3416:247:2,1.00
+Cephalorhynchus,hectori,-44.75,167.25,3416:247:3,1.00
+Cephalorhynchus,hectori,-44.75,167.75,3416:247:4,1.00
+Cephalorhynchus,hectori,-44.25,168.25,3416:248:1,1.00
+Cephalorhynchus,hectori,-45.25,166.75,3416:456:2,1.00
+Cephalorhynchus,hectori,-45.75,166.75,3416:456:4,0.96
+Cephalorhynchus,hectori,-45.25,167.25,3416:457:1,1.00
+Cephalorhynchus,hectori,-45.75,167.25,3416:457:3,1.00
+Cephalorhynchus,hectori,-46.25,166.75,3416:466:2,0.89
+Cephalorhynchus,hectori,-46.25,167.25,3416:467:1,1.00
+Cephalorhynchus,hectori,-46.25,167.75,3416:467:2,1.00
+Cephalorhynchus,hectori,-46.75,167.75,3416:467:4,1.00
+Cephalorhynchus,hectori,-46.25,168.25,3416:468:1,1.00
+Cephalorhynchus,hectori,-46.75,168.75,3416:468:4,0.96
+Cephalorhynchus,hectori,-46.25,169.75,3416:469:2,0.90
+Cephalorhynchus,hectori,-46.75,169.25,3416:469:3,0.85
+Cephalorhynchus,hectori,-40.25,172.75,3417:102:2,0.88
+Cephalorhynchus,hectori,-40.75,172.25,3417:102:3,0.95
+Cephalorhynchus,hectori,-40.75,172.75,3417:102:4,1.00
+Cephalorhynchus,hectori,-40.25,173.25,3417:103:1,0.94
+Cephalorhynchus,hectori,-40.25,173.75,3417:103:2,0.89
+Cephalorhynchus,hectori,-40.75,173.25,3417:103:3,0.98
+Cephalorhynchus,hectori,-40.75,173.75,3417:103:4,1.00
+Cephalorhynchus,hectori,-40.25,174.25,3417:104:1,0.90
+Cephalorhynchus,hectori,-40.25,174.75,3417:104:2,0.95
+Cephalorhynchus,hectori,-40.75,174.25,3417:104:3,1.00
+Cephalorhynchus,hectori,-40.75,174.75,3417:104:4,1.00
+Cephalorhynchus,hectori,-41.25,171.75,3417:111:2,0.91
+Cephalorhynchus,hectori,-41.75,171.25,3417:111:3,1.00
+Cephalorhynchus,hectori,-41.75,171.75,3417:111:4,1.00
+Cephalorhynchus,hectori,-41.25,172.25,3417:112:1,1.00
+Cephalorhynchus,hectori,-41.25,173.25,3417:113:1,0.98
+Cephalorhynchus,hectori,-41.25,173.75,3417:113:2,1.00
+Cephalorhynchus,hectori,-41.25,174.25,3417:114:1,1.00
+Cephalorhynchus,hectori,-41.25,174.75,3417:114:2,1.00
+Cephalorhynchus,hectori,-41.75,174.25,3417:114:3,1.00
+Cephalorhynchus,hectori,-42.75,170.25,3417:120:3,1.00
+Cephalorhynchus,hectori,-42.75,170.75,3417:120:4,1.00
+Cephalorhynchus,hectori,-42.25,171.25,3417:121:1,1.00
+Cephalorhynchus,hectori,-42.75,171.25,3417:121:3,1.00
+Cephalorhynchus,hectori,-42.25,173.75,3417:123:2,1.00
+Cephalorhynchus,hectori,-42.75,173.25,3417:123:3,1.00
+Cephalorhynchus,hectori,-42.75,173.75,3417:123:4,1.00
+Cephalorhynchus,hectori,-42.25,174.25,3417:124:1,1.00
+Cephalorhynchus,hectori,-43.25,170.25,3417:130:1,1.00
+Cephalorhynchus,hectori,-43.25,170.75,3417:130:2,1.00
+Cephalorhynchus,hectori,-43.75,172.75,3417:132:4,1.00
+Cephalorhynchus,hectori,-43.25,173.25,3417:133:1,1.00
+Cephalorhynchus,hectori,-43.25,173.75,3417:133:2,0.89
+Cephalorhynchus,hectori,-43.75,173.25,3417:133:3,1.00
+Cephalorhynchus,hectori,-43.75,173.75,3417:133:4,1.00
+Cephalorhynchus,hectori,-44.25,171.25,3417:141:1,1.00
+Cephalorhynchus,hectori,-44.75,171.25,3417:141:3,1.00
+Cephalorhynchus,hectori,-44.75,171.75,3417:141:4,0.99
+Cephalorhynchus,hectori,-44.25,172.25,3417:142:1,1.00
+Cephalorhynchus,hectori,-44.25,172.75,3417:142:2,1.00
+Cephalorhynchus,hectori,-40.25,175.25,3417:205:1,0.95
+Cephalorhynchus,hectori,-40.75,175.25,3417:205:3,1.00
+Cephalorhynchus,hectori,-40.75,176.25,3417:206:3,1.00
+Cephalorhynchus,hectori,-40.75,176.75,3417:206:4,0.88
+Cephalorhynchus,hectori,-41.25,175.25,3417:215:1,1.00
+Cephalorhynchus,hectori,-41.25,175.75,3417:215:2,1.00
+Cephalorhynchus,hectori,-41.75,175.25,3417:215:3,1.00
+Cephalorhynchus,hectori,-41.75,175.75,3417:215:4,1.00
+Cephalorhynchus,hectori,-41.25,176.25,3417:216:1,1.00
+Cephalorhynchus,hectori,-45.25,170.75,3417:350:2,1.00
+Cephalorhynchus,hectori,-45.75,170.25,3417:350:3,0.96
+Cephalorhynchus,hectori,-45.75,170.75,3417:350:4,0.83
+Cephalorhynchus,hectori,-45.25,171.25,3417:351:1,0.87
+Cephalorhynchus,hectori,-46.25,170.25,3417:360:1,0.80
+
+
+Occurrence cells used for creating environmental envelope (n = 26)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Cephalorhynchus,hectori,-46.75,169.25,3416:469:3,83,11.640025138855,10.235746383667,34.3989791870117,34.4275512695313,27.8719998896122,0,280.111328125,16
+Cephalorhynchus,hectori,-46.25,167.75,3416:467:2,70,12.6914796829224,10.4856109619141,34.5483589172363,34.6121368408203,34.9594615399837,0,263.334747314453,10
+Cephalorhynchus,hectori,-45.75,170.75,3417:350:4,53,11.5884971618652,10.3548364639282,34.4337882995605,34.3328399658203,28.421999886632,0,284.794006347656,15
+Cephalorhynchus,hectori,-45.25,170.75,3417:350:2,55,12.0535383224487,10.9244146347046,34.4813995361328,34.4096298217773,34.5127657055855,0,282.855926513672,5
+Cephalorhynchus,hectori,-44.25,171.25,3417:141:1,41,12.7749118804932,11.7388124465942,34.5266761779785,34.5081024169922,50.2229444682598,0,280.281372070313,6
+Cephalorhynchus,hectori,-44.25,171.75,3417:141:2,48,12.4954614639282,11.1204023361206,34.386360168457,34.4085960388184,58.122999966144604,0,284.896240234375,18
+Cephalorhynchus,hectori,-43.75,168.75,3416:238:4,575,14.4427556991577,11.1632490158081,34.9917678833008,34.9487457275391,28.4189991652966,0,224.435409545898,18
+Cephalorhynchus,hectori,-43.75,169.25,3416:239:3,228,14.4454736709595,14.4523649215698,34.9732246398926,34.9667587280273,37.5600010156631,0,265.438812255859,9
+Cephalorhynchus,hectori,-43.75,169.75,3416:239:4,53,14.1877031326294,13.8433284759521,34.931812286377,34.9088363647461,37.6345366239548,0,262.454833984375,1
+Cephalorhynchus,hectori,-43.75,172.25,3417:132:3,23,12.6951379776001,11.4903545379639,34.4395294189453,34.538501739502,55.0859682261944,0,281.595123291016,6
+Cephalorhynchus,hectori,-43.75,172.75,3417:132:4,36,12.4977693557739,11.0153541564941,34.4060173034668,34.5223770141602,46.67629301548,0,282.338256835938,11
+Cephalorhynchus,hectori,-43.75,173.25,3417:133:3,56,12.4489488601685,10.2500591278076,34.4121322631836,34.5700149536133,35.521999001503,0,278.235382080078,19
+Cephalorhynchus,hectori,-43.25,169.25,3416:239:1,655,14.8745946884155,6.79658603668213,35.032657623291,34.4965591430664,18.8699997961521,0,213.602767944336,78
+Cephalorhynchus,hectori,-43.25,169.75,3416:239:2,231,14.7236928939819,12.6274471282959,35.0523147583008,35.1107864379883,30.604999512434,0,214.934860229492,19
+Cephalorhynchus,hectori,-43.25,173.25,3417:133:1,53,12.5634851455688,11.1588459014893,34.4144897460938,34.6664772033691,43.4800013899803,0,276.262847900391,20
+Cephalorhynchus,hectori,-42.75,173.75,3417:123:4,695,12.9452867507935,3.89121294021606,34.4883651733398,34.484733581543,32.2589986026287,0,169.245910644531,49
+Cephalorhynchus,hectori,-42.25,171.25,3417:121:1,85,14.8679819107056,14.0336971282959,35.0690155029297,35.1746139526367,46.0049994289875,0,249.699661254883,13
+Cephalorhynchus,hectori,-42.25,173.75,3417:123:2,311,13.440526008606,8.11610984802246,34.600887298584,34.6598892211914,35.3601463139057,0,210.314102172852,10
+Cephalorhynchus,hectori,-42.25,178.75,3417:228:2,2308,15.2601881027222,1.87641704082489,35.2651901245117,34.7077713012695,9.723000228405,0,160.329849243164,277
+Cephalorhynchus,hectori,-41.75,171.25,3417:111:3,130,15.0814237594604,13.234715461731,34.9474182128906,35.2419548034668,35.2209992706776,0,214.862747192383,20
+Cephalorhynchus,hectori,-41.75,174.25,3417:114:3,79,13.0954923629761,13.0642061233521,34.5693054199219,34.9758071899414,38.198001682758296,0,260.342559814453,15
+Cephalorhynchus,hectori,-41.25,173.75,3417:113:2,6,14.4872369766235,14.3177671432495,34.8763465881348,35.0275115966797,34.3795455992222,0,254.580215454102,5
+Cephalorhynchus,hectori,-41.25,174.25,3417:114:1,45,14.077880859375,14.3364391326904,34.8726463317871,34.9836502075195,32.1730002760887,0,259.397644042969,18
+Cephalorhynchus,hectori,-40.75,173.75,3417:103:4,47,14.8862257003784,14.1851530075073,35.0137710571289,35.1517219543457,24.9119997024536,0,230.725280761719,21
+Cephalorhynchus,hectori,-40.75,174.25,3417:104:3,89,14.7269706726074,11.8815240859985,35.0648765563965,35.0263710021973,22.4559996277094,0,234.642822265625,84
+Cephalorhynchus,hectori,-36.75,174.25,3317:364:3,75,17.1210479736328,16.2752342224121,35.3159294128418,35.3081474304199,5.89699996635318,0,252.153900146484,19

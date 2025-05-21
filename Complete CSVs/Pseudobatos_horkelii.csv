@@ -1,0 +1,101 @@
+Mapping parameters for Pseudobatos horkelii (Brazilian guitarfish)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 41,
+Bounding Box (NSWE): ,-24,-41,-63,-55
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,17,73,150
+Temperature (°C),1,12,14.64,17.1,20.12
+Salinity (psu),1,7.06,22.06,33.1,34.1
+Primary Production (mgC·m-3·day-1) ,1,6.62,11.39,33.13,52.77
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,252.08,263.13,274.77,284.73
+Distance to Land (km),0,14,19,144,184.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 54): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Pseudobatos,horkelii,-35.25,-56.75,5305:456:2,0.19
+Pseudobatos,horkelii,-35.25,-57.25,5305:457:1,0.01
+Pseudobatos,horkelii,-37.75,-55.25,5305:475:3,0.19
+Pseudobatos,horkelii,-38.25,-55.25,5305:485:1,0.05
+Pseudobatos,horkelii,-38.25,-55.75,5305:485:2,0.07
+Pseudobatos,horkelii,-38.75,-55.75,5305:485:4,0.01
+Pseudobatos,horkelii,-38.75,-56.25,5305:486:3,0.04
+Pseudobatos,horkelii,-38.75,-56.75,5305:486:4,0.11
+Pseudobatos,horkelii,-39.25,-57.25,5305:497:1,0.01
+Pseudobatos,horkelii,-39.25,-57.75,5305:497:2,0.02
+Pseudobatos,horkelii,-34.75,-56.25,5305:246:3,0.39
+Pseudobatos,horkelii,-36.75,-55.25,5305:465:3,0.38
+Pseudobatos,horkelii,-38.25,-56.25,5305:486:1,0.31
+Pseudobatos,horkelii,-38.75,-57.25,5305:487:3,0.30
+Pseudobatos,horkelii,-38.75,-58.25,5305:488:3,0.22
+Pseudobatos,horkelii,-35.75,-56.75,5305:456:4,0.53
+Pseudobatos,horkelii,-35.75,-57.25,5305:457:3,0.40
+Pseudobatos,horkelii,-37.25,-55.25,5305:475:1,0.40
+Pseudobatos,horkelii,-37.25,-55.75,5305:475:2,0.53
+Pseudobatos,horkelii,-38.75,-57.75,5305:487:4,0.42
+Pseudobatos,horkelii,-35.25,-56.25,5305:456:1,0.65
+Pseudobatos,horkelii,-36.25,-55.25,5305:465:1,0.62
+Pseudobatos,horkelii,-36.25,-56.75,5305:466:2,0.61
+Pseudobatos,horkelii,-36.25,-57.25,5305:467:1,0.68
+Pseudobatos,horkelii,-37.75,-55.75,5305:475:4,0.65
+Pseudobatos,horkelii,-38.75,-61.75,5306:381:4,0.72
+Pseudobatos,horkelii,-38.75,-62.25,5306:382:3,0.69
+Pseudobatos,horkelii,-34.75,-55.25,5305:245:3,0.99
+Pseudobatos,horkelii,-34.75,-55.75,5305:245:4,0.87
+Pseudobatos,horkelii,-35.25,-55.25,5305:455:1,1.00
+Pseudobatos,horkelii,-35.25,-55.75,5305:455:2,1.00
+Pseudobatos,horkelii,-35.75,-55.25,5305:455:3,0.91
+Pseudobatos,horkelii,-35.75,-55.75,5305:455:4,1.00
+Pseudobatos,horkelii,-35.75,-56.25,5305:456:3,1.00
+Pseudobatos,horkelii,-36.25,-55.75,5305:465:2,1.00
+Pseudobatos,horkelii,-36.75,-55.75,5305:465:4,0.89
+Pseudobatos,horkelii,-36.25,-56.25,5305:466:1,0.96
+Pseudobatos,horkelii,-36.75,-56.25,5305:466:3,1.00
+Pseudobatos,horkelii,-36.75,-56.75,5305:466:4,1.00
+Pseudobatos,horkelii,-37.25,-56.25,5305:476:1,1.00
+Pseudobatos,horkelii,-37.25,-56.75,5305:476:2,1.00
+Pseudobatos,horkelii,-37.75,-56.25,5305:476:3,0.94
+Pseudobatos,horkelii,-37.75,-56.75,5305:476:4,1.00
+Pseudobatos,horkelii,-37.25,-57.25,5305:477:1,1.00
+Pseudobatos,horkelii,-37.75,-57.25,5305:477:3,1.00
+Pseudobatos,horkelii,-37.75,-57.75,5305:477:4,1.00
+Pseudobatos,horkelii,-38.25,-56.75,5305:486:2,0.98
+Pseudobatos,horkelii,-38.25,-57.25,5305:487:1,1.00
+Pseudobatos,horkelii,-38.25,-57.75,5305:487:2,0.88
+Pseudobatos,horkelii,-38.25,-58.25,5305:488:1,1.00
+Pseudobatos,horkelii,-38.75,-59.75,5305:489:4,0.85
+Pseudobatos,horkelii,-38.75,-60.25,5306:380:3,0.89
+Pseudobatos,horkelii,-38.75,-60.75,5306:380:4,0.87
+Pseudobatos,horkelii,-38.75,-61.25,5306:381:3,0.85
+
+
+Occurrence cells used for creating environmental envelope (n = 11)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Pseudobatos,horkelii,-40.25,-62.25,5406:102:1,7,14.6385154724121,14.6113882064819,32.7054214477539,33.6728134155273,6.62400014698505,0,257.153991699219,14
+Pseudobatos,horkelii,-38.75,-58.75,5305:488:4,29,15.0643749237061,13.0643005371094,34.1047706604004,33.5343475341797,11.386999860405899,0,271.891448974609,19
+Pseudobatos,horkelii,-38.25,-56.75,5305:486:2,62,14.5866937637329,9.73991107940674,33.0958595275879,33.7300720214844,25.823999196291002,0,267.525024414063,114
+Pseudobatos,horkelii,-38.25,-57.25,5305:487:1,43,15.0418128967285,11.9466381072998,32.8401794433594,33.5667991638184,18.401000648737,0,270.551940917969,82
+Pseudobatos,horkelii,-36.25,-55.75,5305:465:2,19,16.6893863677979,16.373327255249,26.7271213531494,33.3745384216309,33.1289991736412,0,267.087921142578,123
+Pseudobatos,horkelii,-35.75,-55.25,5305:455:3,25,16.8415184020996,14.2697925567627,29.3970794677734,33.7883567810059,34.8850004374981,0,267.653045654297,144
+Pseudobatos,horkelii,-35.75,-55.75,5305:455:4,19,16.9769859313965,16.963041305542,26.7722492218018,33.2688751220703,32.1479998528957,0,263.132385253906,144
+Pseudobatos,horkelii,-35.75,-56.25,5305:456:3,14,17.0714950561523,17.2550773620605,22.0552711486816,31.5366821289063,22.7540004998446,0,274.773376464844,113
+Pseudobatos,horkelii,-35.25,-55.25,5305:455:1,22,16.9881649017334,16.857536315918,26.800085067749,33.2472953796387,30.109999701380698,0,264.324127197266,89
+Pseudobatos,horkelii,-35.25,-55.75,5305:455:2,12,17.0997905731201,17.1310901641846,22.5268421173096,31.6376724243164,25.1499991863966,0,272.485992431641,89
+Pseudobatos,horkelii,-35.25,-56.25,5305:456:1,10,17.2557735443115,17.3931140899658,17.3382759094238,31.1883983612061,20.4300004988909,0,281.158905029297,89

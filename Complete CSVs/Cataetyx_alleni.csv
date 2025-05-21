@@ -1,0 +1,264 @@
+Mapping parameters for Cataetyx alleni ()
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 27 |  34 |  37,
+Bounding Box (NSWE): ,51,36,-10,11
+
+Pelagic: False,
+Layer used to generate probabilities: Bottom,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,480,542,714,1000
+Temperature (°C),1,1.74,2.24,16.26,18.57
+Salinity (psu),1,34.42,34.92,38.49,39.07
+Primary Production (mgC·m-3·day-1) ,1,-0.3,0.7,6.75,8.42
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),1,114.48,187.83,244.01,316.35
+Distance to Land (km),0,8,11,197,218
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 213): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Cataetyx,alleni,39.25,-9.75,7300:499:2,0.13
+Cataetyx,alleni,37.75,-9.75,7300:479:4,0.15
+Cataetyx,alleni,36.75,-2.75,7300:362:4,0.16
+Cataetyx,alleni,42.75,6.75,1400:226:4,0.05
+Cataetyx,alleni,42.75,4.75,1400:124:4,0.17
+Cataetyx,alleni,40.75,1.25,1400:101:3,0.09
+Cataetyx,alleni,38.25,8.25,1300:488:1,0.14
+Cataetyx,alleni,44.25,-9.25,7400:249:1,0.37
+Cataetyx,alleni,43.75,-5.25,7400:235:3,0.31
+Cataetyx,alleni,43.75,-1.75,7400:131:4,0.34
+Cataetyx,alleni,37.75,-0.75,7300:370:4,0.26
+Cataetyx,alleni,41.25,3.75,1400:113:2,0.32
+Cataetyx,alleni,47.75,-7.25,7400:477:3,0.49
+Cataetyx,alleni,42.25,10.25,1401:120:1,0.49
+Cataetyx,alleni,40.75,10.25,1401:100:3,0.51
+Cataetyx,alleni,42.25,9.75,1400:229:2,0.58
+Cataetyx,alleni,40.25,9.75,1400:209:2,0.51
+Cataetyx,alleni,42.75,4.25,1400:124:3,0.48
+Cataetyx,alleni,40.25,1.75,1400:101:2,0.57
+Cataetyx,alleni,38.75,10.25,1301:380:3,0.56
+Cataetyx,alleni,38.25,10.75,1301:380:2,0.49
+Cataetyx,alleni,38.25,10.25,1301:380:1,0.47
+Cataetyx,alleni,37.75,10.75,1301:370:4,0.51
+Cataetyx,alleni,37.75,10.25,1301:370:3,0.53
+Cataetyx,alleni,38.25,9.75,1300:489:2,0.57
+Cataetyx,alleni,37.75,9.75,1300:479:4,0.58
+Cataetyx,alleni,37.75,9.25,1300:479:3,0.59
+Cataetyx,alleni,46.75,-5.75,7400:465:4,0.62
+Cataetyx,alleni,46.25,-4.75,7400:364:2,0.78
+Cataetyx,alleni,43.75,-8.75,7400:238:4,0.67
+Cataetyx,alleni,43.75,-6.25,7400:236:3,0.67
+Cataetyx,alleni,36.25,-5.25,7300:465:1,0.79
+Cataetyx,alleni,37.25,-0.75,7300:370:2,0.76
+Cataetyx,alleni,42.75,10.25,1401:120:3,0.62
+Cataetyx,alleni,42.25,10.75,1401:120:2,0.63
+Cataetyx,alleni,41.75,10.75,1401:110:4,0.60
+Cataetyx,alleni,41.75,10.25,1401:110:3,0.63
+Cataetyx,alleni,41.25,10.75,1401:110:2,0.69
+Cataetyx,alleni,41.25,10.25,1401:110:1,0.69
+Cataetyx,alleni,40.25,10.25,1401:100:1,0.73
+Cataetyx,alleni,44.25,9.25,1400:249:1,0.68
+Cataetyx,alleni,44.25,8.75,1400:248:2,0.69
+Cataetyx,alleni,43.75,9.75,1400:239:4,0.79
+Cataetyx,alleni,43.75,9.25,1400:239:3,0.70
+Cataetyx,alleni,43.25,9.75,1400:239:2,0.62
+Cataetyx,alleni,43.25,9.25,1400:239:1,0.65
+Cataetyx,alleni,43.75,8.75,1400:238:4,0.68
+Cataetyx,alleni,43.25,7.25,1400:237:1,0.76
+Cataetyx,alleni,43.25,6.75,1400:236:2,0.71
+Cataetyx,alleni,41.75,9.75,1400:219:4,0.60
+Cataetyx,alleni,41.25,9.75,1400:219:2,0.73
+Cataetyx,alleni,41.75,8.75,1400:218:4,0.70
+Cataetyx,alleni,41.25,8.25,1400:218:1,0.66
+Cataetyx,alleni,40.75,9.75,1400:209:4,0.75
+Cataetyx,alleni,40.75,7.75,1400:207:4,0.71
+Cataetyx,alleni,40.25,7.75,1400:207:2,0.71
+Cataetyx,alleni,41.25,1.75,1400:111:2,0.65
+Cataetyx,alleni,38.75,10.75,1301:380:4,0.64
+Cataetyx,alleni,39.75,9.75,1300:499:4,0.72
+Cataetyx,alleni,39.75,7.75,1300:497:4,0.69
+Cataetyx,alleni,39.25,7.75,1300:497:2,0.61
+Cataetyx,alleni,38.75,9.75,1300:489:4,0.74
+Cataetyx,alleni,38.75,9.25,1300:489:3,0.75
+Cataetyx,alleni,38.25,9.25,1300:489:1,0.74
+Cataetyx,alleni,38.75,8.75,1300:488:4,0.63
+Cataetyx,alleni,38.75,8.25,1300:488:3,0.76
+Cataetyx,alleni,38.25,8.75,1300:488:2,0.74
+Cataetyx,alleni,38.75,7.75,1300:487:4,0.73
+Cataetyx,alleni,37.75,8.75,1300:478:4,0.78
+Cataetyx,alleni,38.75,1.75,1300:381:4,0.79
+Cataetyx,alleni,36.75,2.75,1300:362:4,0.61
+Cataetyx,alleni,48.25,-6.25,7400:486:1,1.00
+Cataetyx,alleni,47.75,-6.75,7400:476:4,0.95
+Cataetyx,alleni,47.25,-6.25,7400:476:1,1.00
+Cataetyx,alleni,47.25,-5.75,7400:475:2,1.00
+Cataetyx,alleni,47.25,-5.25,7400:475:1,0.94
+Cataetyx,alleni,46.75,-5.25,7400:465:3,1.00
+Cataetyx,alleni,46.75,-4.75,7400:364:4,1.00
+Cataetyx,alleni,46.25,-4.25,7400:364:1,1.00
+Cataetyx,alleni,46.25,-3.75,7400:363:2,1.00
+Cataetyx,alleni,45.75,-3.75,7400:353:4,1.00
+Cataetyx,alleni,45.75,-3.25,7400:353:3,1.00
+Cataetyx,alleni,45.25,-3.25,7400:353:1,1.00
+Cataetyx,alleni,45.25,-2.75,7400:352:2,1.00
+Cataetyx,alleni,45.25,-2.25,7400:352:1,1.00
+Cataetyx,alleni,44.25,-8.75,7400:248:2,1.00
+Cataetyx,alleni,44.25,-8.25,7400:248:1,1.00
+Cataetyx,alleni,44.25,-7.75,7400:247:2,0.93
+Cataetyx,alleni,44.25,-7.25,7400:247:1,0.96
+Cataetyx,alleni,44.25,-6.75,7400:246:2,0.98
+Cataetyx,alleni,44.25,-5.25,7400:245:1,0.82
+Cataetyx,alleni,43.75,-9.25,7400:239:3,1.00
+Cataetyx,alleni,43.25,-9.75,7400:239:2,0.83
+Cataetyx,alleni,42.75,-9.75,7400:229:4,1.00
+Cataetyx,alleni,40.25,-9.75,7400:209:2,1.00
+Cataetyx,alleni,44.25,-4.75,7400:144:2,1.00
+Cataetyx,alleni,44.75,-2.25,7400:142:3,1.00
+Cataetyx,alleni,44.25,-2.25,7400:142:1,1.00
+Cataetyx,alleni,43.75,-4.75,7400:134:4,1.00
+Cataetyx,alleni,43.75,-4.25,7400:134:3,0.86
+Cataetyx,alleni,43.75,-3.75,7400:133:4,1.00
+Cataetyx,alleni,43.75,-3.25,7400:133:3,1.00
+Cataetyx,alleni,43.75,-2.75,7400:132:4,1.00
+Cataetyx,alleni,43.75,-2.25,7400:132:3,0.97
+Cataetyx,alleni,39.75,-9.75,7300:499:4,1.00
+Cataetyx,alleni,38.75,-9.75,7300:489:4,1.00
+Cataetyx,alleni,38.25,-9.75,7300:489:2,1.00
+Cataetyx,alleni,38.25,-9.25,7300:489:1,1.00
+Cataetyx,alleni,37.75,-9.25,7300:479:3,1.00
+Cataetyx,alleni,37.25,-9.25,7300:479:1,1.00
+Cataetyx,alleni,36.75,-9.25,7300:469:3,1.00
+Cataetyx,alleni,36.75,-8.75,7300:468:4,1.00
+Cataetyx,alleni,36.75,-8.25,7300:468:3,1.00
+Cataetyx,alleni,36.75,-7.75,7300:467:4,1.00
+Cataetyx,alleni,36.75,-7.25,7300:467:3,1.00
+Cataetyx,alleni,36.25,-7.75,7300:467:2,1.00
+Cataetyx,alleni,36.25,-7.25,7300:467:1,1.00
+Cataetyx,alleni,36.25,-6.75,7300:466:2,1.00
+Cataetyx,alleni,36.25,-5.75,7300:465:2,1.00
+Cataetyx,alleni,38.25,-0.25,7300:380:1,1.00
+Cataetyx,alleni,37.25,-1.75,7300:371:2,1.00
+Cataetyx,alleni,37.25,-1.25,7300:371:1,1.00
+Cataetyx,alleni,37.75,-0.25,7300:370:3,1.00
+Cataetyx,alleni,36.75,-4.25,7300:364:3,1.00
+Cataetyx,alleni,36.25,-4.75,7300:364:2,0.94
+Cataetyx,alleni,36.25,-4.25,7300:364:1,1.00
+Cataetyx,alleni,36.75,-3.75,7300:363:4,1.00
+Cataetyx,alleni,36.75,-3.25,7300:363:3,0.97
+Cataetyx,alleni,36.25,-3.75,7300:363:2,0.83
+Cataetyx,alleni,36.25,-3.25,7300:363:1,0.95
+Cataetyx,alleni,36.75,-2.25,7300:362:3,1.00
+Cataetyx,alleni,36.25,-2.75,7300:362:2,1.00
+Cataetyx,alleni,36.25,-2.25,7300:362:1,1.00
+Cataetyx,alleni,36.75,-1.75,7300:361:4,1.00
+Cataetyx,alleni,36.25,-0.25,7300:360:1,1.00
+Cataetyx,alleni,44.25,8.25,1400:248:1,1.00
+Cataetyx,alleni,43.75,8.25,1400:238:3,0.97
+Cataetyx,alleni,43.75,7.75,1400:237:4,1.00
+Cataetyx,alleni,43.75,7.25,1400:237:3,0.91
+Cataetyx,alleni,43.25,6.25,1400:236:1,1.00
+Cataetyx,alleni,42.75,9.75,1400:229:4,0.83
+Cataetyx,alleni,42.75,9.25,1400:229:3,0.87
+Cataetyx,alleni,42.75,8.75,1400:228:4,0.86
+Cataetyx,alleni,42.25,8.75,1400:228:2,0.82
+Cataetyx,alleni,42.75,6.25,1400:226:3,0.84
+Cataetyx,alleni,42.75,5.75,1400:225:4,0.95
+Cataetyx,alleni,42.75,5.25,1400:225:3,1.00
+Cataetyx,alleni,41.25,8.75,1400:218:2,1.00
+Cataetyx,alleni,40.75,8.25,1400:208:3,1.00
+Cataetyx,alleni,40.25,8.25,1400:208:1,1.00
+Cataetyx,alleni,42.75,3.75,1400:123:4,0.95
+Cataetyx,alleni,42.25,3.75,1400:123:2,1.00
+Cataetyx,alleni,42.25,3.25,1400:123:1,0.95
+Cataetyx,alleni,41.75,3.75,1400:113:4,1.00
+Cataetyx,alleni,41.75,3.25,1400:113:3,1.00
+Cataetyx,alleni,41.25,3.25,1400:113:1,1.00
+Cataetyx,alleni,41.75,2.75,1400:112:4,0.91
+Cataetyx,alleni,41.25,2.75,1400:112:2,1.00
+Cataetyx,alleni,41.25,2.25,1400:112:1,1.00
+Cataetyx,alleni,40.25,4.25,1400:104:1,1.00
+Cataetyx,alleni,40.25,3.75,1400:103:2,1.00
+Cataetyx,alleni,40.25,3.25,1400:103:1,1.00
+Cataetyx,alleni,40.25,2.75,1400:102:2,0.96
+Cataetyx,alleni,40.75,1.75,1400:101:4,1.00
+Cataetyx,alleni,40.25,1.25,1400:101:1,1.00
+Cataetyx,alleni,39.25,9.75,1300:499:2,0.93
+Cataetyx,alleni,39.25,9.25,1300:499:1,0.93
+Cataetyx,alleni,39.75,8.25,1300:498:3,0.81
+Cataetyx,alleni,37.25,8.75,1300:478:2,1.00
+Cataetyx,alleni,37.25,8.25,1300:478:1,0.82
+Cataetyx,alleni,37.25,7.75,1300:477:2,1.00
+Cataetyx,alleni,37.25,7.25,1300:477:1,0.88
+Cataetyx,alleni,37.25,6.75,1300:476:2,1.00
+Cataetyx,alleni,37.25,6.25,1300:476:1,1.00
+Cataetyx,alleni,36.75,6.25,1300:466:3,1.00
+Cataetyx,alleni,36.75,5.75,1300:465:4,1.00
+Cataetyx,alleni,36.75,5.25,1300:465:3,1.00
+Cataetyx,alleni,39.75,4.75,1300:394:4,0.92
+Cataetyx,alleni,39.75,4.25,1300:394:3,0.88
+Cataetyx,alleni,39.75,3.75,1300:393:4,0.83
+Cataetyx,alleni,39.25,3.75,1300:393:2,0.81
+Cataetyx,alleni,39.25,3.25,1300:393:1,0.81
+Cataetyx,alleni,39.75,2.75,1300:392:4,0.87
+Cataetyx,alleni,39.75,2.25,1300:392:3,0.88
+Cataetyx,alleni,39.25,2.75,1300:392:2,0.83
+Cataetyx,alleni,39.25,2.25,1300:392:1,0.84
+Cataetyx,alleni,39.75,1.25,1300:391:3,1.00
+Cataetyx,alleni,39.25,1.75,1300:391:2,0.84
+Cataetyx,alleni,39.25,1.25,1300:391:1,0.88
+Cataetyx,alleni,39.75,0.75,1300:390:4,1.00
+Cataetyx,alleni,39.75,0.25,1300:390:3,1.00
+Cataetyx,alleni,39.25,0.75,1300:390:2,1.00
+Cataetyx,alleni,39.25,0.25,1300:390:1,1.00
+Cataetyx,alleni,38.75,2.75,1300:382:4,0.83
+Cataetyx,alleni,38.75,2.25,1300:382:3,0.82
+Cataetyx,alleni,38.75,1.25,1300:381:3,0.80
+Cataetyx,alleni,38.25,1.75,1300:381:2,0.87
+Cataetyx,alleni,38.25,1.25,1300:381:1,0.89
+Cataetyx,alleni,38.75,0.75,1300:380:4,1.00
+Cataetyx,alleni,38.75,0.25,1300:380:3,1.00
+Cataetyx,alleni,38.25,0.75,1300:380:2,0.99
+Cataetyx,alleni,38.25,0.25,1300:380:1,0.98
+Cataetyx,alleni,37.75,0.25,1300:370:3,1.00
+Cataetyx,alleni,36.75,4.75,1300:364:4,1.00
+Cataetyx,alleni,36.75,4.25,1300:364:3,1.00
+Cataetyx,alleni,36.75,3.75,1300:363:4,1.00
+Cataetyx,alleni,36.75,3.25,1300:363:3,0.98
+Cataetyx,alleni,36.75,2.25,1300:362:3,1.00
+Cataetyx,alleni,36.75,1.75,1300:361:4,1.00
+Cataetyx,alleni,36.75,1.25,1300:361:3,1.00
+Cataetyx,alleni,36.75,0.75,1300:360:4,1.00
+Cataetyx,alleni,36.25,0.75,1300:360:2,1.00
+Cataetyx,alleni,36.25,0.25,1300:360:1,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 15)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Cataetyx,alleni,38.25,0.25,1300:380:1,439,19.8483695983887,13.1351089477539,36.7266578674316,38.502368927002,1.07300002127886,0,192.389373779297,81
+Cataetyx,alleni,38.25,0.75,1300:380:2,1122,19.9397640228271,13.0593090057373,36.7226982116699,38.4650840759277,0.691999972332269,0,190.182739257813,114
+Cataetyx,alleni,38.75,0.25,1300:380:3,129,19.6743469238281,14.7130336761475,36.8929710388184,38.0796432495117,1.13800005055964,0,244.010665893555,18
+Cataetyx,alleni,38.75,0.75,1300:380:4,670,19.8303318023682,13.077299118042,36.8512496948242,38.4749069213867,0.71699998807162,0,187.834808349609,87
+Cataetyx,alleni,39.25,0.25,1300:390:1,536,19.5118007659912,13.0798244476318,37.0934524536133,38.4852066040039,0.949000008404255,0,187.607040405273,65
+Cataetyx,alleni,39.25,-0.25,7300:390:1,31,19.5334815979004,18.5724277496338,37.1259803771973,37.8517265319824,1.94200000260025,0,237.670059204102,11
+Cataetyx,alleni,40.25,3.25,1400:103:1,1362,19.5524978637695,13.0764751434326,37.3389053344727,38.4668884277344,0.699999975040555,0,193.745040893555,85
+Cataetyx,alleni,40.75,1.25,1400:101:3,157,19.0341854095459,13.6135177612305,37.4137001037598,38.2907981872559,8.27800016850233,0,230.364410400391,63
+Cataetyx,alleni,40.75,1.75,1400:101:4,1184,19.1184329986572,13.0737648010254,37.5277938842773,38.4682693481445,2.34099989756942,0,193.870208740234,90
+Cataetyx,alleni,40.75,2.25,1400:102:3,1679,19.2042961120605,13.0722179412842,37.5251083374023,38.4464950561523,1.22099998407066,0,194.587173461914,98
+Cataetyx,alleni,41.25,2.25,1400:112:1,491,18.7083358764648,13.1014938354492,37.727954864502,38.4890441894531,3.51700000464916,0,188.177169799805,18
+Cataetyx,alleni,41.25,2.75,1400:112:2,1160,18.6344223022461,13.0761938095093,37.7417526245117,38.4667701721191,1.84100004844368,0,193.715850830078,79
+Cataetyx,alleni,41.75,2.75,1400:112:4,162,18.1674747467041,16.2566719055176,37.7928657531738,38.2046394348145,3.9360001683235204,0,250.462738037109,8
+Cataetyx,alleni,45.25,-5.75,7400:455:2,4735,15.793963432312,2.13840198516846,35.6884765625,34.899242401123,4.95699979364872,0,240.648849487305,203
+Cataetyx,alleni,46.75,-5.75,7400:465:4,3426,14.9171676635742,2.23694801330566,35.606876373291,34.9226417541504,6.74899993464351,0,243.304733276367,197

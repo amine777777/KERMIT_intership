@@ -1,0 +1,139 @@
+Mapping parameters for Hydrodamalis gigas (Steller's sea cow)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO
+FAOAreas: 61 |  67 |  77,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,2,9,15
+Temperature (°C),1,1.72,4.13,15.47,21
+Salinity (psu),1,31.14,31.74,33.44,33.94
+Primary Production (mgC·m-3·day-1) ,1,4.85,6.05,75.39,93.6
+Sea Ice Concentration (0-1 fraction),1,-0.98,0,0.19,0.21
+Dissolved Bottom Oxygen (mmol·m-3),0,33.18,39.48,346.38,353.35
+Distance to Land (km),0,6,7,19,167
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 84): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Hydrodamalis,gigas,33.25,129.75,1312:239:2,0.06
+Hydrodamalis,gigas,34.25,127.75,1312:247:2,0.06
+Hydrodamalis,gigas,34.75,128.25,1312:248:3,0.04
+Hydrodamalis,gigas,33.75,130.75,1313:130:4,0.10
+Hydrodamalis,gigas,34.25,131.25,1313:141:1,0.12
+Hydrodamalis,gigas,34.25,132.25,1313:142:1,0.04
+Hydrodamalis,gigas,34.25,132.75,1313:142:2,0.18
+Hydrodamalis,gigas,34.25,133.75,1313:143:2,0.11
+Hydrodamalis,gigas,34.25,134.25,1313:144:1,0.08
+Hydrodamalis,gigas,34.75,134.75,1313:144:4,0.09
+Hydrodamalis,gigas,59.25,148.75,1514:498:2,0.13
+Hydrodamalis,gigas,54.25,159.75,1515:249:2,0.17
+Hydrodamalis,gigas,-45.75,-73.25,5407:353:3,0.17
+Hydrodamalis,gigas,-46.25,-73.75,5407:363:2,0.17
+Hydrodamalis,gigas,-53.75,-69.25,5506:239:3,0.05
+Hydrodamalis,gigas,53.75,-132.75,7513:132:4,0.03
+Hydrodamalis,gigas,57.75,-135.75,7513:475:4,0.11
+Hydrodamalis,gigas,56.25,-159.75,7515:469:2,0.02
+Hydrodamalis,gigas,65.25,-175.75,7617:455:2,0.01
+Hydrodamalis,gigas,35.75,136.25,1313:456:3,0.38
+Hydrodamalis,gigas,43.75,144.75,1414:134:4,0.33
+Hydrodamalis,gigas,62.25,179.75,1617:229:2,0.30
+Hydrodamalis,gigas,-44.25,-74.25,5407:144:1,0.33
+Hydrodamalis,gigas,-48.25,-75.25,5407:485:1,0.33
+Hydrodamalis,gigas,-54.75,-69.25,5506:249:3,0.21
+Hydrodamalis,gigas,-54.75,-69.75,5506:249:4,0.25
+Hydrodamalis,gigas,-55.25,-68.75,5506:458:2,0.22
+Hydrodamalis,gigas,-55.25,-69.25,5506:459:1,0.23
+Hydrodamalis,gigas,-51.75,-72.75,5507:112:4,0.28
+Hydrodamalis,gigas,-52.75,-72.75,5507:122:4,0.20
+Hydrodamalis,gigas,-54.25,-70.25,5507:140:1,0.28
+Hydrodamalis,gigas,-54.75,-70.25,5507:140:3,0.26
+Hydrodamalis,gigas,-54.75,-70.75,5507:140:4,0.28
+Hydrodamalis,gigas,27.75,-114.25,7211:374:3,0.24
+Hydrodamalis,gigas,35.25,128.75,1312:458:2,0.51
+Hydrodamalis,gigas,36.75,137.75,1313:467:4,0.49
+Hydrodamalis,gigas,53.25,156.25,1515:236:1,0.50
+Hydrodamalis,gigas,-46.75,-74.25,5407:364:3,0.50
+Hydrodamalis,gigas,-52.25,-73.75,5507:123:2,0.58
+Hydrodamalis,gigas,-53.25,-72.25,5507:132:1,0.51
+Hydrodamalis,gigas,-53.75,-72.75,5507:132:4,0.42
+Hydrodamalis,gigas,57.25,-154.25,7515:374:1,0.40
+Hydrodamalis,gigas,37.25,140.75,1314:370:2,0.71
+Hydrodamalis,gigas,51.75,156.75,1515:216:4,0.67
+Hydrodamalis,gigas,58.75,150.25,1515:380:3,0.73
+Hydrodamalis,gigas,58.75,150.75,1515:380:4,0.66
+Hydrodamalis,gigas,55.25,155.75,1515:455:2,0.67
+Hydrodamalis,gigas,-43.75,-72.75,5407:132:4,0.68
+Hydrodamalis,gigas,-48.75,-75.25,5407:485:3,0.77
+Hydrodamalis,gigas,-49.25,-75.25,5407:495:1,0.74
+Hydrodamalis,gigas,-48.25,-73.75,5407:383:2,0.67
+Hydrodamalis,gigas,-50.25,-74.25,5507:104:1,0.73
+Hydrodamalis,gigas,-51.75,-72.25,5507:112:3,0.73
+Hydrodamalis,gigas,34.25,-118.25,7311:248:1,0.66
+Hydrodamalis,gigas,34.75,-120.25,7312:140:3,0.67
+Hydrodamalis,gigas,56.75,-154.25,7515:364:3,0.68
+Hydrodamalis,gigas,38.75,127.75,1312:487:4,1.00
+Hydrodamalis,gigas,38.25,128.25,1312:488:1,1.00
+Hydrodamalis,gigas,38.75,141.25,1314:381:3,1.00
+Hydrodamalis,gigas,43.75,144.25,1414:134:3,1.00
+Hydrodamalis,gigas,46.75,142.25,1414:362:3,0.83
+Hydrodamalis,gigas,58.75,148.75,1514:488:4,0.88
+Hydrodamalis,gigas,58.75,149.75,1514:489:4,0.80
+Hydrodamalis,gigas,53.75,156.25,1515:236:3,1.00
+Hydrodamalis,gigas,57.25,157.25,1515:477:1,0.85
+Hydrodamalis,gigas,59.25,162.75,1516:392:2,0.86
+Hydrodamalis,gigas,-31.75,-71.25,5307:111:3,1.00
+Hydrodamalis,gigas,-42.25,-73.75,5407:123:2,0.92
+Hydrodamalis,gigas,-44.25,-72.75,5407:142:2,1.00
+Hydrodamalis,gigas,-44.25,-73.75,5407:143:2,1.00
+Hydrodamalis,gigas,-44.75,-74.25,5407:144:3,1.00
+Hydrodamalis,gigas,-45.25,-74.25,5407:354:1,1.00
+Hydrodamalis,gigas,-47.75,-73.75,5407:373:4,1.00
+Hydrodamalis,gigas,-47.75,-74.25,5407:374:3,1.00
+Hydrodamalis,gigas,-49.75,-74.75,5407:394:4,0.84
+Hydrodamalis,gigas,-51.75,-73.25,5507:113:3,0.97
+Hydrodamalis,gigas,-51.25,-74.75,5507:114:2,1.00
+Hydrodamalis,gigas,-51.75,-74.25,5507:114:3,1.00
+Hydrodamalis,gigas,-51.75,-74.75,5507:114:4,0.89
+Hydrodamalis,gigas,-52.25,-72.75,5507:122:2,0.80
+Hydrodamalis,gigas,-52.25,-73.25,5507:123:1,0.92
+Hydrodamalis,gigas,57.25,-153.75,7515:373:2,1.00
+Hydrodamalis,gigas,53.75,-166.75,7516:236:4,1.00
+Hydrodamalis,gigas,55.25,-162.75,7516:352:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 19)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Hydrodamalis,gigas,34.25,-119.75,7311:249:2,236,15.4664936065674,9.33530902862549,33.4423599243164,34.1384048461914,47.0339991152287,0,60.8652267456055,19
+Hydrodamalis,gigas,35.25,140.25,1314:350:1,162,20.509391784668,13.312216758728,33.8446502685547,34.439769744873,40.2425564825535,0,185.269485473633,10
+Hydrodamalis,gigas,36.75,-121.75,7312:361:4,200,13.1923837661743,9.9427375793457,32.4601554870605,33.4761924743652,75.3878429532051,0,169.73454284668,8
+Hydrodamalis,gigas,37.75,-122.25,7312:372:3,37,12.5448198318481,12.5954055786133,31.915958404541,32.8801536560059,93.5980007052422,0,264.184265136719,9
+Hydrodamalis,gigas,42.75,141.75,1414:121:4,58,11.5554504394531,6.64012956619263,32.8326721191406,33.736213684082,18.4515509754419,0.000148025195812806,185.440582275391,6
+Hydrodamalis,gigas,45.75,139.75,1413:459:4,1187,9.71163368225098,-0.115299001336098,33.4302139282227,34.0528297424316,4.8460001125931695,0.00000499999987368938,205.414901733398,167
+Hydrodamalis,gigas,51.25,-179.25,7517:219:1,1653,5.52315187454224,2.69729208946228,32.6051788330078,34.3738632202148,9.88900009542704,0,33.1798095703125,17
+Hydrodamalis,gigas,51.75,177.25,1517:217:3,1119,5.34942007064819,4.36141586303711,32.7916641235352,33.1138191223145,8.52200016379356,0,272.313598632813,17
+Hydrodamalis,gigas,51.75,178.75,1517:218:4,321,5.14307880401611,3.07263207435608,32.8441276550293,34.2838172912598,9.952999651432041,0,39.4846687316895,16
+Hydrodamalis,gigas,51.75,-176.75,7517:216:4,169,5.60723352432251,3.45453572273254,32.6673736572266,33.7836952209473,12.0179373770952,0,212.520721435547,14
+Hydrodamalis,gigas,51.75,-177.25,7517:217:3,473,5.44958305358887,5.65279197692871,32.6623191833496,32.8848571777344,14.054000377654999,0,311.611877441406,15
+Hydrodamalis,gigas,52.25,175.75,1517:225:2,620,5.4409761428833,3.85258603096008,32.9104461669922,33.8481864929199,6.0490001924336,0,87.177848815918,17
+Hydrodamalis,gigas,52.25,-174.75,7517:124:2,757,5.51073598861694,4.51453399658203,32.6999130249023,33.5839576721191,14.333999715745401,0,119.641510009766,16
+Hydrodamalis,gigas,52.75,172.75,1517:122:4,721,5.7304310798645,5.48718595504761,32.874568939209,32.8922004699707,12.5820003449917,0,316.413757324219,13
+Hydrodamalis,gigas,55.25,165.75,1516:455:2,1215,5.25799608230591,4.79941511154175,32.944393157959,32.958984375,14.7200003266335,0.0000409999993280508,318.159362792969,15
+Hydrodamalis,gigas,55.25,166.25,1516:456:1,286,5.23025989532471,4.83991003036499,32.9648971557617,32.9745216369629,25.4439990967512,0.0000270000000455184,320.053039550781,11
+Hydrodamalis,gigas,58.75,162.75,1516:382:4,19,4.12787818908691,2.67110204696655,32.3115272521973,32.8637580871582,27.1680001169443,0.190102994441986,353.34716796875,11
+Hydrodamalis,gigas,58.75,-152.25,7515:382:3,73,6.84739398956299,5.19048881530762,31.141300201416,32.8164482116699,12.4390004202724,0.00000300000010611257,271.730041503906,14
+Hydrodamalis,gigas,63.25,-170.25,7617:130:1,25,1.71847987174988,0.888995885848999,31.7407722473145,32.015266418457,10.890792123973402,0.205060020089149,346.3759765625,7

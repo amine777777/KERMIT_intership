@@ -1,0 +1,199 @@
+Mapping parameters for Hadropareia middendorffii ()
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO
+FAOAreas: 61,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,6,31,60
+Temperature (°C),1,0.71,3.23,6.66,7.75
+Salinity (psu),1,31.28,31.78,32.54,33.04
+Primary Production (mgC·m-3·day-1) ,1,12.73,16.53,24.62,27.17
+Sea Ice Concentration (0-1 fraction),1,0.02,0.05,0.17,0.19
+Dissolved Bottom Oxygen (mmol·m-3),0,247.56,292.13,350.43,405.15
+Distance to Land (km),0,1.875,5.4,15.1,20.875
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 159): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Hadropareia,middendorffii,45.75,143.25,1414:353:3,0.19
+Hadropareia,middendorffii,46.25,143.25,1414:363:1,0.01
+Hadropareia,middendorffii,47.25,142.25,1414:372:1,0.05
+Hadropareia,middendorffii,47.75,142.25,1414:372:3,0.17
+Hadropareia,middendorffii,49.75,144.75,1414:394:4,0.10
+Hadropareia,middendorffii,57.25,138.75,1513:478:2,0.03
+Hadropareia,middendorffii,50.25,143.75,1514:103:2,0.11
+Hadropareia,middendorffii,59.25,142.75,1514:392:2,0.02
+Hadropareia,middendorffii,59.25,143.25,1514:393:1,0.15
+Hadropareia,middendorffii,58.75,145.75,1514:485:4,0.01
+Hadropareia,middendorffii,58.75,146.25,1514:486:3,0.02
+Hadropareia,middendorffii,58.75,147.75,1514:487:4,0.15
+Hadropareia,middendorffii,59.75,148.75,1514:498:4,0.12
+Hadropareia,middendorffii,58.75,154.75,1515:384:4,0.14
+Hadropareia,middendorffii,55.25,155.25,1515:455:1,0.10
+Hadropareia,middendorffii,58.75,157.75,1515:487:4,0.10
+Hadropareia,middendorffii,59.25,158.75,1515:498:2,0.08
+Hadropareia,middendorffii,58.75,163.75,1516:383:4,0.17
+Hadropareia,middendorffii,58.75,164.25,1516:384:3,0.14
+Hadropareia,middendorffii,58.75,164.75,1516:384:4,0.11
+Hadropareia,middendorffii,59.75,163.75,1516:393:4,0.15
+Hadropareia,middendorffii,59.25,165.75,1516:495:2,0.05
+Hadropareia,middendorffii,59.75,170.25,1517:390:3,0.05
+Hadropareia,middendorffii,60.75,168.75,1616:208:4,0.19
+Hadropareia,middendorffii,60.25,169.25,1616:209:1,0.11
+Hadropareia,middendorffii,60.25,169.75,1616:209:2,0.01
+Hadropareia,middendorffii,60.75,170.75,1617:100:4,0.17
+Hadropareia,middendorffii,60.25,171.25,1617:101:1,0.18
+Hadropareia,middendorffii,61.75,173.75,1617:113:4,0.13
+Hadropareia,middendorffii,65.25,-176.75,7617:456:2,0.17
+Hadropareia,middendorffii,46.75,142.75,1414:362:4,0.37
+Hadropareia,middendorffii,46.75,143.25,1414:363:3,0.37
+Hadropareia,middendorffii,50.25,144.25,1514:104:1,0.22
+Hadropareia,middendorffii,58.25,141.25,1514:381:1,0.23
+Hadropareia,middendorffii,58.25,142.25,1514:382:1,0.29
+Hadropareia,middendorffii,58.75,142.25,1514:382:3,0.30
+Hadropareia,middendorffii,59.25,147.25,1514:497:1,0.27
+Hadropareia,middendorffii,59.75,149.25,1514:499:3,0.22
+Hadropareia,middendorffii,59.75,149.75,1514:499:4,0.35
+Hadropareia,middendorffii,58.75,153.75,1515:383:4,0.39
+Hadropareia,middendorffii,58.75,154.25,1515:384:3,0.31
+Hadropareia,middendorffii,55.25,155.75,1515:455:2,0.20
+Hadropareia,middendorffii,55.75,155.25,1515:455:3,0.26
+Hadropareia,middendorffii,58.25,163.75,1516:383:2,0.38
+Hadropareia,middendorffii,59.75,161.25,1516:391:3,0.31
+Hadropareia,middendorffii,59.25,162.75,1516:392:2,0.26
+Hadropareia,middendorffii,60.75,169.25,1616:209:3,0.37
+Hadropareia,middendorffii,60.75,172.75,1617:102:4,0.31
+Hadropareia,middendorffii,62.25,175.75,1617:225:2,0.36
+Hadropareia,middendorffii,62.25,177.25,1617:227:1,0.39
+Hadropareia,middendorffii,65.25,-175.75,7617:455:2,0.23
+Hadropareia,middendorffii,65.25,-176.25,7617:456:1,0.27
+Hadropareia,middendorffii,47.25,142.75,1414:372:2,0.48
+Hadropareia,middendorffii,47.25,143.25,1414:373:1,0.55
+Hadropareia,middendorffii,48.75,144.75,1414:384:4,0.47
+Hadropareia,middendorffii,49.75,145.25,1414:495:3,0.52
+Hadropareia,middendorffii,57.75,141.25,1514:371:3,0.58
+Hadropareia,middendorffii,58.25,140.75,1514:380:2,0.54
+Hadropareia,middendorffii,58.75,143.25,1514:383:3,0.40
+Hadropareia,middendorffii,58.75,152.25,1515:382:3,0.51
+Hadropareia,middendorffii,59.75,150.25,1515:390:3,0.44
+Hadropareia,middendorffii,59.75,150.75,1515:390:4,0.48
+Hadropareia,middendorffii,59.75,151.25,1515:391:3,0.54
+Hadropareia,middendorffii,59.75,151.75,1515:391:4,0.59
+Hadropareia,middendorffii,55.75,155.75,1515:455:4,0.43
+Hadropareia,middendorffii,56.25,155.75,1515:465:2,0.45
+Hadropareia,middendorffii,58.75,158.25,1515:488:3,0.43
+Hadropareia,middendorffii,59.25,159.25,1515:499:1,0.56
+Hadropareia,middendorffii,59.75,160.75,1516:390:4,0.58
+Hadropareia,middendorffii,59.75,164.25,1516:394:3,0.48
+Hadropareia,middendorffii,60.25,170.25,1617:100:1,0.46
+Hadropareia,middendorffii,61.75,173.25,1617:113:3,0.40
+Hadropareia,middendorffii,64.75,-175.25,7617:245:3,0.51
+Hadropareia,middendorffii,64.75,-175.75,7617:245:4,0.47
+Hadropareia,middendorffii,49.25,144.75,1414:394:2,0.60
+Hadropareia,middendorffii,57.25,140.25,1514:370:1,0.73
+Hadropareia,middendorffii,58.75,142.75,1514:382:4,0.75
+Hadropareia,middendorffii,59.25,149.75,1514:499:2,0.63
+Hadropareia,middendorffii,58.75,150.75,1515:380:4,0.71
+Hadropareia,middendorffii,58.75,151.75,1515:381:4,0.73
+Hadropareia,middendorffii,58.75,152.75,1515:382:4,0.60
+Hadropareia,middendorffii,58.75,153.25,1515:383:3,0.69
+Hadropareia,middendorffii,57.75,162.75,1516:372:4,0.79
+Hadropareia,middendorffii,59.75,160.25,1516:390:3,0.67
+Hadropareia,middendorffii,59.25,163.25,1516:393:1,0.62
+Hadropareia,middendorffii,59.75,163.25,1516:393:3,0.64
+Hadropareia,middendorffii,59.25,165.25,1516:495:1,0.64
+Hadropareia,middendorffii,59.75,166.75,1516:496:4,0.69
+Hadropareia,middendorffii,60.25,165.25,1616:205:1,0.73
+Hadropareia,middendorffii,61.25,173.75,1617:113:2,0.64
+Hadropareia,middendorffii,61.75,175.25,1617:215:3,0.70
+Hadropareia,middendorffii,62.25,179.75,1617:229:2,0.69
+Hadropareia,middendorffii,45.75,143.75,1414:353:4,0.82
+Hadropareia,middendorffii,46.25,143.75,1414:363:2,0.90
+Hadropareia,middendorffii,46.75,143.75,1414:363:4,0.89
+Hadropareia,middendorffii,56.25,138.25,1513:468:1,1.00
+Hadropareia,middendorffii,56.75,138.75,1513:468:4,1.00
+Hadropareia,middendorffii,57.25,139.25,1513:479:1,1.00
+Hadropareia,middendorffii,57.25,139.75,1513:479:2,1.00
+Hadropareia,middendorffii,57.75,139.75,1513:479:4,0.92
+Hadropareia,middendorffii,57.75,140.25,1514:370:3,1.00
+Hadropareia,middendorffii,57.75,140.75,1514:370:4,1.00
+Hadropareia,middendorffii,58.25,141.75,1514:381:2,0.88
+Hadropareia,middendorffii,59.25,143.75,1514:393:2,0.89
+Hadropareia,middendorffii,59.25,144.25,1514:394:1,1.00
+Hadropareia,middendorffii,59.25,144.75,1514:394:2,1.00
+Hadropareia,middendorffii,59.25,145.25,1514:495:1,1.00
+Hadropareia,middendorffii,59.25,145.75,1514:495:2,1.00
+Hadropareia,middendorffii,59.25,146.25,1514:496:1,1.00
+Hadropareia,middendorffii,59.25,146.75,1514:496:2,1.00
+Hadropareia,middendorffii,59.25,147.75,1514:497:2,1.00
+Hadropareia,middendorffii,59.25,148.25,1514:498:1,1.00
+Hadropareia,middendorffii,59.25,148.75,1514:498:2,1.00
+Hadropareia,middendorffii,59.25,149.25,1514:499:1,1.00
+Hadropareia,middendorffii,58.75,151.25,1515:381:3,0.92
+Hadropareia,middendorffii,59.25,150.25,1515:390:1,0.86
+Hadropareia,middendorffii,59.25,150.75,1515:390:2,1.00
+Hadropareia,middendorffii,59.25,151.25,1515:391:1,1.00
+Hadropareia,middendorffii,59.25,151.75,1515:391:2,0.99
+Hadropareia,middendorffii,59.25,152.25,1515:392:1,0.97
+Hadropareia,middendorffii,59.25,152.75,1515:392:2,0.85
+Hadropareia,middendorffii,56.75,155.75,1515:465:4,0.96
+Hadropareia,middendorffii,56.75,156.25,1515:466:3,1.00
+Hadropareia,middendorffii,57.25,156.25,1515:476:1,1.00
+Hadropareia,middendorffii,57.25,156.75,1515:476:2,1.00
+Hadropareia,middendorffii,57.75,156.75,1515:476:4,1.00
+Hadropareia,middendorffii,57.25,157.25,1515:477:1,1.00
+Hadropareia,middendorffii,57.75,157.25,1515:477:3,1.00
+Hadropareia,middendorffii,57.75,157.75,1515:477:4,1.00
+Hadropareia,middendorffii,58.25,157.25,1515:487:1,0.87
+Hadropareia,middendorffii,58.25,157.75,1515:487:2,0.93
+Hadropareia,middendorffii,58.25,158.25,1515:488:1,0.99
+Hadropareia,middendorffii,58.25,158.75,1515:488:2,1.00
+Hadropareia,middendorffii,58.75,158.75,1515:488:4,0.95
+Hadropareia,middendorffii,58.25,159.25,1515:489:1,1.00
+Hadropareia,middendorffii,58.75,159.25,1515:489:3,0.99
+Hadropareia,middendorffii,58.75,159.75,1515:489:4,1.00
+Hadropareia,middendorffii,59.25,159.75,1515:499:2,0.98
+Hadropareia,middendorffii,58.25,163.25,1516:383:1,1.00
+Hadropareia,middendorffii,59.25,160.25,1516:390:1,1.00
+Hadropareia,middendorffii,59.25,163.75,1516:393:2,0.93
+Hadropareia,middendorffii,59.25,164.25,1516:394:1,1.00
+Hadropareia,middendorffii,59.25,164.75,1516:394:2,0.97
+Hadropareia,middendorffii,59.75,164.75,1516:394:4,0.90
+Hadropareia,middendorffii,59.75,165.25,1516:495:3,0.97
+Hadropareia,middendorffii,59.75,165.75,1516:495:4,0.91
+Hadropareia,middendorffii,59.75,166.25,1516:496:3,0.97
+Hadropareia,middendorffii,60.25,165.75,1616:205:2,1.00
+Hadropareia,middendorffii,60.25,166.25,1616:206:1,1.00
+Hadropareia,middendorffii,60.25,166.75,1616:206:2,1.00
+Hadropareia,middendorffii,60.25,167.25,1616:207:1,1.00
+Hadropareia,middendorffii,60.25,167.75,1616:207:2,0.93
+Hadropareia,middendorffii,60.25,170.75,1617:100:2,0.84
+Hadropareia,middendorffii,60.75,171.25,1617:101:3,1.00
+Hadropareia,middendorffii,60.75,171.75,1617:101:4,1.00
+Hadropareia,middendorffii,60.75,172.25,1617:102:3,1.00
+Hadropareia,middendorffii,61.25,172.25,1617:112:1,0.90
+Hadropareia,middendorffii,61.25,172.75,1617:112:2,0.87
+Hadropareia,middendorffii,61.25,173.25,1617:113:1,0.88
+
+
+Occurrence cells used for creating environmental envelope (n = 4)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Hadropareia,middendorffii,44.25,145.25,1414:245:1,517,7.74760389328003,7.14416313171387,32.1896171569824,32.7196083068848,18.1569997221231,0.0167289990931749,314.728790283203,16
+Hadropareia,middendorffii,58.75,162.75,1516:382:4,19,4.12787818908691,2.67110204696655,32.3115272521973,32.8637580871582,27.1680001169443,0.190102994441986,353.34716796875,11
+Hadropareia,middendorffii,59.25,159.75,1515:499:2,123,3.17794799804688,-0.207941994071007,32.2703475952148,32.7450828552246,18.685000017285297,0.11956100165844,282.441589355469,13
+Hadropareia,middendorffii,59.75,151.25,1515:391:3,95,3.34722399711609,0.845501065254211,31.6088619232178,32.3839797973633,15.8311929553747,0.127844631671906,343.622314453125,3

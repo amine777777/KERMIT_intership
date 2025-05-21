@@ -1,0 +1,85 @@
+Mapping parameters for Dentiraja polyommata (Argus skate)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 71 |  81,
+Bounding Box (NSWE): ,-18,-24,148,154
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,135,164,259,400
+Temperature (°C),1,23.9,24.61,25.83,30.03
+Salinity (psu),1,34.65,35.15,35.37,35.87
+Primary Production (mgC·m-3·day-1) ,1,2.07,3.07,7.51,9.9
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,156.56,170.76,210.79,223.25
+Distance to Land (km),0,6,90,315,438
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 31): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Dentiraja,polyommata,-18.75,148.75,3114:488:4,0.18
+Dentiraja,polyommata,-19.25,150.25,3115:390:1,0.06
+Dentiraja,polyommata,-19.75,150.75,3115:390:4,0.15
+Dentiraja,polyommata,-20.25,151.75,3215:101:2,0.15
+Dentiraja,polyommata,-20.75,152.75,3215:102:4,0.12
+Dentiraja,polyommata,-19.25,148.75,3114:498:2,0.20
+Dentiraja,polyommata,-20.25,151.25,3215:101:1,0.34
+Dentiraja,polyommata,-21.25,153.25,3215:113:1,0.29
+Dentiraja,polyommata,-19.25,149.75,3114:499:2,0.51
+Dentiraja,polyommata,-23.75,152.25,3215:132:3,0.51
+Dentiraja,polyommata,-18.75,148.25,3114:488:3,0.71
+Dentiraja,polyommata,-19.75,150.25,3115:390:3,0.62
+Dentiraja,polyommata,-20.75,152.25,3215:102:3,0.64
+Dentiraja,polyommata,-19.25,149.25,3114:499:1,0.86
+Dentiraja,polyommata,-20.25,150.75,3215:100:2,0.81
+Dentiraja,polyommata,-20.75,151.25,3215:101:3,1.00
+Dentiraja,polyommata,-20.75,151.75,3215:101:4,0.99
+Dentiraja,polyommata,-21.25,152.75,3215:112:2,1.00
+Dentiraja,polyommata,-21.75,153.25,3215:113:3,1.00
+Dentiraja,polyommata,-21.75,153.75,3215:113:4,0.81
+Dentiraja,polyommata,-22.75,152.25,3215:122:3,1.00
+Dentiraja,polyommata,-22.75,152.75,3215:122:4,1.00
+Dentiraja,polyommata,-22.25,153.25,3215:123:1,1.00
+Dentiraja,polyommata,-22.25,153.75,3215:123:2,1.00
+Dentiraja,polyommata,-22.75,153.25,3215:123:3,1.00
+Dentiraja,polyommata,-22.75,153.75,3215:123:4,1.00
+Dentiraja,polyommata,-23.25,152.25,3215:132:1,1.00
+Dentiraja,polyommata,-23.25,152.75,3215:132:2,1.00
+Dentiraja,polyommata,-23.75,152.75,3215:132:4,1.00
+Dentiraja,polyommata,-23.25,153.25,3215:133:1,1.00
+Dentiraja,polyommata,-23.25,153.75,3215:133:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 18)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Dentiraja,polyommata,-23.75,152.25,3215:132:3,31,24.2861213684082,24.4932594299316,35.398136138916,35.3832321166992,7.50900013372302,0,211.313903808594,90
+Dentiraja,polyommata,-23.75,152.75,3215:132:4,277,24.7386379241943,12.4889583587646,35.2895545959473,35.044075012207,6.1340001411736,0,191.793838500977,125
+Dentiraja,polyommata,-23.25,152.25,3215:132:1,128,24.6100807189941,15.1654396057129,35.3594207763672,35.4524345397949,6.29199994727969,0,181.570053100586,125
+Dentiraja,polyommata,-23.25,153.75,3215:133:2,485,25.2662658691406,10.5025453567505,35.2482147216797,34.8324584960938,3.98200005292892,0,198.24055480957,225
+Dentiraja,polyommata,-22.75,152.25,3215:122:3,110,24.704833984375,21.3002490997314,35.3662109375,35.5680351257324,6.18699984624982,0,178.075958251953,168
+Dentiraja,polyommata,-22.75,152.75,3215:122:4,183,24.8926486968994,18.6794853210449,35.2971420288086,35.5282325744629,5.04799978807569,0,170.761169433594,201
+Dentiraja,polyommata,-22.75,153.25,3215:123:3,290,25.2138919830322,14.4027481079102,35.214729309082,35.3749046325684,3.99200012907386,0,184.44841003418,238
+Dentiraja,polyommata,-22.75,153.75,3215:123:4,346,25.4300594329834,12.8423557281494,35.2152976989746,35.1051406860352,3.70300002396107,0,190.517044067383,276
+Dentiraja,polyommata,-22.25,152.25,3215:122:1,33,24.8986492156982,22.818172454834,35.3236503601074,35.5001411437988,5.23799983784556,0,192.576477050781,203
+Dentiraja,polyommata,-22.25,153.25,3215:123:1,176,25.4863967895508,19.4665508270264,35.1692581176758,35.5640296936035,3.87599994428456,0,170.742462158203,276
+Dentiraja,polyommata,-22.25,153.75,3215:123:2,331,25.5556926727295,10.6774892807007,35.1918029785156,34.8346672058105,3.58600006438792,0,197.570739746094,313
+Dentiraja,polyommata,-21.75,152.25,3215:112:3,2,25.1689968109131,24.8418598175049,35.2733917236328,35.3598403930664,4.84400009736419,0,210.794311523438,216
+Dentiraja,polyommata,-21.75,152.75,3215:112:4,13,25.3013935089111,23.0226364135742,35.1885643005371,35.4841384887695,3.67900007404387,0,192.462860107422,265
+Dentiraja,polyommata,-21.75,153.25,3215:113:3,94,25.7086620330811,14.6389322280884,35.1535530090332,35.3470878601074,3.15900007262826,0,183.626129150391,315
+Dentiraja,polyommata,-21.25,153.25,3215:113:1,294,25.8334732055664,10.8319606781006,35.1489295959473,34.8230361938477,2.35700001940131,0,194.585739135742,333
+Dentiraja,polyommata,-20.75,151.25,3215:101:3,37,25.6539993286133,25.1164608001709,35.1764297485352,35.336353302002,3.7360000424087,0,208.292633056641,170
+Dentiraja,polyommata,-20.75,151.75,3215:101:4,122,25.881275177002,16.9587001800537,35.1552238464355,35.4704437255859,3.07399989105761,0,174.472564697266,217
+Dentiraja,polyommata,-19.75,148.25,3114:498:3,28,25.3634872436523,25.5196228027344,35.3511581420898,35.170783996582,9.90100018680096,0,209.020874023438,24

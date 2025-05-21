@@ -1,0 +1,130 @@
+Mapping parameters for Argyrosomus inodorus (Mild meagre)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas:  47 ,
+Bounding Box (NSWE): ,-17,-38,11,29
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,11,50,100
+Temperature (°C),1,15.5,16.2,20.67,22.08
+Salinity (psu),1,34.72,35.22,35.54,36.04
+Primary Production (mgC·m-3·day-1) ,1,14.4,15.4,103.37,110.84
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,23.91,32.16,220.53,228.94
+Distance to Land (km),0,1,3,117,195
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 76): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Argyrosomus,inodorus,-21.75,14.25,3201:114:3,0.14
+Argyrosomus,inodorus,-29.25,15.75,3201:495:2,0.18
+Argyrosomus,inodorus,-33.75,22.75,3302:132:4,0.10
+Argyrosomus,inodorus,-34.75,22.75,3302:142:4,0.18
+Argyrosomus,inodorus,-32.75,27.75,3302:227:4,0.15
+Argyrosomus,inodorus,-35.25,20.75,3302:350:2,0.15
+Argyrosomus,inodorus,-19.25,12.25,3101:392:1,0.35
+Argyrosomus,inodorus,-28.25,14.75,3201:384:2,0.29
+Argyrosomus,inodorus,-28.75,14.75,3201:384:4,0.34
+Argyrosomus,inodorus,-29.75,15.25,3201:495:3,0.26
+Argyrosomus,inodorus,-30.75,16.25,3301:206:3,0.38
+Argyrosomus,inodorus,-33.75,18.75,3301:238:4,0.27
+Argyrosomus,inodorus,-35.75,21.75,3302:351:4,0.32
+Argyrosomus,inodorus,-36.25,21.25,3302:361:1,0.31
+Argyrosomus,inodorus,-36.25,21.75,3302:361:2,0.38
+Argyrosomus,inodorus,-17.25,11.75,3101:371:2,0.49
+Argyrosomus,inodorus,-17.75,11.75,3101:371:4,0.42
+Argyrosomus,inodorus,-18.25,11.75,3101:381:2,0.43
+Argyrosomus,inodorus,-22.25,13.75,3201:123:2,0.51
+Argyrosomus,inodorus,-35.25,19.75,3301:459:2,0.49
+Argyrosomus,inodorus,-34.75,24.75,3302:144:4,0.43
+Argyrosomus,inodorus,-34.25,26.25,3302:246:1,0.52
+Argyrosomus,inodorus,-35.25,22.75,3302:352:2,0.52
+Argyrosomus,inodorus,-18.25,12.25,3101:382:1,0.67
+Argyrosomus,inodorus,-18.75,12.25,3101:382:3,0.63
+Argyrosomus,inodorus,-21.25,13.25,3201:113:1,0.64
+Argyrosomus,inodorus,-29.75,15.75,3201:495:4,0.68
+Argyrosomus,inodorus,-34.75,23.25,3302:143:3,0.72
+Argyrosomus,inodorus,-34.75,23.75,3302:143:4,0.62
+Argyrosomus,inodorus,-33.25,27.25,3302:237:1,0.69
+Argyrosomus,inodorus,-35.75,22.25,3302:352:3,0.61
+Argyrosomus,inodorus,-18.75,12.75,3101:382:4,0.98
+Argyrosomus,inodorus,-19.25,12.75,3101:392:2,0.96
+Argyrosomus,inodorus,-19.75,12.25,3101:392:3,0.85
+Argyrosomus,inodorus,-19.75,12.75,3101:392:4,0.93
+Argyrosomus,inodorus,-19.75,13.25,3101:393:3,1.00
+Argyrosomus,inodorus,-20.25,12.75,3201:102:2,1.00
+Argyrosomus,inodorus,-20.25,13.25,3201:103:1,1.00
+Argyrosomus,inodorus,-20.75,13.25,3201:103:3,0.99
+Argyrosomus,inodorus,-20.75,13.75,3201:103:4,1.00
+Argyrosomus,inodorus,-21.25,13.75,3201:113:2,0.98
+Argyrosomus,inodorus,-21.75,13.25,3201:113:3,0.94
+Argyrosomus,inodorus,-21.75,13.75,3201:113:4,1.00
+Argyrosomus,inodorus,-34.25,18.25,3301:248:1,1.00
+Argyrosomus,inodorus,-34.25,18.75,3301:248:2,1.00
+Argyrosomus,inodorus,-34.25,19.25,3301:249:1,1.00
+Argyrosomus,inodorus,-34.75,19.25,3301:249:3,1.00
+Argyrosomus,inodorus,-34.75,19.75,3301:249:4,1.00
+Argyrosomus,inodorus,-33.75,23.75,3302:133:4,1.00
+Argyrosomus,inodorus,-33.75,24.75,3302:134:4,1.00
+Argyrosomus,inodorus,-34.25,20.25,3302:140:1,1.00
+Argyrosomus,inodorus,-34.25,20.75,3302:140:2,1.00
+Argyrosomus,inodorus,-34.75,20.25,3302:140:3,1.00
+Argyrosomus,inodorus,-34.75,20.75,3302:140:4,1.00
+Argyrosomus,inodorus,-34.25,21.25,3302:141:1,1.00
+Argyrosomus,inodorus,-34.25,21.75,3302:141:2,1.00
+Argyrosomus,inodorus,-34.75,21.25,3302:141:3,1.00
+Argyrosomus,inodorus,-34.75,21.75,3302:141:4,1.00
+Argyrosomus,inodorus,-34.25,22.25,3302:142:1,1.00
+Argyrosomus,inodorus,-34.25,22.75,3302:142:2,1.00
+Argyrosomus,inodorus,-34.75,22.25,3302:142:3,1.00
+Argyrosomus,inodorus,-34.25,23.25,3302:143:1,1.00
+Argyrosomus,inodorus,-34.25,23.75,3302:143:2,1.00
+Argyrosomus,inodorus,-34.25,24.25,3302:144:1,1.00
+Argyrosomus,inodorus,-34.25,24.75,3302:144:2,1.00
+Argyrosomus,inodorus,-33.75,25.25,3302:235:3,1.00
+Argyrosomus,inodorus,-33.75,25.75,3302:235:4,1.00
+Argyrosomus,inodorus,-33.75,26.25,3302:236:3,1.00
+Argyrosomus,inodorus,-33.75,26.75,3302:236:4,1.00
+Argyrosomus,inodorus,-34.25,25.25,3302:245:1,1.00
+Argyrosomus,inodorus,-34.25,25.75,3302:245:2,1.00
+Argyrosomus,inodorus,-35.25,20.25,3302:350:1,1.00
+Argyrosomus,inodorus,-35.25,21.25,3302:351:1,1.00
+Argyrosomus,inodorus,-35.25,21.75,3302:351:2,1.00
+Argyrosomus,inodorus,-35.75,21.25,3302:351:3,1.00
+Argyrosomus,inodorus,-35.25,22.25,3302:352:1,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 18)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Argyrosomus,inodorus,-35.25,20.25,3302:350:1,133,18.264986038208,13.4167003631592,35.5366287231445,35.1008987426758,15.3989996761084,0,187.461135864258,98
+Argyrosomus,inodorus,-35.25,20.75,3302:350:2,89,18.2332401275635,14.0251770019531,35.5202369689941,35.2263526916504,14.5460003986955,0,174.535049438477,117
+Argyrosomus,inodorus,-35.25,21.25,3302:351:1,98,18.3459358215332,13.5933523178101,35.4910163879395,35.1731376647949,17.3780005425215,0,177.217590332031,144
+Argyrosomus,inodorus,-34.75,19.25,3301:249:3,112,17.5954570770264,14.1225967407227,35.5129356384277,35.1850051879883,27.2739995270967,0,192.28662109375,22
+Argyrosomus,inodorus,-34.75,20.25,3302:140:3,52,17.9208240509033,15.4163007736206,35.5106086730957,35.2265510559082,26.1540003120899,0,191.946914672852,17
+Argyrosomus,inodorus,-34.75,20.75,3302:140:4,56,18.0444946289063,13.9480695724487,35.5112228393555,35.2240295410156,22.0289994031191,0,173.910598754883,84
+Argyrosomus,inodorus,-34.25,18.75,3301:248:2,66,16.8527660369873,17.1387481689453,35.4248237609863,35.4017639160156,50.1630008220673,0,228.940444946289,18
+Argyrosomus,inodorus,-34.25,20.75,3302:140:2,33,17.6046619415283,14.6474437713623,35.4358367919922,35.2525863647461,32.0396646857262,0,187.215621948242,4
+Argyrosomus,inodorus,-34.25,21.25,3302:141:1,16,17.7821273803711,14.3325223922729,35.4432945251465,35.2613182067871,29.986057430505802,0,182.729858398438,7
+Argyrosomus,inodorus,-34.25,25.75,3302:245:2,187,20.088737487793,17.0086116790771,35.4023933410645,35.371452331543,30.74000030756,0,191.914810180664,88
+Argyrosomus,inodorus,-33.75,23.75,3302:133:4,52,18.4881439208984,15.8555126190186,35.3928527832031,35.3366928100586,41.8196022510529,0,192.863327026367,1
+Argyrosomus,inodorus,-33.75,25.75,3302:235:4,11,18.9903545379639,19.5476131439209,35.4030494689941,35.4139671325684,48.0439998209476,0,217.993179321289,10
+Argyrosomus,inodorus,-33.75,26.25,3302:236:3,47,19.4900455474854,20.3238353729248,35.401683807373,35.4246826171875,38.334999233484304,0,220.531204223633,14
+Argyrosomus,inodorus,-33.75,26.75,3302:236:4,66,20.671594619751,18.6109142303467,35.3919868469238,35.4335136413574,30.1580000668764,0,191.342086791992,17
+Argyrosomus,inodorus,-33.25,27.75,3302:237:2,386,22.0818328857422,19.5818653106689,35.3807411193848,35.4852523803711,29.356999322771998,0,190.04768371582,19
+Argyrosomus,inodorus,-22.75,14.75,3201:124:4,37,15.6855936050415,15.8247728347778,34.9951934814453,35.149341583252,110.838867723942,0,142.778060913086,3
+Argyrosomus,inodorus,-21.75,13.75,3201:113:4,101,16.2039661407471,15.0836448669434,35.222095489502,35.2170867919922,103.366002440453,0,23.9148406982422,25
+Argyrosomus,inodorus,-18.25,11.75,3101:381:2,803,17.0614490509033,15.0552463531494,35.8228187561035,35.3421669006348,54.6820014715195,0,32.1602058410645,25

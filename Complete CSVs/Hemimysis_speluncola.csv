@@ -1,0 +1,234 @@
+Mapping parameters for Hemimysis speluncola ()
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO
+FAOAreas: 37,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,3,16,30
+Temperature (°C),1,13.72,17.15,19.89,23.52
+Salinity (psu),1,35.06,36.55,37.84,39.34
+Primary Production (mgC·m-3·day-1) ,1,1.44,2.44,20.43,34.91
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,226.88,237.19,249.59,262.26
+Distance to Land (km),0,14,15,39.9,48
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 194): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Hemimysis,speluncola,39.75,16.75,1301:496:4,0.03
+Hemimysis,speluncola,38.75,22.75,1302:382:4,0.12
+Hemimysis,speluncola,38.25,23.75,1302:383:2,0.08
+Hemimysis,speluncola,36.75,28.25,1302:468:3,0.03
+Hemimysis,speluncola,36.75,28.75,1302:468:4,0.04
+Hemimysis,speluncola,36.25,29.75,1302:469:2,0.01
+Hemimysis,speluncola,36.75,29.25,1302:469:3,0.15
+Hemimysis,speluncola,37.75,26.25,1302:476:3,0.02
+Hemimysis,speluncola,37.25,27.25,1302:477:1,0.03
+Hemimysis,speluncola,39.25,25.75,1302:495:2,0.05
+Hemimysis,speluncola,39.25,26.25,1302:496:1,0.03
+Hemimysis,speluncola,31.25,34.25,1303:114:1,0.03
+Hemimysis,speluncola,31.75,34.75,1303:114:4,0.03
+Hemimysis,speluncola,32.25,34.75,1303:124:2,0.06
+Hemimysis,speluncola,32.75,34.75,1303:124:4,0.05
+Hemimysis,speluncola,32.75,35.25,1303:225:3,0.03
+Hemimysis,speluncola,33.25,35.25,1303:235:1,0.04
+Hemimysis,speluncola,33.75,35.25,1303:235:3,0.03
+Hemimysis,speluncola,33.75,35.75,1303:235:4,0.04
+Hemimysis,speluncola,34.25,35.75,1303:245:2,0.04
+Hemimysis,speluncola,34.75,35.75,1303:245:4,0.01
+Hemimysis,speluncola,34.75,36.25,1303:246:3,0.17
+Hemimysis,speluncola,36.75,30.75,1303:360:4,0.02
+Hemimysis,speluncola,36.75,31.25,1303:361:3,0.02
+Hemimysis,speluncola,36.75,31.75,1303:361:4,0.19
+Hemimysis,speluncola,36.25,32.75,1303:362:2,0.02
+Hemimysis,speluncola,36.25,33.25,1303:363:1,0.03
+Hemimysis,speluncola,36.25,33.75,1303:363:2,0.02
+Hemimysis,speluncola,36.25,34.25,1303:364:1,0.02
+Hemimysis,speluncola,36.75,34.25,1303:364:3,0.14
+Hemimysis,speluncola,36.75,34.75,1303:364:4,0.03
+Hemimysis,speluncola,35.75,35.75,1303:455:4,0.03
+Hemimysis,speluncola,36.25,35.75,1303:465:2,0.04
+Hemimysis,speluncola,36.75,35.25,1303:465:3,0.05
+Hemimysis,speluncola,36.75,35.75,1303:465:4,0.03
+Hemimysis,speluncola,40.75,14.75,1401:104:4,0.16
+Hemimysis,speluncola,44.25,13.25,1401:143:1,0.06
+Hemimysis,speluncola,41.75,15.25,1401:215:3,0.06
+Hemimysis,speluncola,41.75,16.25,1401:216:3,0.08
+Hemimysis,speluncola,35.25,-2.75,7300:352:2,0.11
+Hemimysis,speluncola,35.25,-3.25,7300:353:1,0.06
+Hemimysis,speluncola,36.75,2.75,1300:362:4,0.32
+Hemimysis,speluncola,39.75,0.25,1300:390:3,0.37
+Hemimysis,speluncola,36.75,7.25,1300:467:3,0.20
+Hemimysis,speluncola,37.25,7.25,1300:477:1,0.25
+Hemimysis,speluncola,39.75,19.75,1301:499:4,0.27
+Hemimysis,speluncola,37.25,21.75,1302:371:2,0.21
+Hemimysis,speluncola,38.75,20.75,1302:380:4,0.22
+Hemimysis,speluncola,38.25,23.25,1302:383:1,0.20
+Hemimysis,speluncola,37.75,26.75,1302:476:4,0.28
+Hemimysis,speluncola,37.25,27.75,1302:477:2,0.24
+Hemimysis,speluncola,38.25,26.25,1302:486:1,0.23
+Hemimysis,speluncola,36.75,32.25,1303:362:3,0.28
+Hemimysis,speluncola,36.25,36.25,1303:466:1,0.32
+Hemimysis,speluncola,36.75,36.25,1303:466:3,0.37
+Hemimysis,speluncola,44.25,8.25,1400:248:1,0.22
+Hemimysis,speluncola,43.75,10.25,1401:130:3,0.22
+Hemimysis,speluncola,43.75,13.75,1401:133:4,0.27
+Hemimysis,speluncola,44.25,14.25,1401:144:1,0.29
+Hemimysis,speluncola,40.25,16.75,1401:206:2,0.30
+Hemimysis,speluncola,42.75,16.75,1401:226:4,0.23
+Hemimysis,speluncola,42.25,18.25,1401:228:1,0.37
+Hemimysis,speluncola,42.75,18.75,1401:228:4,0.33
+Hemimysis,speluncola,43.75,16.75,1401:236:4,0.33
+Hemimysis,speluncola,44.25,15.75,1401:245:2,0.33
+Hemimysis,speluncola,44.75,15.25,1401:245:3,0.30
+Hemimysis,speluncola,35.75,-0.75,7300:350:4,0.36
+Hemimysis,speluncola,35.75,-1.25,7300:351:3,0.31
+Hemimysis,speluncola,35.75,-2.75,7300:352:4,0.23
+Hemimysis,speluncola,35.25,-3.75,7300:353:2,0.25
+Hemimysis,speluncola,35.25,-4.25,7300:354:1,0.32
+Hemimysis,speluncola,36.75,3.25,1300:363:3,0.46
+Hemimysis,speluncola,36.75,6.75,1300:466:4,0.43
+Hemimysis,speluncola,37.25,10.25,1301:370:1,0.51
+Hemimysis,speluncola,37.75,23.75,1302:373:4,0.57
+Hemimysis,speluncola,38.25,21.25,1302:381:1,0.45
+Hemimysis,speluncola,38.25,22.75,1302:382:2,0.41
+Hemimysis,speluncola,37.75,27.25,1302:477:3,0.40
+Hemimysis,speluncola,37.25,28.25,1302:478:1,0.55
+Hemimysis,speluncola,38.25,26.75,1302:486:2,0.41
+Hemimysis,speluncola,38.75,26.75,1302:486:4,0.50
+Hemimysis,speluncola,40.25,0.75,1400:100:2,0.57
+Hemimysis,speluncola,43.75,7.25,1400:237:3,0.58
+Hemimysis,speluncola,44.75,13.75,1401:143:4,0.52
+Hemimysis,speluncola,43.75,15.25,1401:235:3,0.57
+Hemimysis,speluncola,45.25,13.75,1401:353:2,0.47
+Hemimysis,speluncola,45.25,14.75,1401:354:2,0.49
+Hemimysis,speluncola,35.25,-1.25,7300:351:1,0.54
+Hemimysis,speluncola,35.25,-1.75,7300:351:2,0.41
+Hemimysis,speluncola,35.25,-4.75,7300:354:2,0.59
+Hemimysis,speluncola,38.75,-0.25,7300:380:3,0.58
+Hemimysis,speluncola,39.25,-0.25,7300:390:1,0.50
+Hemimysis,speluncola,35.75,0.25,1300:350:3,0.60
+Hemimysis,speluncola,36.75,3.75,1300:363:4,0.62
+Hemimysis,speluncola,36.75,6.25,1300:466:3,0.65
+Hemimysis,speluncola,37.25,6.25,1300:476:1,0.63
+Hemimysis,speluncola,37.75,23.25,1302:373:3,0.68
+Hemimysis,speluncola,38.75,26.25,1302:486:3,0.64
+Hemimysis,speluncola,38.75,27.25,1302:487:3,0.61
+Hemimysis,speluncola,43.25,4.25,1400:134:1,0.70
+Hemimysis,speluncola,41.75,12.25,1401:112:3,0.77
+Hemimysis,speluncola,42.25,11.75,1401:121:2,0.65
+Hemimysis,speluncola,43.25,13.75,1401:133:2,0.67
+Hemimysis,speluncola,40.25,19.75,1401:209:2,0.76
+Hemimysis,speluncola,40.75,19.25,1401:209:3,0.64
+Hemimysis,speluncola,41.25,19.25,1401:219:1,0.71
+Hemimysis,speluncola,42.75,17.25,1401:227:3,0.62
+Hemimysis,speluncola,42.75,17.75,1401:227:4,0.63
+Hemimysis,speluncola,42.25,18.75,1401:228:2,0.74
+Hemimysis,speluncola,43.25,16.25,1401:236:1,0.70
+Hemimysis,speluncola,43.25,16.75,1401:236:2,0.66
+Hemimysis,speluncola,35.75,-0.25,7300:350:3,0.64
+Hemimysis,speluncola,36.25,-4.75,7300:364:2,0.72
+Hemimysis,speluncola,36.75,-4.25,7300:364:3,0.78
+Hemimysis,speluncola,36.75,-4.75,7300:364:4,0.73
+Hemimysis,speluncola,38.25,-0.25,7300:380:1,0.72
+Hemimysis,speluncola,35.25,-5.25,7300:455:1,0.76
+Hemimysis,speluncola,35.75,-5.25,7300:455:3,0.73
+Hemimysis,speluncola,36.25,-5.25,7300:465:1,0.70
+Hemimysis,speluncola,36.25,0.25,1300:360:1,0.86
+Hemimysis,speluncola,36.25,0.75,1300:360:2,0.81
+Hemimysis,speluncola,36.75,4.25,1300:364:3,0.80
+Hemimysis,speluncola,36.75,4.75,1300:364:4,0.99
+Hemimysis,speluncola,36.75,5.25,1300:465:3,0.97
+Hemimysis,speluncola,36.75,5.75,1300:465:4,0.90
+Hemimysis,speluncola,37.75,21.75,1302:371:4,0.81
+Hemimysis,speluncola,37.25,22.25,1302:372:1,0.86
+Hemimysis,speluncola,37.25,22.75,1302:372:2,0.85
+Hemimysis,speluncola,37.75,22.75,1302:372:4,0.93
+Hemimysis,speluncola,38.25,21.75,1302:381:2,0.94
+Hemimysis,speluncola,38.75,21.25,1302:381:3,0.94
+Hemimysis,speluncola,38.25,22.25,1302:382:1,1.00
+Hemimysis,speluncola,39.25,20.75,1302:390:2,0.86
+Hemimysis,speluncola,39.75,20.25,1302:390:3,0.83
+Hemimysis,speluncola,39.25,21.25,1302:391:1,0.97
+Hemimysis,speluncola,38.25,27.25,1302:487:1,1.00
+Hemimysis,speluncola,40.25,0.25,1400:100:1,1.00
+Hemimysis,speluncola,40.75,0.75,1400:100:4,1.00
+Hemimysis,speluncola,41.25,0.75,1400:110:2,1.00
+Hemimysis,speluncola,41.25,1.25,1400:111:1,1.00
+Hemimysis,speluncola,41.25,1.75,1400:111:2,1.00
+Hemimysis,speluncola,41.25,2.25,1400:112:1,1.00
+Hemimysis,speluncola,41.75,2.25,1400:112:3,1.00
+Hemimysis,speluncola,41.75,2.75,1400:112:4,1.00
+Hemimysis,speluncola,41.75,3.25,1400:113:3,1.00
+Hemimysis,speluncola,42.25,3.25,1400:123:1,1.00
+Hemimysis,speluncola,42.75,3.25,1400:123:3,0.90
+Hemimysis,speluncola,43.25,3.25,1400:133:1,0.85
+Hemimysis,speluncola,43.25,3.75,1400:133:2,0.91
+Hemimysis,speluncola,43.75,3.75,1400:133:4,0.85
+Hemimysis,speluncola,43.75,4.25,1400:134:3,0.91
+Hemimysis,speluncola,43.25,5.25,1400:235:1,1.00
+Hemimysis,speluncola,43.25,5.75,1400:235:2,1.00
+Hemimysis,speluncola,43.25,6.25,1400:236:1,0.92
+Hemimysis,speluncola,43.75,6.75,1400:236:4,0.99
+Hemimysis,speluncola,44.25,9.75,1400:249:2,1.00
+Hemimysis,speluncola,40.75,14.25,1401:104:3,0.94
+Hemimysis,speluncola,41.25,12.75,1401:112:2,1.00
+Hemimysis,speluncola,41.75,12.75,1401:112:4,0.82
+Hemimysis,speluncola,41.25,13.75,1401:113:2,0.96
+Hemimysis,speluncola,42.75,11.25,1401:121:3,1.00
+Hemimysis,speluncola,42.25,12.25,1401:122:1,1.00
+Hemimysis,speluncola,42.75,13.75,1401:123:4,1.00
+Hemimysis,speluncola,42.25,14.25,1401:124:1,1.00
+Hemimysis,speluncola,42.25,14.75,1401:124:2,1.00
+Hemimysis,speluncola,42.75,14.25,1401:124:3,1.00
+Hemimysis,speluncola,43.25,10.75,1401:130:2,1.00
+Hemimysis,speluncola,44.25,10.25,1401:140:1,0.95
+Hemimysis,speluncola,44.25,14.75,1401:144:2,1.00
+Hemimysis,speluncola,44.75,14.25,1401:144:3,1.00
+Hemimysis,speluncola,44.75,14.75,1401:144:4,1.00
+Hemimysis,speluncola,40.75,19.75,1401:209:4,0.93
+Hemimysis,speluncola,41.25,19.75,1401:219:2,1.00
+Hemimysis,speluncola,41.75,19.25,1401:219:3,0.91
+Hemimysis,speluncola,41.75,19.75,1401:219:4,1.00
+Hemimysis,speluncola,42.75,18.25,1401:228:3,1.00
+Hemimysis,speluncola,42.25,19.25,1401:229:1,1.00
+Hemimysis,speluncola,43.75,15.75,1401:235:4,0.82
+Hemimysis,speluncola,43.75,16.25,1401:236:3,1.00
+Hemimysis,speluncola,43.25,17.25,1401:237:1,1.00
+Hemimysis,speluncola,43.25,17.75,1401:237:2,1.00
+Hemimysis,speluncola,44.25,15.25,1401:245:1,1.00
+Hemimysis,speluncola,45.25,14.25,1401:354:1,0.99
+Hemimysis,speluncola,36.75,-1.75,7300:361:4,0.91
+Hemimysis,speluncola,36.75,-2.25,7300:362:3,0.90
+Hemimysis,speluncola,36.75,-2.75,7300:362:4,0.88
+Hemimysis,speluncola,36.75,-3.25,7300:363:3,0.83
+Hemimysis,speluncola,36.75,-3.75,7300:363:4,0.80
+Hemimysis,speluncola,37.75,-0.75,7300:370:4,1.00
+Hemimysis,speluncola,37.25,-1.25,7300:371:1,0.94
+Hemimysis,speluncola,37.25,-1.75,7300:371:2,0.94
+Hemimysis,speluncola,37.75,-1.25,7300:371:3,1.00
+Hemimysis,speluncola,38.25,-0.75,7300:380:2,1.00
+Hemimysis,speluncola,39.75,-0.25,7300:390:3,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 4)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Hemimysis,speluncola,38.25,-0.25,7300:380:1,224,19.8148288726807,14.2748193740845,36.7265586853027,38.1155662536621,2.1649999544024503,0,235.218017578125,21
+Hemimysis,speluncola,40.75,14.25,1401:104:3,285,19.9224739074707,14.4757843017578,37.910026550293,38.3932228088379,3.09300003573298,0,241.793045043945,15
+Hemimysis,speluncola,43.25,4.25,1400:134:1,71,16.987606048584,13.9557323455811,36.4676475524902,38.3839797973633,23.598000407218898,0,248.660461425781,48
+Hemimysis,speluncola,43.25,5.25,1400:235:1,250,17.5256252288818,13.9720983505249,37.6727752685547,38.3837776184082,13.0409998819232,0,249.988296508789,15

@@ -1,0 +1,88 @@
+Mapping parameters for Roncador stearnsii (Spotfin croaker)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77,
+Bounding Box (NSWE): ,34,22,-121,-113
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,3,12,22
+Temperature (°C),1,16.08,17.12,19.52,20.3
+Salinity (psu),1,32.66,33.16,34.16,34.66
+Primary Production (mgC·m-3·day-1) ,1,15.58,17.84,47.63,72.22
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,10.84,11.62,247.85,253.89
+Distance to Land (km),0,3,6,88,102.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 34): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Roncador,stearnsii,33.25,-118.75,7311:238:2,0.08
+Roncador,stearnsii,27.75,-113.75,7211:373:4,0.26
+Roncador,stearnsii,28.25,-115.25,7211:485:1,0.56
+Roncador,stearnsii,26.75,-113.25,7211:363:3,0.58
+Roncador,stearnsii,29.75,-115.75,7211:495:4,0.65
+Roncador,stearnsii,28.75,-114.75,7211:384:4,0.60
+Roncador,stearnsii,33.75,-118.75,7311:238:4,0.83
+Roncador,stearnsii,33.75,-118.25,7311:238:3,0.95
+Roncador,stearnsii,33.25,-118.25,7311:238:1,1.00
+Roncador,stearnsii,33.75,-117.75,7311:237:4,1.00
+Roncador,stearnsii,33.25,-117.75,7311:237:2,1.00
+Roncador,stearnsii,33.25,-117.25,7311:237:1,1.00
+Roncador,stearnsii,32.75,-117.25,7311:227:3,1.00
+Roncador,stearnsii,32.25,-117.25,7311:227:1,1.00
+Roncador,stearnsii,32.25,-116.75,7311:226:2,1.00
+Roncador,stearnsii,31.75,-116.75,7311:216:4,1.00
+Roncador,stearnsii,31.25,-116.75,7311:216:2,0.93
+Roncador,stearnsii,31.25,-116.25,7311:216:1,1.00
+Roncador,stearnsii,30.75,-116.25,7311:206:3,0.84
+Roncador,stearnsii,30.25,-116.25,7311:206:1,1.00
+Roncador,stearnsii,30.75,-115.75,7311:205:4,1.00
+Roncador,stearnsii,30.25,-115.75,7311:205:2,1.00
+Roncador,stearnsii,29.75,-115.25,7211:495:3,1.00
+Roncador,stearnsii,29.25,-115.25,7211:495:1,1.00
+Roncador,stearnsii,27.75,-115.25,7211:475:3,1.00
+Roncador,stearnsii,29.25,-114.75,7211:394:2,0.93
+Roncador,stearnsii,28.75,-114.25,7211:384:3,1.00
+Roncador,stearnsii,28.25,-114.25,7211:384:1,1.00
+Roncador,stearnsii,27.75,-114.75,7211:374:4,1.00
+Roncador,stearnsii,27.75,-114.25,7211:374:3,1.00
+Roncador,stearnsii,27.25,-114.75,7211:374:2,1.00
+Roncador,stearnsii,27.25,-114.25,7211:374:1,1.00
+Roncador,stearnsii,27.25,-113.75,7211:373:2,0.82
+Roncador,stearnsii,26.75,-113.75,7211:363:4,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 18)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Roncador,stearnsii,26.75,-113.25,7211:363:3,46,19.8512878417969,19.7784595489502,33.9041557312012,33.920482635498,25.5939997732639,0,230.605697631836,18
+Roncador,stearnsii,26.75,-113.75,7211:363:4,194,19.4821281433105,18.3224792480469,33.8537826538086,33.6990814208984,24.9210000038147,0,223.065643310547,20
+Roncador,stearnsii,27.25,-114.75,7211:374:2,1416,18.6844081878662,6.10569095611572,33.7561187744141,34.4335174560547,24.6169995516539,0,11.6225690841675,24
+Roncador,stearnsii,27.75,-114.25,7211:374:3,4,18.9586162567139,18.2444667816162,33.6143188476563,33.8093719482422,20.6560008227825,0,237.174026489258,10
+Roncador,stearnsii,27.75,-114.75,7211:374:4,119,18.5698757171631,12.4793405532837,33.6558990478516,34.0263442993164,20.0402848422527,0,102.104537963867,15
+Roncador,stearnsii,27.75,-115.25,7211:475:3,1001,18.3465881347656,11.5913162231445,33.6673393249512,34.2225875854492,19.2740000784397,0,27.9022541046143,98
+Roncador,stearnsii,28.25,-114.25,7211:384:1,54,18.5152606964111,16.4002952575684,33.5519714355469,33.6554336547852,23.8000005483627,0,210.619354248047,23
+Roncador,stearnsii,28.25,-114.75,7211:384:2,99,18.2883052825928,14.0075435638428,33.5851364135742,33.63671875,15.5779998749495,0,132.201705932617,73
+Roncador,stearnsii,28.75,-114.25,7211:384:3,92,19.5217590332031,14.3559837341309,34.0794639587402,33.9417304992676,18.6488181352615,0,137.596176147461,12
+Roncador,stearnsii,28.75,-114.75,7211:384:4,121,17.8662204742432,12.3347425460815,33.5459632873535,33.6568183898926,25.6719999015331,0,78.0235061645508,50
+Roncador,stearnsii,28.75,-115.25,7211:485:3,383,17.7168235778809,9.95287609100342,33.5288505554199,34.3290939331055,17.8350005298853,0,32.4350738525391,88
+Roncador,stearnsii,30.75,-116.75,7311:206:4,1860,17.5045509338379,1.85383796691895,33.4715919494629,34.6320304870605,25.3819990903139,0,89.7558212280273,86
+Roncador,stearnsii,31.75,-116.75,7311:216:4,570,17.1246318817139,13.3359565734863,33.4399337768555,33.3729019165039,47.5319996476173,0,187.593460083008,18
+Roncador,stearnsii,32.75,-117.25,7311:227:3,417,17.5296211242676,17.3001308441162,33.1959571838379,33.4590377807617,47.630000859499,0,253.88542175293,17
+Roncador,stearnsii,33.25,-117.25,7311:237:1,346,18.7146682739258,16.5972518920898,33.7724189758301,33.9172439575195,36.3377034664154,0,216.342498779297,6
+Roncador,stearnsii,33.25,-117.75,7311:237:2,707,17.6597366333008,4.86465501785278,33.423770904541,34.4202308654785,40.913000702858,0,10.8413753509521,22
+Roncador,stearnsii,33.75,-117.75,7311:237:4,279,17.989444732666,16.1753520965576,33.5121688842773,33.739933013916,41.7538620531559,0,226.297241210938,3
+Roncador,stearnsii,33.75,-118.25,7311:238:3,435,17.1248607635498,16.0249519348145,33.4362258911133,33.4448699951172,48.8069988787174,0,247.852645874023,15

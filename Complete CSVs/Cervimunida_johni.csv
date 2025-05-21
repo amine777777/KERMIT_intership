@@ -1,0 +1,88 @@
+Mapping parameters for Cervimunida johni (blue squat lobster)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 87,
+Bounding Box (NSWE): ,-25,-38,-109,-70
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,50,103,255,500
+Temperature (°C),1,12.73,13.35,15.13,16.03
+Salinity (psu),1,32.63,33.62,34.62,35.22
+Primary Production (mgC·m-3·day-1) ,1,9.79,23.42,55.83,84.7
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,37.52,83.2,163.81,167.89
+Distance to Land (km),0,7,11,112,219
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 39): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Cervimunida,johni,-27.25,-70.75,5207:370:2,0.06
+Cervimunida,johni,-35.75,-72.75,5307:352:4,0.18
+Cervimunida,johni,-36.25,-72.75,5307:362:2,0.13
+Cervimunida,johni,-36.75,-72.75,5307:362:4,0.11
+Cervimunida,johni,-37.25,-73.25,5307:373:1,0.01
+Cervimunida,johni,-37.75,-73.25,5307:373:3,0.01
+Cervimunida,johni,-37.75,-73.75,5307:373:4,0.13
+Cervimunida,johni,-27.75,-70.75,5207:370:4,0.26
+Cervimunida,johni,-27.75,-71.25,5207:371:3,0.39
+Cervimunida,johni,-36.25,-73.25,5307:363:1,0.24
+Cervimunida,johni,-37.25,-73.75,5307:373:2,0.23
+Cervimunida,johni,-32.25,-71.25,5307:121:1,0.49
+Cervimunida,johni,-36.75,-73.75,5307:363:4,0.45
+Cervimunida,johni,-28.25,-71.25,5207:381:1,0.79
+Cervimunida,johni,-34.75,-72.75,5307:142:4,0.69
+Cervimunida,johni,-35.25,-72.25,5307:352:1,0.74
+Cervimunida,johni,-35.25,-72.75,5307:352:2,0.71
+Cervimunida,johni,-28.75,-71.25,5207:381:3,0.90
+Cervimunida,johni,-28.75,-71.75,5207:381:4,0.93
+Cervimunida,johni,-29.25,-71.25,5207:391:1,1.00
+Cervimunida,johni,-29.25,-71.75,5207:391:2,1.00
+Cervimunida,johni,-29.75,-71.25,5207:391:3,1.00
+Cervimunida,johni,-29.75,-71.75,5207:391:4,1.00
+Cervimunida,johni,-30.25,-71.25,5307:101:1,0.96
+Cervimunida,johni,-30.25,-71.75,5307:101:2,1.00
+Cervimunida,johni,-30.75,-71.75,5307:101:4,1.00
+Cervimunida,johni,-31.25,-71.75,5307:111:2,1.00
+Cervimunida,johni,-31.75,-71.75,5307:111:4,1.00
+Cervimunida,johni,-32.25,-71.75,5307:121:2,1.00
+Cervimunida,johni,-32.75,-71.25,5307:121:3,0.91
+Cervimunida,johni,-32.75,-71.75,5307:121:4,1.00
+Cervimunida,johni,-33.25,-71.75,5307:131:2,1.00
+Cervimunida,johni,-33.75,-71.75,5307:131:4,0.99
+Cervimunida,johni,-33.75,-72.25,5307:132:3,1.00
+Cervimunida,johni,-34.25,-71.75,5307:141:2,0.97
+Cervimunida,johni,-34.25,-72.25,5307:142:1,0.97
+Cervimunida,johni,-34.75,-72.25,5307:142:3,0.83
+Cervimunida,johni,-35.75,-73.25,5307:353:3,1.00
+Cervimunida,johni,-36.25,-73.75,5307:363:2,0.82
+
+
+Occurrence cells used for creating environmental envelope (n = 13)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Cervimunida,johni,-36.75,-73.25,5307:363:3,139,12.7341899871826,11.696400642395,32.6299171447754,34.0956649780273,84.696002304554,0,83.1979827880859,19
+Cervimunida,johni,-36.25,-73.75,5307:363:2,1878,13.3496932983398,3.68391489982605,33.7707557678223,34.474552154541,41.0199984908104,0,124.607246398926,112
+Cervimunida,johni,-36.25,-75.25,5307:465:1,4124,14.4325914382935,1.30343496799469,33.9293785095215,34.6951599121094,9.793000295758251,0,167.888412475586,219
+Cervimunida,johni,-33.25,-71.75,5307:131:2,509,14.0279026031494,12.1824169158936,34.0795745849609,34.2473335266113,55.8260008692741,0,88.5015258789063,17
+Cervimunida,johni,-32.75,-71.75,5307:121:4,1210,14.2182397842407,5.81501007080078,34.1778182983398,34.3138809204102,51.731001585722,0,98.8412017822266,23
+Cervimunida,johni,-32.25,-71.75,5307:121:2,1246,14.5788402557373,4.90584897994995,34.301155090332,34.3553504943848,54.2920008301735,0,108.518760681152,23
+Cervimunida,johni,-31.75,-71.75,5307:111:4,1429,14.8242998123169,4.92860984802246,34.3585090637207,34.3512573242188,48.5569983720779,0,106.53239440918,49
+Cervimunida,johni,-30.25,-71.75,5307:101:2,1844,14.5563144683838,9.04991245269775,34.4653739929199,34.5012893676758,45.1829992234707,0,37.5173110961914,21
+Cervimunida,johni,-30.25,-72.25,5307:102:1,4713,15.1602811813354,1.40181398391724,34.4468650817871,34.6870803833008,23.4190002083778,0,163.814865112305,87
+Cervimunida,johni,-29.75,-71.25,5207:391:3,304,15.0601215362549,10.4829120635986,33.7653732299805,34.2428398132324,50.1873642206192,0,105.957374572754,11
+Cervimunida,johni,-29.75,-71.75,5207:391:4,2004,14.7793588638306,2.4736180305481,34.4827766418457,34.6088027954102,39.7409982979298,0,121.216705322266,72
+Cervimunida,johni,-29.25,-71.25,5207:391:1,26,15.1301355361938,11.2863121032715,33.9792137145996,34.2747344970703,50.248671323061004,0,110.698844909668,7
+Cervimunida,johni,-29.25,-71.75,5207:391:2,2236,14.94105052948,3.00685691833496,34.5065002441406,34.562744140625,40.7119989395142,0,107.752075195313,73

@@ -1,0 +1,209 @@
+Mapping parameters for Tenualosa reevesii (Reeves shad)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 57 |  61,
+Bounding Box (NSWE): ,31,5,95,123
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,5,26,50
+Temperature (°C),1,21.07,22.32,26.87,31.07
+Salinity (psu),1,28.14,29.61,33.33,35.71
+Primary Production (mgC·m-3·day-1) ,1,7.29,12,59.46,97.58
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,191.27,208.49,230.9,245.26
+Distance to Land (km),0,0,11.2,25.2,35.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 164): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Tenualosa,reevesii,6.25,99.75,1009:469:2,0.06
+Tenualosa,reevesii,7.75,99.25,1009:479:3,0.08
+Tenualosa,reevesii,8.25,99.25,1009:489:1,0.03
+Tenualosa,reevesii,9.75,98.75,1009:498:4,0.03
+Tenualosa,reevesii,15.25,95.25,1109:455:1,0.05
+Tenualosa,reevesii,15.25,95.75,1109:455:2,0.14
+Tenualosa,reevesii,16.25,107.75,1110:467:2,0.05
+Tenualosa,reevesii,18.25,108.75,1110:488:2,0.15
+Tenualosa,reevesii,18.75,108.25,1110:488:3,0.08
+Tenualosa,reevesii,18.25,109.75,1110:489:2,0.15
+Tenualosa,reevesii,19.25,108.75,1110:498:2,0.15
+Tenualosa,reevesii,18.25,110.25,1111:380:1,0.01
+Tenualosa,reevesii,18.75,110.75,1111:380:4,0.15
+Tenualosa,reevesii,21.25,113.75,1211:113:2,0.09
+Tenualosa,reevesii,21.75,114.75,1211:114:4,0.04
+Tenualosa,reevesii,22.75,113.25,1211:123:3,0.18
+Tenualosa,reevesii,25.75,119.75,1211:459:4,0.14
+Tenualosa,reevesii,6.75,99.75,1009:469:4,0.24
+Tenualosa,reevesii,7.25,99.75,1009:479:2,0.20
+Tenualosa,reevesii,5.25,100.25,1010:350:1,0.28
+Tenualosa,reevesii,5.75,100.25,1010:350:3,0.30
+Tenualosa,reevesii,6.25,100.25,1010:360:1,0.31
+Tenualosa,reevesii,6.75,100.25,1010:360:3,0.34
+Tenualosa,reevesii,15.25,108.75,1110:458:2,0.28
+Tenualosa,reevesii,15.75,108.25,1110:458:3,0.24
+Tenualosa,reevesii,17.25,106.75,1110:476:2,0.25
+Tenualosa,reevesii,18.25,106.75,1110:486:2,0.31
+Tenualosa,reevesii,18.75,108.75,1110:488:4,0.22
+Tenualosa,reevesii,18.25,109.25,1110:489:1,0.28
+Tenualosa,reevesii,19.75,109.75,1110:499:4,0.25
+Tenualosa,reevesii,18.75,110.25,1111:380:3,0.23
+Tenualosa,reevesii,19.75,110.25,1111:390:3,0.20
+Tenualosa,reevesii,21.25,106.75,1210:216:2,0.20
+Tenualosa,reevesii,20.75,111.75,1211:101:4,0.36
+Tenualosa,reevesii,22.75,114.25,1211:124:3,0.30
+Tenualosa,reevesii,23.25,113.25,1211:133:1,0.20
+Tenualosa,reevesii,23.25,113.75,1211:133:2,0.20
+Tenualosa,reevesii,22.25,118.25,1211:228:1,0.25
+Tenualosa,reevesii,25.75,119.25,1211:459:3,0.29
+Tenualosa,reevesii,26.25,120.25,1212:360:1,0.33
+Tenualosa,reevesii,26.75,122.25,1212:362:3,0.36
+Tenualosa,reevesii,27.25,121.25,1212:371:1,0.39
+Tenualosa,reevesii,27.75,121.75,1212:371:4,0.36
+Tenualosa,reevesii,28.25,122.25,1212:382:1,0.38
+Tenualosa,reevesii,28.75,122.75,1212:382:4,0.29
+Tenualosa,reevesii,16.25,108.25,1110:468:1,0.44
+Tenualosa,reevesii,18.25,105.75,1110:485:2,0.40
+Tenualosa,reevesii,19.25,106.25,1110:496:1,0.54
+Tenualosa,reevesii,19.25,110.75,1111:390:2,0.59
+Tenualosa,reevesii,21.25,107.25,1210:217:1,0.40
+Tenualosa,reevesii,21.75,108.75,1210:218:4,0.57
+Tenualosa,reevesii,21.75,113.25,1211:113:3,0.54
+Tenualosa,reevesii,21.75,113.75,1211:113:4,0.47
+Tenualosa,reevesii,22.75,113.75,1211:123:4,0.53
+Tenualosa,reevesii,22.75,114.75,1211:124:4,0.46
+Tenualosa,reevesii,22.25,116.75,1211:226:2,0.50
+Tenualosa,reevesii,22.25,117.75,1211:227:2,0.50
+Tenualosa,reevesii,25.25,119.25,1211:459:1,0.44
+Tenualosa,reevesii,22.75,120.25,1212:120:3,0.57
+Tenualosa,reevesii,26.75,120.75,1212:360:4,0.55
+Tenualosa,reevesii,26.25,121.25,1212:361:1,0.46
+Tenualosa,reevesii,15.75,108.75,1110:458:4,0.65
+Tenualosa,reevesii,18.75,106.25,1110:486:3,0.78
+Tenualosa,reevesii,22.25,115.75,1211:225:2,0.79
+Tenualosa,reevesii,22.25,117.25,1211:227:1,0.78
+Tenualosa,reevesii,25.25,118.75,1211:458:2,0.63
+Tenualosa,reevesii,22.75,120.75,1212:120:4,0.74
+Tenualosa,reevesii,22.75,121.25,1212:121:3,0.78
+Tenualosa,reevesii,23.75,121.75,1212:131:4,0.63
+Tenualosa,reevesii,24.25,121.75,1212:141:2,0.73
+Tenualosa,reevesii,25.25,122.25,1212:352:1,0.73
+Tenualosa,reevesii,25.75,122.25,1212:352:3,0.74
+Tenualosa,reevesii,26.25,121.75,1212:361:2,0.70
+Tenualosa,reevesii,26.25,122.25,1212:362:1,0.79
+Tenualosa,reevesii,26.75,122.75,1212:362:4,0.79
+Tenualosa,reevesii,17.75,106.25,1110:476:3,1.00
+Tenualosa,reevesii,18.75,105.75,1110:485:4,1.00
+Tenualosa,reevesii,18.25,106.25,1110:486:1,1.00
+Tenualosa,reevesii,19.25,105.75,1110:495:2,1.00
+Tenualosa,reevesii,19.75,105.75,1110:495:4,1.00
+Tenualosa,reevesii,19.75,106.25,1110:496:3,1.00
+Tenualosa,reevesii,19.75,110.75,1111:390:4,1.00
+Tenualosa,reevesii,19.75,111.25,1111:391:3,1.00
+Tenualosa,reevesii,20.25,106.25,1210:206:1,1.00
+Tenualosa,reevesii,20.25,106.75,1210:206:2,1.00
+Tenualosa,reevesii,20.75,106.75,1210:206:4,1.00
+Tenualosa,reevesii,20.75,107.25,1210:207:3,1.00
+Tenualosa,reevesii,21.75,107.75,1210:217:4,1.00
+Tenualosa,reevesii,21.25,109.75,1210:219:2,1.00
+Tenualosa,reevesii,21.75,109.25,1210:219:3,1.00
+Tenualosa,reevesii,21.75,109.75,1210:219:4,1.00
+Tenualosa,reevesii,20.25,110.25,1211:100:1,1.00
+Tenualosa,reevesii,20.25,110.75,1211:100:2,1.00
+Tenualosa,reevesii,20.75,110.25,1211:100:3,1.00
+Tenualosa,reevesii,20.75,110.75,1211:100:4,1.00
+Tenualosa,reevesii,20.25,111.25,1211:101:1,0.99
+Tenualosa,reevesii,20.75,111.25,1211:101:3,1.00
+Tenualosa,reevesii,21.25,110.25,1211:110:1,1.00
+Tenualosa,reevesii,21.25,110.75,1211:110:2,1.00
+Tenualosa,reevesii,21.25,111.25,1211:111:1,1.00
+Tenualosa,reevesii,21.25,111.75,1211:111:2,1.00
+Tenualosa,reevesii,21.75,111.25,1211:111:3,1.00
+Tenualosa,reevesii,21.75,111.75,1211:111:4,1.00
+Tenualosa,reevesii,21.25,112.25,1211:112:1,1.00
+Tenualosa,reevesii,21.25,112.75,1211:112:2,0.99
+Tenualosa,reevesii,21.75,112.25,1211:112:3,1.00
+Tenualosa,reevesii,21.75,112.75,1211:112:4,1.00
+Tenualosa,reevesii,21.25,113.25,1211:113:1,0.89
+Tenualosa,reevesii,21.75,114.25,1211:114:3,1.00
+Tenualosa,reevesii,22.25,114.75,1211:124:2,1.00
+Tenualosa,reevesii,22.25,115.25,1211:225:1,1.00
+Tenualosa,reevesii,22.75,115.25,1211:225:3,1.00
+Tenualosa,reevesii,22.75,115.75,1211:225:4,1.00
+Tenualosa,reevesii,22.25,116.25,1211:226:1,1.00
+Tenualosa,reevesii,22.75,116.25,1211:226:3,1.00
+Tenualosa,reevesii,22.75,116.75,1211:226:4,1.00
+Tenualosa,reevesii,22.75,117.25,1211:227:3,1.00
+Tenualosa,reevesii,22.75,117.75,1211:227:4,1.00
+Tenualosa,reevesii,22.75,118.25,1211:228:3,1.00
+Tenualosa,reevesii,22.75,118.75,1211:228:4,1.00
+Tenualosa,reevesii,22.75,119.25,1211:229:3,0.94
+Tenualosa,reevesii,23.25,116.75,1211:236:2,1.00
+Tenualosa,reevesii,23.75,116.75,1211:236:4,1.00
+Tenualosa,reevesii,23.25,117.25,1211:237:1,1.00
+Tenualosa,reevesii,23.25,117.75,1211:237:2,1.00
+Tenualosa,reevesii,23.75,117.25,1211:237:3,1.00
+Tenualosa,reevesii,23.75,117.75,1211:237:4,1.00
+Tenualosa,reevesii,23.25,118.25,1211:238:1,1.00
+Tenualosa,reevesii,23.25,118.75,1211:238:2,1.00
+Tenualosa,reevesii,23.75,118.25,1211:238:3,1.00
+Tenualosa,reevesii,23.75,118.75,1211:238:4,1.00
+Tenualosa,reevesii,23.25,119.25,1211:239:1,0.92
+Tenualosa,reevesii,23.25,119.75,1211:239:2,0.91
+Tenualosa,reevesii,23.75,119.25,1211:239:3,0.98
+Tenualosa,reevesii,23.75,119.75,1211:239:4,0.89
+Tenualosa,reevesii,24.25,117.75,1211:247:2,1.00
+Tenualosa,reevesii,24.25,118.25,1211:248:1,1.00
+Tenualosa,reevesii,24.25,118.75,1211:248:2,1.00
+Tenualosa,reevesii,24.75,118.25,1211:248:3,0.96
+Tenualosa,reevesii,24.75,118.75,1211:248:4,0.80
+Tenualosa,reevesii,24.25,119.25,1211:249:1,0.89
+Tenualosa,reevesii,24.25,119.75,1211:249:2,0.82
+Tenualosa,reevesii,24.75,119.25,1211:249:3,1.00
+Tenualosa,reevesii,24.75,119.75,1211:249:4,1.00
+Tenualosa,reevesii,25.25,119.75,1211:459:2,0.87
+Tenualosa,reevesii,23.25,120.25,1212:130:1,0.88
+Tenualosa,reevesii,23.75,120.25,1212:130:3,0.86
+Tenualosa,reevesii,23.25,121.25,1212:131:1,0.80
+Tenualosa,reevesii,24.25,120.25,1212:140:1,0.86
+Tenualosa,reevesii,24.25,120.75,1212:140:2,0.84
+Tenualosa,reevesii,24.75,120.25,1212:140:3,1.00
+Tenualosa,reevesii,24.75,120.75,1212:140:4,0.89
+Tenualosa,reevesii,24.75,121.75,1212:141:4,0.80
+Tenualosa,reevesii,25.25,120.25,1212:350:1,1.00
+Tenualosa,reevesii,25.25,120.75,1212:350:2,1.00
+Tenualosa,reevesii,25.75,120.25,1212:350:3,0.85
+Tenualosa,reevesii,25.75,120.75,1212:350:4,1.00
+Tenualosa,reevesii,25.25,121.25,1212:351:1,0.96
+Tenualosa,reevesii,25.25,121.75,1212:351:2,0.88
+Tenualosa,reevesii,25.75,121.25,1212:351:3,1.00
+Tenualosa,reevesii,25.75,121.75,1212:351:4,0.92
+Tenualosa,reevesii,26.25,120.75,1212:360:2,1.00
+Tenualosa,reevesii,26.75,121.25,1212:361:3,0.96
+Tenualosa,reevesii,27.25,121.75,1212:371:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 9)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Tenualosa,reevesii,7.25,99.25,1009:479:1,9,29.5889186859131,29.830867767334,31.9342422485352,32.5094108581543,7.29400012642145,0,200.514709472656,26
+Tenualosa,reevesii,18.25,106.25,1110:486:1,39,26.1895179748535,26.1806049346924,32.9636001586914,33.0000267028809,16.428999602794597,0,215.067642211914,14
+Tenualosa,reevesii,20.75,107.25,1210:207:3,8,25.34303855896,25.355318069458,33.246711730957,32.5522575378418,13.178000226616899,0,213.866149902344,25
+Tenualosa,reevesii,22.25,114.25,1211:124:1,10,24.6837882995605,25.0780200958252,28.1429767608643,33.7591972351074,97.5759997963905,0,233.332092285156,22
+Tenualosa,reevesii,23.25,113.25,1211:133:1,1,23.887845993042,24.2452983856201,29.971715927124,33.4697647094727,49.931988120079,0,230.295440673828,0
+Tenualosa,reevesii,23.25,116.75,1211:236:2,19,23.6337985992432,24.3511524200439,32.2073249816895,33.8506622314453,47.3169982433319,0,219.562774658203,18
+Tenualosa,reevesii,24.25,118.25,1211:248:1,20,22.3593482971191,23.2284107208252,31.7448654174805,33.8506622314453,26.931999251246502,0,225.013427734375,24
+Tenualosa,reevesii,24.25,120.25,1212:140:1,41,24.7277927398682,24.036958694458,33.6709480285645,34.1134262084961,25.0979997217655,0,210.488708496094,24
+Tenualosa,reevesii,25.25,119.75,1211:459:2,22,22.157018661499,23.2630043029785,31.1326122283936,33.832935333252,31.1730001121759,0,211.515869140625,25

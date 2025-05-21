@@ -1,0 +1,73 @@
+Mapping parameters for Sebastes koreanus ()
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO
+FAOAreas: 61,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,3,11,20
+Temperature (°C),1,12.59,13.55,15.01,16.24
+Salinity (psu),1,27.77,30.01,32.43,33.82
+Primary Production (mgC·m-3·day-1) ,1,11.6,15.88,20.87,24.06
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,240.45,257.4,284.83,309.03
+Distance to Land (km),0,17,18,58.8,83.25
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 34): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Sebastes,koreanus,36.25,120.25,1312:360:1,0.01
+Sebastes,koreanus,35.25,126.25,1312:456:1,0.13
+Sebastes,koreanus,37.75,128.75,1312:478:4,0.07
+Sebastes,koreanus,38.25,125.25,1312:485:1,0.04
+Sebastes,koreanus,38.75,125.25,1312:485:3,0.06
+Sebastes,koreanus,38.25,128.75,1312:488:2,0.10
+Sebastes,koreanus,38.75,128.25,1312:488:3,0.18
+Sebastes,koreanus,39.25,128.25,1312:498:1,0.01
+Sebastes,koreanus,39.75,128.25,1312:498:3,0.03
+Sebastes,koreanus,37.75,141.25,1314:371:3,0.13
+Sebastes,koreanus,38.25,140.75,1314:380:2,0.09
+Sebastes,koreanus,38.25,141.75,1314:381:2,0.10
+Sebastes,koreanus,39.25,140.25,1314:390:1,0.01
+Sebastes,koreanus,39.75,140.25,1314:390:3,0.03
+Sebastes,koreanus,39.75,141.75,1314:391:4,0.19
+Sebastes,koreanus,39.25,142.25,1314:392:1,0.11
+Sebastes,koreanus,39.75,142.25,1314:392:3,0.09
+Sebastes,koreanus,40.25,128.75,1412:208:2,0.09
+Sebastes,koreanus,40.25,140.25,1414:100:1,0.03
+Sebastes,koreanus,40.75,140.75,1414:100:4,0.14
+Sebastes,koreanus,40.25,141.75,1414:101:2,0.14
+Sebastes,koreanus,40.75,141.25,1414:101:3,0.16
+Sebastes,koreanus,36.75,126.25,1312:466:3,0.20
+Sebastes,koreanus,39.25,127.75,1312:497:2,0.38
+Sebastes,koreanus,38.75,141.25,1314:381:3,0.29
+Sebastes,koreanus,38.75,141.75,1314:381:4,0.20
+Sebastes,koreanus,39.25,141.75,1314:391:2,0.20
+Sebastes,koreanus,35.75,126.75,1312:456:4,0.44
+Sebastes,koreanus,38.25,128.25,1312:488:1,0.40
+Sebastes,koreanus,39.75,127.75,1312:497:4,0.41
+Sebastes,koreanus,36.25,126.25,1312:466:1,0.69
+Sebastes,koreanus,35.75,126.25,1312:456:3,0.87
+Sebastes,koreanus,36.25,126.75,1312:466:2,0.81
+Sebastes,koreanus,38.75,127.75,1312:487:4,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 3)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Sebastes,koreanus,35.75,126.25,1312:456:3,14,15.0979986190796,12.0863819122314,29.9996013641357,32.5703735351563,15.6199997290969,0,280.784942626953,68
+Sebastes,koreanus,36.25,126.25,1312:466:1,9,14.6470651626587,11.2861232757568,30.076099395752,32.5269889831543,21.8529999256134,0,285.839965820313,22
+Sebastes,koreanus,39.75,127.75,1312:497:4,44,13.2734403610229,9.02740097045898,33.022834777832,33.8576545715332,16.9239994138479,0,251.553466796875,17

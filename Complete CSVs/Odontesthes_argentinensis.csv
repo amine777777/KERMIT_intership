@@ -1,0 +1,184 @@
+Mapping parameters for Odontesthes argentinensis ()
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 41,
+Bounding Box (NSWE): ,-23,-42,-63,-44
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,5,26,50
+Temperature (°C),1,11.74,15.04,19.24,20.75
+Salinity (psu),1,13.52,16.17,34.04,34.54
+Primary Production (mgC·m-3·day-1) ,1,6.62,10.87,41.51,67.59
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,222.79,245.11,276.13,297.46
+Distance to Land (km),0,1,7,82,250
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 131): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Odontesthes,argentinensis,-29.75,-51.25,5205:391:3,0.02
+Odontesthes,argentinensis,-30.25,-49.75,5304:209:2,0.05
+Odontesthes,argentinensis,-30.25,-51.25,5305:101:1,0.08
+Odontesthes,argentinensis,-32.75,-51.25,5305:121:3,0.12
+Odontesthes,argentinensis,-37.25,-54.25,5305:374:1,0.17
+Odontesthes,argentinensis,-37.75,-55.25,5305:475:3,0.02
+Odontesthes,argentinensis,-37.75,-55.75,5305:475:4,0.13
+Odontesthes,argentinensis,-38.75,-55.75,5305:485:4,0.15
+Odontesthes,argentinensis,-39.25,-56.25,5305:496:1,0.05
+Odontesthes,argentinensis,-39.25,-56.75,5305:496:2,0.17
+Odontesthes,argentinensis,-39.75,-57.75,5305:497:4,0.08
+Odontesthes,argentinensis,-39.75,-58.25,5305:498:3,0.04
+Odontesthes,argentinensis,-39.75,-58.75,5305:498:4,0.09
+Odontesthes,argentinensis,-39.25,-59.75,5305:499:2,0.09
+Odontesthes,argentinensis,-39.75,-59.75,5305:499:4,0.17
+Odontesthes,argentinensis,-40.25,-57.75,5405:207:2,0.01
+Odontesthes,argentinensis,-40.25,-58.25,5405:208:1,0.14
+Odontesthes,argentinensis,-40.75,-58.75,5405:208:4,0.11
+Odontesthes,argentinensis,-40.25,-59.75,5405:209:2,0.07
+Odontesthes,argentinensis,-40.75,-59.25,5405:209:3,0.14
+Odontesthes,argentinensis,-40.75,-59.75,5405:209:4,0.08
+Odontesthes,argentinensis,-41.25,-58.75,5405:218:2,0.06
+Odontesthes,argentinensis,-41.75,-60.25,5406:110:3,0.01
+Odontesthes,argentinensis,-29.25,-49.75,5204:499:2,0.25
+Odontesthes,argentinensis,-29.75,-49.75,5204:499:4,0.27
+Odontesthes,argentinensis,-29.75,-50.25,5205:390:3,0.33
+Odontesthes,argentinensis,-30.25,-50.75,5305:100:2,0.31
+Odontesthes,argentinensis,-30.75,-50.75,5305:100:4,0.23
+Odontesthes,argentinensis,-30.75,-51.25,5305:101:3,0.24
+Odontesthes,argentinensis,-31.75,-50.75,5305:110:4,0.31
+Odontesthes,argentinensis,-38.25,-55.25,5305:485:1,0.34
+Odontesthes,argentinensis,-38.25,-55.75,5305:485:2,0.39
+Odontesthes,argentinensis,-38.75,-56.25,5305:486:3,0.28
+Odontesthes,argentinensis,-39.25,-57.25,5305:497:1,0.37
+Odontesthes,argentinensis,-39.75,-57.25,5305:497:3,0.22
+Odontesthes,argentinensis,-39.25,-59.25,5305:499:1,0.37
+Odontesthes,argentinensis,-40.25,-59.25,5405:209:1,0.25
+Odontesthes,argentinensis,-30.25,-50.25,5305:100:1,0.51
+Odontesthes,argentinensis,-30.75,-50.25,5305:100:3,0.42
+Odontesthes,argentinensis,-31.25,-51.25,5305:111:1,0.50
+Odontesthes,argentinensis,-31.25,-51.75,5305:111:2,0.53
+Odontesthes,argentinensis,-35.75,-56.75,5305:456:4,0.55
+Odontesthes,argentinensis,-37.75,-56.25,5305:476:3,0.46
+Odontesthes,argentinensis,-38.75,-56.75,5305:486:4,0.52
+Odontesthes,argentinensis,-38.75,-57.25,5305:487:3,0.48
+Odontesthes,argentinensis,-38.75,-57.75,5305:487:4,0.45
+Odontesthes,argentinensis,-38.75,-59.25,5305:489:3,0.46
+Odontesthes,argentinensis,-39.25,-57.75,5305:497:2,0.57
+Odontesthes,argentinensis,-39.25,-58.75,5305:498:2,0.58
+Odontesthes,argentinensis,-31.25,-50.75,5305:110:2,0.64
+Odontesthes,argentinensis,-34.25,-52.25,5305:142:1,0.75
+Odontesthes,argentinensis,-36.75,-54.25,5305:364:3,0.71
+Odontesthes,argentinensis,-36.75,-54.75,5305:364:4,0.74
+Odontesthes,argentinensis,-38.25,-56.25,5305:486:1,0.63
+Odontesthes,argentinensis,-39.25,-58.25,5305:498:1,0.63
+Odontesthes,argentinensis,-38.75,-62.25,5306:382:3,0.77
+Odontesthes,argentinensis,-31.75,-51.25,5305:111:3,0.89
+Odontesthes,argentinensis,-31.75,-51.75,5305:111:4,1.00
+Odontesthes,argentinensis,-31.75,-52.25,5305:112:3,1.00
+Odontesthes,argentinensis,-32.25,-51.25,5305:121:1,0.96
+Odontesthes,argentinensis,-32.25,-51.75,5305:121:2,1.00
+Odontesthes,argentinensis,-32.75,-51.75,5305:121:4,1.00
+Odontesthes,argentinensis,-32.25,-52.25,5305:122:1,1.00
+Odontesthes,argentinensis,-32.75,-52.25,5305:122:3,1.00
+Odontesthes,argentinensis,-32.75,-52.75,5305:122:4,1.00
+Odontesthes,argentinensis,-33.25,-51.75,5305:131:2,1.00
+Odontesthes,argentinensis,-33.75,-51.75,5305:131:4,0.91
+Odontesthes,argentinensis,-33.25,-52.25,5305:132:1,1.00
+Odontesthes,argentinensis,-33.25,-52.75,5305:132:2,1.00
+Odontesthes,argentinensis,-33.75,-52.25,5305:132:3,1.00
+Odontesthes,argentinensis,-33.75,-52.75,5305:132:4,1.00
+Odontesthes,argentinensis,-33.25,-53.25,5305:133:1,1.00
+Odontesthes,argentinensis,-33.75,-53.25,5305:133:3,1.00
+Odontesthes,argentinensis,-33.75,-53.75,5305:133:4,1.00
+Odontesthes,argentinensis,-34.25,-52.75,5305:142:2,1.00
+Odontesthes,argentinensis,-34.75,-52.75,5305:142:4,1.00
+Odontesthes,argentinensis,-34.25,-53.25,5305:143:1,1.00
+Odontesthes,argentinensis,-34.25,-53.75,5305:143:2,1.00
+Odontesthes,argentinensis,-34.75,-53.25,5305:143:3,1.00
+Odontesthes,argentinensis,-34.75,-53.75,5305:143:4,0.94
+Odontesthes,argentinensis,-34.75,-54.25,5305:144:3,1.00
+Odontesthes,argentinensis,-34.75,-54.75,5305:144:4,1.00
+Odontesthes,argentinensis,-34.75,-55.25,5305:245:3,1.00
+Odontesthes,argentinensis,-34.75,-55.75,5305:245:4,1.00
+Odontesthes,argentinensis,-35.25,-52.75,5305:352:2,0.83
+Odontesthes,argentinensis,-35.25,-53.25,5305:353:1,1.00
+Odontesthes,argentinensis,-35.25,-53.75,5305:353:2,1.00
+Odontesthes,argentinensis,-35.75,-53.25,5305:353:3,1.00
+Odontesthes,argentinensis,-35.75,-53.75,5305:353:4,1.00
+Odontesthes,argentinensis,-35.25,-54.25,5305:354:1,1.00
+Odontesthes,argentinensis,-35.25,-54.75,5305:354:2,1.00
+Odontesthes,argentinensis,-35.75,-54.25,5305:354:3,0.97
+Odontesthes,argentinensis,-35.75,-54.75,5305:354:4,1.00
+Odontesthes,argentinensis,-36.25,-53.25,5305:363:1,0.92
+Odontesthes,argentinensis,-36.25,-53.75,5305:363:2,1.00
+Odontesthes,argentinensis,-36.75,-53.75,5305:363:4,1.00
+Odontesthes,argentinensis,-36.25,-54.25,5305:364:1,0.96
+Odontesthes,argentinensis,-36.25,-54.75,5305:364:2,0.86
+Odontesthes,argentinensis,-35.25,-55.25,5305:455:1,1.00
+Odontesthes,argentinensis,-35.25,-55.75,5305:455:2,1.00
+Odontesthes,argentinensis,-35.75,-55.25,5305:455:3,1.00
+Odontesthes,argentinensis,-35.75,-55.75,5305:455:4,1.00
+Odontesthes,argentinensis,-35.25,-56.25,5305:456:1,1.00
+Odontesthes,argentinensis,-35.75,-56.25,5305:456:3,1.00
+Odontesthes,argentinensis,-36.25,-55.25,5305:465:1,1.00
+Odontesthes,argentinensis,-36.25,-55.75,5305:465:2,1.00
+Odontesthes,argentinensis,-36.75,-55.25,5305:465:3,0.86
+Odontesthes,argentinensis,-36.75,-55.75,5305:465:4,1.00
+Odontesthes,argentinensis,-36.25,-56.25,5305:466:1,1.00
+Odontesthes,argentinensis,-36.25,-56.75,5305:466:2,1.00
+Odontesthes,argentinensis,-36.75,-56.25,5305:466:3,1.00
+Odontesthes,argentinensis,-36.75,-56.75,5305:466:4,1.00
+Odontesthes,argentinensis,-36.25,-57.25,5305:467:1,1.00
+Odontesthes,argentinensis,-37.25,-55.75,5305:475:2,0.95
+Odontesthes,argentinensis,-37.25,-56.25,5305:476:1,1.00
+Odontesthes,argentinensis,-37.25,-56.75,5305:476:2,1.00
+Odontesthes,argentinensis,-37.75,-56.75,5305:476:4,1.00
+Odontesthes,argentinensis,-37.25,-57.25,5305:477:1,1.00
+Odontesthes,argentinensis,-37.75,-57.25,5305:477:3,1.00
+Odontesthes,argentinensis,-37.75,-57.75,5305:477:4,1.00
+Odontesthes,argentinensis,-38.25,-56.75,5305:486:2,0.86
+Odontesthes,argentinensis,-38.25,-57.25,5305:487:1,1.00
+Odontesthes,argentinensis,-38.25,-57.75,5305:487:2,1.00
+Odontesthes,argentinensis,-38.25,-58.25,5305:488:1,1.00
+Odontesthes,argentinensis,-38.75,-58.25,5305:488:3,0.97
+Odontesthes,argentinensis,-38.75,-58.75,5305:488:4,0.87
+Odontesthes,argentinensis,-38.75,-59.75,5305:489:4,0.95
+Odontesthes,argentinensis,-38.75,-60.25,5306:380:3,1.00
+Odontesthes,argentinensis,-38.75,-60.75,5306:380:4,0.98
+Odontesthes,argentinensis,-38.75,-61.25,5306:381:3,0.95
+Odontesthes,argentinensis,-38.75,-61.75,5306:381:4,0.81
+
+
+Occurrence cells used for creating environmental envelope (n = 17)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Odontesthes,argentinensis,-40.25,-62.25,5406:102:1,7,14.6385154724121,14.6113882064819,32.7054214477539,33.6728134155273,6.62400014698505,0,257.153991699219,14
+Odontesthes,argentinensis,-38.75,-58.75,5305:488:4,29,15.0643749237061,13.0643005371094,34.1047706604004,33.5343475341797,11.386999860405899,0,271.891448974609,19
+Odontesthes,argentinensis,-38.75,-60.25,5306:380:3,18,15.3419361114502,14.9401874542236,32.0237159729004,33.2753410339355,10.8669735491276,0,263.271087646484,7
+Odontesthes,argentinensis,-38.25,-57.25,5305:487:1,43,15.0418128967285,11.9466381072998,32.8401794433594,33.5667991638184,18.401000648737,0,270.551940917969,82
+Odontesthes,argentinensis,-38.25,-57.75,5305:487:2,26,15.1185731887817,14.704381942749,33.2202796936035,33.2224617004395,15.926999971270599,0,261.762634277344,14
+Odontesthes,argentinensis,-37.75,-57.25,5305:477:3,16,15.3453779220581,14.2989826202393,31.7409114837646,33.5564842224121,21.2319996207952,0,269.540252685547,18
+Odontesthes,argentinensis,-37.25,-54.25,5305:374:1,713,15.3257808685303,2.84504699707031,33.728458404541,34.2593269348145,12.9270004108548,0,252.92626953125,250
+Odontesthes,argentinensis,-37.25,-57.25,5305:477:1,4,15.7914152145386,15.2536201477051,26.5949268341064,32.6630172729492,22.3148018121719,0,270.740966796875,1
+Odontesthes,argentinensis,-36.75,-56.75,5305:466:4,25,16.1080646514893,16.2209777832031,22.7055950164795,31.1863174438477,28.1569994986057,0,268.452362060547,8
+Odontesthes,argentinensis,-36.25,-56.75,5305:466:2,12,16.7053642272949,16.7728328704834,16.1682987213135,31.8229351043701,23.6549992114305,0,276.130645751953,17
+Odontesthes,argentinensis,-34.75,-54.25,5305:144:3,28,17.0333423614502,14.3929090499878,30.0413799285889,33.8714141845703,41.5120013058186,0,264.93505859375,16
+Odontesthes,argentinensis,-34.75,-54.75,5305:144:4,17,17.0990028381348,15.6808376312256,26.8900566101074,32.4046745300293,35.741336643695796,0,266.999542236328,7
+Odontesthes,argentinensis,-34.75,-56.25,5305:246:3,10,17.3701267242432,17.3003711700439,13.5246591567993,30.3671436309814,28.920264914631797,0,277.425567626953,9
+Odontesthes,argentinensis,-34.25,-53.75,5305:143:2,13,17.2778949737549,16.5655860900879,31.0971698760986,32.4310455322266,34.791000187397,0,268.694885253906,12
+Odontesthes,argentinensis,-32.25,-52.25,5305:122:1,11,18.8053188323975,18.5789241790771,32.3393249511719,31.9208087921143,18.0830005556345,0,248.275573730469,12
+Odontesthes,argentinensis,-31.75,-52.25,5305:112:3,5,19.2432136535645,18.8637943267822,32.2035064697266,24.0579299926758,28.176000341772998,0,245.110870361328,7
+Odontesthes,argentinensis,-31.25,-50.75,5305:110:2,35,19.6402702331543,19.4066867828369,34.0383529663086,36.1885681152344,44.9949987232685,0,222.788436889648,19

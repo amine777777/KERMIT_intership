@@ -1,0 +1,125 @@
+Mapping parameters for Acipenser nudiventris (Fringebarbel sturgeon)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 37,
+Bounding Box (NSWE): ,57,36,14,53
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,30,33,46,60
+Temperature (°C),1,12.25,14.86,20.08,22.59
+Salinity (psu),1,13.69,15.95,29.06,39.21
+Primary Production (mgC·m-3·day-1) ,1,5.52,7,25.85,35.5
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,183.67,220.94,300.42,340.69
+Distance to Land (km),0,9,12.5,17,21
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 83): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Acipenser,nudiventris,38.25,22.25,1302:382:1,0.05
+Acipenser,nudiventris,39.75,22.75,1302:392:4,0.04
+Acipenser,nudiventris,38.75,26.75,1302:486:4,0.05
+Acipenser,nudiventris,38.75,27.25,1302:487:3,0.08
+Acipenser,nudiventris,39.25,26.75,1302:496:2,0.18
+Acipenser,nudiventris,36.75,36.25,1303:466:3,0.04
+Acipenser,nudiventris,41.25,19.25,1401:219:1,0.09
+Acipenser,nudiventris,41.75,19.25,1401:219:3,0.12
+Acipenser,nudiventris,42.75,17.75,1401:227:4,0.07
+Acipenser,nudiventris,42.25,19.25,1401:229:1,0.02
+Acipenser,nudiventris,43.25,16.75,1401:236:2,0.07
+Acipenser,nudiventris,43.25,17.25,1401:237:1,0.13
+Acipenser,nudiventris,43.25,17.75,1401:237:2,0.14
+Acipenser,nudiventris,45.25,14.75,1401:354:2,0.13
+Acipenser,nudiventris,40.75,25.75,1402:205:4,0.16
+Acipenser,nudiventris,44.25,29.25,1402:249:1,0.05
+Acipenser,nudiventris,45.75,31.75,1403:351:4,0.01
+Acipenser,nudiventris,45.75,33.75,1403:353:4,0.09
+Acipenser,nudiventris,46.25,34.75,1403:364:2,0.03
+Acipenser,nudiventris,46.75,35.75,1403:465:4,0.08
+Acipenser,nudiventris,37.75,23.25,1302:373:3,0.25
+Acipenser,nudiventris,38.25,22.75,1302:382:2,0.35
+Acipenser,nudiventris,39.75,26.75,1302:496:4,0.28
+Acipenser,nudiventris,44.75,14.75,1401:144:4,0.24
+Acipenser,nudiventris,40.25,23.25,1402:103:1,0.34
+Acipenser,nudiventris,40.25,26.75,1402:206:2,0.27
+Acipenser,nudiventris,40.25,27.25,1402:207:1,0.27
+Acipenser,nudiventris,41.25,30.25,1403:110:1,0.28
+Acipenser,nudiventris,41.75,35.25,1403:215:3,0.36
+Acipenser,nudiventris,40.25,22.75,1402:102:2,0.43
+Acipenser,nudiventris,40.75,22.75,1402:102:4,0.49
+Acipenser,nudiventris,40.25,27.75,1402:207:2,0.43
+Acipenser,nudiventris,45.75,30.25,1403:350:3,0.40
+Acipenser,nudiventris,47.25,37.75,1403:477:2,0.55
+Acipenser,nudiventris,47.25,38.25,1403:478:1,0.57
+Acipenser,nudiventris,40.25,26.25,1402:206:1,0.71
+Acipenser,nudiventris,40.75,27.75,1402:207:4,0.76
+Acipenser,nudiventris,46.25,30.25,1403:360:1,0.76
+Acipenser,nudiventris,46.25,30.75,1403:360:2,0.75
+Acipenser,nudiventris,46.75,30.75,1403:360:4,0.67
+Acipenser,nudiventris,46.25,31.25,1403:361:1,0.75
+Acipenser,nudiventris,46.25,31.75,1403:361:2,0.74
+Acipenser,nudiventris,46.75,31.25,1403:361:3,0.67
+Acipenser,nudiventris,46.75,31.75,1403:361:4,0.67
+Acipenser,nudiventris,46.75,32.25,1403:362:3,0.67
+Acipenser,nudiventris,46.25,33.75,1403:363:2,0.70
+Acipenser,nudiventris,46.75,36.75,1403:466:4,0.66
+Acipenser,nudiventris,46.25,37.25,1403:467:1,0.79
+Acipenser,nudiventris,46.75,37.25,1403:467:3,0.65
+Acipenser,nudiventris,46.75,37.75,1403:467:4,0.65
+Acipenser,nudiventris,46.75,38.25,1403:468:3,0.65
+Acipenser,nudiventris,46.75,38.75,1403:468:4,0.72
+Acipenser,nudiventris,47.25,38.75,1403:478:2,0.62
+Acipenser,nudiventris,47.25,39.25,1403:479:1,0.68
+Acipenser,nudiventris,41.75,41.75,1404:111:4,0.68
+Acipenser,nudiventris,40.25,28.25,1402:208:1,0.92
+Acipenser,nudiventris,40.25,28.75,1402:208:2,1.00
+Acipenser,nudiventris,40.75,28.75,1402:208:4,1.00
+Acipenser,nudiventris,40.25,29.25,1402:209:1,1.00
+Acipenser,nudiventris,40.75,29.25,1402:209:3,1.00
+Acipenser,nudiventris,40.75,29.75,1402:209:4,1.00
+Acipenser,nudiventris,43.75,28.75,1402:238:4,1.00
+Acipenser,nudiventris,44.25,29.75,1402:249:2,0.93
+Acipenser,nudiventris,44.75,30.25,1403:140:3,0.95
+Acipenser,nudiventris,44.75,37.25,1403:247:3,1.00
+Acipenser,nudiventris,44.75,37.75,1403:247:4,1.00
+Acipenser,nudiventris,44.75,38.25,1403:248:3,1.00
+Acipenser,nudiventris,45.25,30.75,1403:350:2,1.00
+Acipenser,nudiventris,45.75,30.75,1403:350:4,0.99
+Acipenser,nudiventris,45.75,31.25,1403:351:3,0.93
+Acipenser,nudiventris,45.75,32.25,1403:352:3,0.97
+Acipenser,nudiventris,45.75,32.75,1403:352:4,0.91
+Acipenser,nudiventris,45.75,33.25,1403:353:3,0.98
+Acipenser,nudiventris,45.25,36.75,1403:456:2,1.00
+Acipenser,nudiventris,45.25,37.25,1403:457:1,1.00
+Acipenser,nudiventris,45.75,37.75,1403:457:4,1.00
+Acipenser,nudiventris,46.25,37.75,1403:467:2,0.81
+Acipenser,nudiventris,46.25,38.25,1403:468:1,0.85
+Acipenser,nudiventris,46.25,38.75,1403:468:2,0.85
+Acipenser,nudiventris,42.25,41.75,1404:121:2,1.00
+Acipenser,nudiventris,42.75,41.25,1404:121:3,1.00
+Acipenser,nudiventris,42.75,41.75,1404:121:4,1.00
+Acipenser,nudiventris,43.25,40.75,1404:130:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 6)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Acipenser,nudiventris,36.75,30.75,1303:360:4,587,22.5851860046387,14.2728004455566,39.209056854248,38.7436561584473,8.60199984163046,0,183.671508789063,15
+Acipenser,nudiventris,42.75,41.25,1404:121:3,493,17.5793571472168,8.94841957092285,18.9071712493896,19.4175701141357,8.47399979829788,0,258.210540771484,15
+Acipenser,nudiventris,43.25,28.25,1402:238:1,67,15.7214326858521,12.3301811218262,17.6626129150391,18.3189640045166,5.51899988204241,0,295.634735107422,17
+Acipenser,nudiventris,44.25,28.75,1402:248:2,55,15.4027948379517,12.0970401763916,15.5730619430542,18.2214393615723,35.49699857831,0,292.925018310547,13
+Acipenser,nudiventris,45.75,32.75,1403:352:4,29,14.6367721557617,12.5690040588379,16.3319606781006,17.8943996429443,9.45299956947565,0,305.197662353516,17
+Acipenser,nudiventris,45.75,37.75,1403:457:4,22,15.0924415588379,14.7540235519409,17.867130279541,18.0907363891602,16.212023794651,0,283.230560302734,12

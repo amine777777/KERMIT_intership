@@ -1,0 +1,227 @@
+Mapping parameters for Acipenser brevirostrum (Shortnose sturgeon)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas:  21 |  31 ,
+Bounding Box (NSWE): ,48,28,-82,-65
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,6,6,34,53
+Temperature (°C),1,2.75,8.36,22.41,24.98
+Salinity (psu),1,21.29,24.88,35.96,36.89
+Primary Production (mgC·m-3·day-1) ,1,3,7.72,34.51,43.75
+Sea Ice Concentration (0-1 fraction),1,-1,0,0.02,0.02
+Dissolved Bottom Oxygen (mmol·m-3),0,155.46,212.58,298.34,344.33
+Distance to Land (km),0,1,2,178,281
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 170): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Acipenser,brevirostrum,41.25,-70.25,7407:110:1,0.17
+Acipenser,brevirostrum,40.75,-71.25,7407:101:3,0.15
+Acipenser,brevirostrum,43.25,-66.25,7406:236:1,0.18
+Acipenser,brevirostrum,43.25,-65.75,7406:235:2,0.13
+Acipenser,brevirostrum,43.25,-65.25,7406:235:1,0.03
+Acipenser,brevirostrum,42.25,-67.75,7406:227:2,0.12
+Acipenser,brevirostrum,42.75,-66.25,7406:226:3,0.10
+Acipenser,brevirostrum,41.75,-69.25,7406:219:3,0.16
+Acipenser,brevirostrum,41.25,-69.75,7406:219:2,0.15
+Acipenser,brevirostrum,40.25,-68.25,7406:208:1,0.16
+Acipenser,brevirostrum,31.25,-80.25,7308:110:1,0.16
+Acipenser,brevirostrum,30.25,-80.75,7308:100:2,0.18
+Acipenser,brevirostrum,38.25,-73.75,7307:383:2,0.05
+Acipenser,brevirostrum,35.25,-74.75,7307:354:2,0.07
+Acipenser,brevirostrum,34.25,-76.25,7307:246:1,0.19
+Acipenser,brevirostrum,33.75,-76.75,7307:236:4,0.04
+Acipenser,brevirostrum,32.25,-79.25,7307:229:1,0.10
+Acipenser,brevirostrum,32.75,-78.25,7307:228:3,0.04
+Acipenser,brevirostrum,31.75,-79.75,7307:219:4,0.04
+Acipenser,brevirostrum,29.75,-80.75,7208:390:4,0.15
+Acipenser,brevirostrum,29.25,-80.75,7208:390:2,0.14
+Acipenser,brevirostrum,28.75,-80.75,7208:380:4,0.13
+Acipenser,brevirostrum,41.25,-70.75,7407:110:2,0.35
+Acipenser,brevirostrum,40.25,-72.25,7407:102:1,0.37
+Acipenser,brevirostrum,40.75,-70.75,7407:100:4,0.25
+Acipenser,brevirostrum,44.25,-67.25,7406:247:1,0.27
+Acipenser,brevirostrum,43.75,-65.25,7406:235:3,0.27
+Acipenser,brevirostrum,42.25,-69.75,7406:229:2,0.23
+Acipenser,brevirostrum,42.25,-67.25,7406:227:1,0.35
+Acipenser,brevirostrum,41.75,-69.75,7406:219:4,0.23
+Acipenser,brevirostrum,41.25,-69.25,7406:219:1,0.29
+Acipenser,brevirostrum,30.75,-80.75,7308:100:4,0.34
+Acipenser,brevirostrum,37.75,-76.25,7307:476:3,0.23
+Acipenser,brevirostrum,39.75,-72.75,7307:392:4,0.21
+Acipenser,brevirostrum,37.75,-74.25,7307:374:3,0.37
+Acipenser,brevirostrum,34.75,-75.75,7307:245:4,0.29
+Acipenser,brevirostrum,33.75,-77.25,7307:237:3,0.39
+Acipenser,brevirostrum,33.25,-77.75,7307:237:2,0.26
+Acipenser,brevirostrum,32.75,-78.75,7307:228:4,0.27
+Acipenser,brevirostrum,29.25,-81.25,7208:391:1,0.33
+Acipenser,brevirostrum,42.75,-70.25,7407:120:3,0.42
+Acipenser,brevirostrum,40.75,-70.25,7407:100:3,0.42
+Acipenser,brevirostrum,41.75,-68.25,7406:218:3,0.54
+Acipenser,brevirostrum,41.25,-68.75,7406:218:2,0.55
+Acipenser,brevirostrum,41.75,-66.75,7406:216:4,0.59
+Acipenser,brevirostrum,40.75,-69.75,7406:209:4,0.54
+Acipenser,brevirostrum,31.75,-80.25,7308:110:3,0.51
+Acipenser,brevirostrum,30.25,-81.25,7308:101:1,0.55
+Acipenser,brevirostrum,39.25,-74.75,7307:394:2,0.51
+Acipenser,brevirostrum,33.25,-78.25,7307:238:1,0.49
+Acipenser,brevirostrum,32.25,-79.75,7307:229:2,0.53
+Acipenser,brevirostrum,29.75,-81.25,7208:391:3,0.43
+Acipenser,brevirostrum,40.25,-72.75,7407:102:2,0.62
+Acipenser,brevirostrum,40.75,-71.75,7407:101:4,0.74
+Acipenser,brevirostrum,41.75,-67.75,7406:217:4,0.64
+Acipenser,brevirostrum,41.75,-67.25,7406:217:3,0.69
+Acipenser,brevirostrum,40.75,-68.75,7406:208:4,0.68
+Acipenser,brevirostrum,31.25,-80.75,7308:110:2,0.66
+Acipenser,brevirostrum,35.25,-75.25,7307:455:1,0.63
+Acipenser,brevirostrum,38.75,-73.25,7307:383:3,0.68
+Acipenser,brevirostrum,34.25,-76.75,7307:246:2,0.60
+Acipenser,brevirostrum,32.75,-79.25,7307:229:3,0.70
+Acipenser,brevirostrum,43.75,-70.25,7407:130:3,1.00
+Acipenser,brevirostrum,43.25,-70.75,7407:130:2,1.00
+Acipenser,brevirostrum,43.25,-70.25,7407:130:1,1.00
+Acipenser,brevirostrum,42.75,-70.75,7407:120:4,1.00
+Acipenser,brevirostrum,42.25,-70.75,7407:120:2,1.00
+Acipenser,brevirostrum,42.25,-70.25,7407:120:1,0.97
+Acipenser,brevirostrum,41.25,-73.75,7407:113:2,1.00
+Acipenser,brevirostrum,41.25,-73.25,7407:113:1,1.00
+Acipenser,brevirostrum,41.25,-72.75,7407:112:2,0.91
+Acipenser,brevirostrum,41.25,-72.25,7407:112:1,1.00
+Acipenser,brevirostrum,41.25,-71.75,7407:111:2,1.00
+Acipenser,brevirostrum,41.25,-71.25,7407:111:1,1.00
+Acipenser,brevirostrum,41.75,-70.75,7407:110:4,1.00
+Acipenser,brevirostrum,41.75,-70.25,7407:110:3,0.90
+Acipenser,brevirostrum,40.75,-74.25,7407:104:3,1.00
+Acipenser,brevirostrum,40.75,-73.75,7407:103:4,1.00
+Acipenser,brevirostrum,40.75,-73.25,7407:103:3,1.00
+Acipenser,brevirostrum,40.25,-73.75,7407:103:2,1.00
+Acipenser,brevirostrum,40.25,-73.25,7407:103:1,1.00
+Acipenser,brevirostrum,40.75,-72.75,7407:102:4,1.00
+Acipenser,brevirostrum,40.75,-72.25,7407:102:3,1.00
+Acipenser,brevirostrum,45.25,-67.25,7406:457:1,0.98
+Acipenser,brevirostrum,45.25,-66.75,7406:456:2,1.00
+Acipenser,brevirostrum,45.25,-66.25,7406:456:1,1.00
+Acipenser,brevirostrum,45.75,-65.25,7406:455:3,0.98
+Acipenser,brevirostrum,45.25,-65.75,7406:455:2,1.00
+Acipenser,brevirostrum,45.25,-65.25,7406:455:1,0.97
+Acipenser,brevirostrum,44.25,-69.25,7406:249:1,1.00
+Acipenser,brevirostrum,44.25,-68.75,7406:248:2,1.00
+Acipenser,brevirostrum,44.25,-68.25,7406:248:1,1.00
+Acipenser,brevirostrum,44.75,-67.25,7406:247:3,1.00
+Acipenser,brevirostrum,44.25,-67.75,7406:247:2,1.00
+Acipenser,brevirostrum,44.75,-66.75,7406:246:4,1.00
+Acipenser,brevirostrum,44.75,-66.25,7406:246:3,1.00
+Acipenser,brevirostrum,44.25,-66.25,7406:246:1,1.00
+Acipenser,brevirostrum,44.75,-65.75,7406:245:4,1.00
+Acipenser,brevirostrum,44.75,-65.25,7406:245:3,1.00
+Acipenser,brevirostrum,43.75,-69.75,7406:239:4,1.00
+Acipenser,brevirostrum,43.75,-69.25,7406:239:3,1.00
+Acipenser,brevirostrum,43.75,-68.75,7406:238:4,0.87
+Acipenser,brevirostrum,43.75,-66.25,7406:236:3,1.00
+Acipenser,brevirostrum,43.75,-65.75,7406:235:4,0.95
+Acipenser,brevirostrum,41.25,-68.25,7406:218:1,1.00
+Acipenser,brevirostrum,41.25,-67.75,7406:217:2,1.00
+Acipenser,brevirostrum,41.25,-67.25,7406:217:1,1.00
+Acipenser,brevirostrum,41.75,-66.25,7406:216:3,0.90
+Acipenser,brevirostrum,41.25,-66.75,7406:216:2,1.00
+Acipenser,brevirostrum,40.75,-69.25,7406:209:3,0.88
+Acipenser,brevirostrum,40.75,-68.25,7406:208:3,0.95
+Acipenser,brevirostrum,40.75,-67.75,7406:207:4,0.84
+Acipenser,brevirostrum,32.75,-80.25,7308:120:3,1.00
+Acipenser,brevirostrum,32.25,-80.75,7308:120:2,1.00
+Acipenser,brevirostrum,32.25,-80.25,7308:120:1,0.92
+Acipenser,brevirostrum,31.75,-81.25,7308:111:3,1.00
+Acipenser,brevirostrum,31.25,-81.25,7308:111:1,1.00
+Acipenser,brevirostrum,31.75,-80.75,7308:110:4,1.00
+Acipenser,brevirostrum,30.75,-81.25,7308:101:3,0.86
+Acipenser,brevirostrum,38.75,-75.25,7307:485:3,1.00
+Acipenser,brevirostrum,38.25,-75.75,7307:485:2,1.00
+Acipenser,brevirostrum,38.25,-75.25,7307:485:1,1.00
+Acipenser,brevirostrum,37.25,-76.75,7307:476:2,0.81
+Acipenser,brevirostrum,37.25,-76.25,7307:476:1,1.00
+Acipenser,brevirostrum,37.75,-75.75,7307:475:4,1.00
+Acipenser,brevirostrum,37.75,-75.25,7307:475:3,1.00
+Acipenser,brevirostrum,37.25,-75.75,7307:475:2,1.00
+Acipenser,brevirostrum,37.25,-75.25,7307:475:1,1.00
+Acipenser,brevirostrum,36.75,-76.25,7307:466:3,1.00
+Acipenser,brevirostrum,36.25,-76.75,7307:466:2,1.00
+Acipenser,brevirostrum,36.25,-76.25,7307:466:1,1.00
+Acipenser,brevirostrum,36.75,-75.75,7307:465:4,1.00
+Acipenser,brevirostrum,36.75,-75.25,7307:465:3,1.00
+Acipenser,brevirostrum,36.25,-75.75,7307:465:2,1.00
+Acipenser,brevirostrum,36.25,-75.25,7307:465:1,1.00
+Acipenser,brevirostrum,35.75,-76.75,7307:456:4,1.00
+Acipenser,brevirostrum,35.75,-76.25,7307:456:3,1.00
+Acipenser,brevirostrum,35.25,-76.75,7307:456:2,1.00
+Acipenser,brevirostrum,35.25,-76.25,7307:456:1,1.00
+Acipenser,brevirostrum,35.75,-75.75,7307:455:4,1.00
+Acipenser,brevirostrum,35.75,-75.25,7307:455:3,1.00
+Acipenser,brevirostrum,35.25,-75.75,7307:455:2,1.00
+Acipenser,brevirostrum,39.75,-74.25,7307:394:3,1.00
+Acipenser,brevirostrum,39.25,-74.25,7307:394:1,1.00
+Acipenser,brevirostrum,39.75,-73.75,7307:393:4,1.00
+Acipenser,brevirostrum,39.75,-73.25,7307:393:3,1.00
+Acipenser,brevirostrum,39.25,-73.75,7307:393:2,1.00
+Acipenser,brevirostrum,39.25,-73.25,7307:393:1,1.00
+Acipenser,brevirostrum,38.75,-74.75,7307:384:4,1.00
+Acipenser,brevirostrum,38.75,-74.25,7307:384:3,1.00
+Acipenser,brevirostrum,38.25,-74.75,7307:384:2,1.00
+Acipenser,brevirostrum,38.25,-74.25,7307:384:1,1.00
+Acipenser,brevirostrum,38.75,-73.75,7307:383:4,1.00
+Acipenser,brevirostrum,37.75,-74.75,7307:374:4,1.00
+Acipenser,brevirostrum,37.25,-74.75,7307:374:2,1.00
+Acipenser,brevirostrum,36.75,-74.75,7307:364:4,1.00
+Acipenser,brevirostrum,36.25,-74.75,7307:364:2,1.00
+Acipenser,brevirostrum,35.75,-74.75,7307:354:4,0.91
+Acipenser,brevirostrum,34.75,-77.25,7307:247:3,1.00
+Acipenser,brevirostrum,34.25,-77.75,7307:247:2,1.00
+Acipenser,brevirostrum,34.25,-77.25,7307:247:1,0.96
+Acipenser,brevirostrum,34.75,-76.75,7307:246:4,1.00
+Acipenser,brevirostrum,34.75,-76.25,7307:246:3,0.89
+Acipenser,brevirostrum,33.75,-79.25,7307:239:3,1.00
+Acipenser,brevirostrum,33.25,-79.25,7307:239:1,1.00
+Acipenser,brevirostrum,33.75,-78.75,7307:238:4,1.00
+Acipenser,brevirostrum,33.75,-78.25,7307:238:3,1.00
+Acipenser,brevirostrum,33.25,-78.75,7307:238:2,0.85
+Acipenser,brevirostrum,33.75,-77.75,7307:237:4,1.00
+Acipenser,brevirostrum,32.75,-79.75,7307:229:4,0.94
+
+
+Occurrence cells used for creating environmental envelope (n = 21)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Acipenser,brevirostrum,29.25,-80.75,7208:390:2,17,24.4598178863525,24.6653156280518,36.2400360107422,36.1438941955566,12.4159995466471,0,212.57878112793,22
+Acipenser,brevirostrum,32.75,-80.25,7308:120:3,3,21.9971179962158,22.3378963470459,34.6606178283691,35.2015647888184,14.3406819552183,0,220.68537902832,4
+Acipenser,brevirostrum,33.75,-77.75,7307:237:4,17,22.4130229949951,23.1969184875488,35.9561386108398,36.205135345459,12.1320001780987,0,218.917999267578,23
+Acipenser,brevirostrum,34.25,-77.75,7307:247:2,11,21.3976173400879,22.2731342315674,35.6947059631348,35.9007377624512,20.4760003834963,0,223.792556762695,13
+Acipenser,brevirostrum,35.75,-76.75,7307:456:4,6,19.5347499847412,20.1473140716553,31.5202140808105,34.3776588439941,18.362756818532898,0,233.933517456055,2
+Acipenser,brevirostrum,37.25,-76.25,7307:476:1,6,16.5517158508301,16.5227813720703,24.8784141540527,33.7276000976563,19.8819991201162,0,256.998870849609,17
+Acipenser,brevirostrum,38.75,-77.25,7307:487:3,1,15.3799486160278,15.6942873001099,21.2928733825684,32.508674621582,43.7541231513023,0,270.132019042969,2
+Acipenser,brevirostrum,40.25,-67.25,7406:207:1,1843,16.6437358856201,3.15681195259094,34.4962463378906,34.9657592773438,12.2220003977418,0,267.156890869141,281
+Acipenser,brevirostrum,40.75,-74.25,7407:104:3,5,13.442211151123,13.072021484375,28.4586086273193,32.296142578125,34.511961042881,0.0171638112515211,268.905883789063,3
+Acipenser,brevirostrum,40.75,-73.75,7407:103:4,8,13.4407529830933,13.0143041610718,29.8318176269531,32.5024757385254,31.282376497983897,0.00871662329882383,267.247924804688,10
+Acipenser,brevirostrum,40.75,-72.25,7407:102:3,37,13.4511270523071,11.4039926528931,31.892219543457,33.8732872009277,7.71800009533763,0,262.812469482422,20
+Acipenser,brevirostrum,41.25,-73.75,7407:113:2,15,12.9693298339844,12.4344186782837,28.1190071105957,32.2066192626953,33.1095717847347,0.0198104996234179,273.503143310547,1
+Acipenser,brevirostrum,41.25,-72.25,7407:112:1,14,12.6790542602539,11.0581426620483,29.0367870330811,33.3789939880371,22.5189998745918,0,273.012359619141,13
+Acipenser,brevirostrum,41.75,-70.75,7407:110:4,7,12.1985702514648,11.8684139251709,31.3636016845703,32.2100944519043,9.84099972993135,0,276.989349365234,7
+Acipenser,brevirostrum,42.75,-70.75,7407:120:4,34,11.1632881164551,9.04224967956543,31.5066261291504,32.1114120483398,19.1600006073713,0,307.765319824219,12
+Acipenser,brevirostrum,42.75,-68.25,7406:228:3,187,11.0860824584961,10.4641313552856,32.1053161621094,34.394157409668,3.00200004130602,0,158.18586730957,178
+Acipenser,brevirostrum,44.75,-65.75,7406:245:4,66,8.64504909515381,7.97551679611206,29.2311363220215,31.2849369049072,14.0460003167391,0.000022000000171829,298.344207763672,13
+Acipenser,brevirostrum,44.75,-65.25,7406:245:3,42,8.54437732696533,7.08143663406372,29.2848796844482,31.6339092254639,11.5917790681124,0.000416519615100697,280.508972167969,2
+Acipenser,brevirostrum,45.25,-66.25,7406:456:1,51,8.58443164825439,8.23062515258789,29.2089347839355,31.4120445251465,21.3980004191399,0.00000499999987368938,298.035461425781,8
+Acipenser,brevirostrum,45.25,-65.75,7406:455:2,64,8.35856914520264,6.17458915710449,28.9160594940186,32.1744575500488,14.9950003251433,0.000022000000171829,243.553649902344,12
+Acipenser,brevirostrum,45.25,-65.25,7406:455:1,55,8.16611003875732,5.95833301544189,28.6949634552002,32.2035293579102,13.0380000919104,0.000322000007145107,226.284866333008,18

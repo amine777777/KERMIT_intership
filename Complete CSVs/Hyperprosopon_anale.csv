@@ -1,0 +1,134 @@
+Mapping parameters for Hyperprosopon anale (Spotfin surfperch)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 67 |  77,
+Bounding Box (NSWE): ,46,27,-125,-114
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,10,50,101
+Temperature (°C),1,8.16,11.47,17.12,19.85
+Salinity (psu),1,30.63,31.3,33.44,34.91
+Primary Production (mgC·m-3·day-1) ,1,14.88,38.65,89.76,102.21
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,12.51,18.51,253.89,354.99
+Distance to Land (km),0,7,8,22,84
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 79): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Hyperprosopon,anale,44.25,-124.75,7412:144:2,0.12
+Hyperprosopon,anale,35.25,-121.25,7312:351:1,0.04
+Hyperprosopon,anale,34.25,-120.75,7312:140:2,0.06
+Hyperprosopon,anale,33.25,-118.75,7311:238:2,0.04
+Hyperprosopon,anale,30.75,-115.75,7311:205:4,0.12
+Hyperprosopon,anale,29.25,-115.75,7211:495:2,0.06
+Hyperprosopon,anale,28.75,-115.25,7211:485:3,0.03
+Hyperprosopon,anale,28.25,-115.25,7211:485:1,0.05
+Hyperprosopon,anale,27.75,-115.25,7211:475:3,0.09
+Hyperprosopon,anale,29.25,-114.75,7211:394:2,0.03
+Hyperprosopon,anale,28.75,-114.25,7211:384:3,0.01
+Hyperprosopon,anale,28.25,-114.75,7211:384:2,0.02
+Hyperprosopon,anale,28.25,-114.25,7211:384:1,0.17
+Hyperprosopon,anale,27.75,-114.75,7211:374:4,0.09
+Hyperprosopon,anale,27.75,-114.25,7211:374:3,0.07
+Hyperprosopon,anale,27.25,-114.75,7211:374:2,0.14
+Hyperprosopon,anale,27.25,-114.25,7211:374:1,0.06
+Hyperprosopon,anale,43.25,-124.75,7412:134:2,0.39
+Hyperprosopon,anale,33.25,-118.25,7311:238:1,0.37
+Hyperprosopon,anale,33.25,-117.25,7311:237:1,0.29
+Hyperprosopon,anale,30.25,-115.75,7311:205:2,0.38
+Hyperprosopon,anale,29.75,-115.25,7211:495:3,0.21
+Hyperprosopon,anale,28.75,-114.75,7211:384:4,0.31
+Hyperprosopon,anale,42.25,-124.75,7412:124:2,0.45
+Hyperprosopon,anale,33.75,-120.25,7312:130:3,0.41
+Hyperprosopon,anale,33.75,-119.75,7311:239:4,0.50
+Hyperprosopon,anale,33.75,-119.25,7311:239:3,0.52
+Hyperprosopon,anale,32.25,-116.75,7311:226:2,0.56
+Hyperprosopon,anale,31.25,-116.25,7311:216:1,0.54
+Hyperprosopon,anale,40.75,-124.75,7412:104:4,0.75
+Hyperprosopon,anale,37.75,-122.25,7312:372:3,0.69
+Hyperprosopon,anale,33.75,-117.75,7311:237:4,0.65
+Hyperprosopon,anale,30.25,-116.25,7311:206:1,0.78
+Hyperprosopon,anale,44.25,-124.25,7412:144:1,1.00
+Hyperprosopon,anale,43.75,-124.25,7412:134:3,0.99
+Hyperprosopon,anale,43.25,-124.25,7412:134:1,0.97
+Hyperprosopon,anale,42.75,-124.75,7412:124:4,0.91
+Hyperprosopon,anale,42.75,-124.25,7412:124:3,0.94
+Hyperprosopon,anale,42.25,-124.25,7412:124:1,0.91
+Hyperprosopon,anale,41.75,-124.25,7412:114:3,0.88
+Hyperprosopon,anale,41.25,-124.75,7412:114:2,0.99
+Hyperprosopon,anale,41.25,-124.25,7412:114:1,0.99
+Hyperprosopon,anale,40.75,-124.25,7412:104:3,0.95
+Hyperprosopon,anale,40.25,-124.25,7412:104:1,1.00
+Hyperprosopon,anale,39.75,-124.25,7312:394:3,1.00
+Hyperprosopon,anale,39.75,-123.75,7312:393:4,1.00
+Hyperprosopon,anale,39.25,-123.75,7312:393:2,1.00
+Hyperprosopon,anale,38.75,-123.75,7312:383:4,1.00
+Hyperprosopon,anale,38.75,-123.25,7312:383:3,1.00
+Hyperprosopon,anale,38.25,-123.25,7312:383:1,1.00
+Hyperprosopon,anale,38.25,-122.75,7312:382:2,1.00
+Hyperprosopon,anale,38.25,-122.25,7312:382:1,1.00
+Hyperprosopon,anale,37.75,-123.25,7312:373:3,1.00
+Hyperprosopon,anale,37.75,-122.75,7312:372:4,1.00
+Hyperprosopon,anale,37.25,-122.75,7312:372:2,1.00
+Hyperprosopon,anale,37.25,-122.25,7312:372:1,1.00
+Hyperprosopon,anale,36.75,-122.25,7312:362:3,1.00
+Hyperprosopon,anale,36.75,-121.75,7312:361:4,1.00
+Hyperprosopon,anale,36.25,-121.75,7312:361:2,1.00
+Hyperprosopon,anale,36.25,-121.25,7312:361:1,1.00
+Hyperprosopon,anale,35.75,-121.25,7312:351:3,1.00
+Hyperprosopon,anale,35.25,-120.75,7312:350:2,1.00
+Hyperprosopon,anale,34.75,-120.75,7312:140:4,1.00
+Hyperprosopon,anale,34.75,-120.25,7312:140:3,1.00
+Hyperprosopon,anale,34.25,-120.25,7312:140:1,1.00
+Hyperprosopon,anale,34.25,-119.75,7311:249:2,1.00
+Hyperprosopon,anale,34.25,-119.25,7311:249:1,1.00
+Hyperprosopon,anale,34.25,-118.75,7311:248:2,1.00
+Hyperprosopon,anale,34.25,-118.25,7311:248:1,0.92
+Hyperprosopon,anale,33.75,-118.75,7311:238:4,1.00
+Hyperprosopon,anale,33.75,-118.25,7311:238:3,1.00
+Hyperprosopon,anale,33.25,-117.75,7311:237:2,0.80
+Hyperprosopon,anale,32.75,-117.25,7311:227:3,0.85
+Hyperprosopon,anale,32.25,-117.25,7311:227:1,0.90
+Hyperprosopon,anale,31.75,-116.75,7311:216:4,1.00
+Hyperprosopon,anale,31.25,-116.75,7311:216:2,0.98
+Hyperprosopon,anale,30.75,-116.25,7311:206:3,0.97
+Hyperprosopon,anale,29.75,-115.75,7211:495:4,1.00
+Hyperprosopon,anale,29.25,-115.25,7211:495:1,0.98
+
+
+Occurrence cells used for creating environmental envelope (n = 19)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Hyperprosopon,anale,29.75,-115.75,7211:495:4,609,16.8867473602295,16.0323143005371,33.3915977478027,33.4937896728516,51.7369993031025,0,229.803634643555,20
+Hyperprosopon,anale,31.75,-116.75,7311:216:4,570,17.1246318817139,13.3359565734863,33.4399337768555,33.3729019165039,47.5319996476173,0,187.593460083008,18
+Hyperprosopon,anale,32.75,-117.25,7311:227:3,417,17.5296211242676,17.3001308441162,33.1959571838379,33.4590377807617,47.630000859499,0,253.88542175293,17
+Hyperprosopon,anale,34.25,-119.25,7311:249:1,157,16.025842666626,12.1285209655762,33.3387832641602,33.7734565734863,50.2023063600063,0,151.240951538086,12
+Hyperprosopon,anale,34.25,-119.75,7311:249:2,236,15.4664936065674,9.33530902862549,33.4423599243164,34.1384048461914,47.0339991152287,0,60.8652267456055,19
+Hyperprosopon,anale,34.25,-120.25,7312:140:1,253,14.5869131088257,6.37804317474365,33.412525177002,34.2600250244141,38.6510007083416,0,25.4960613250732,22
+Hyperprosopon,anale,34.25,-120.75,7312:140:2,804,14.1069660186768,5.04635000228882,33.3656044006348,34.3567962646484,28.6800004541874,0,12.5115222930908,84
+Hyperprosopon,anale,34.75,-120.75,7312:140:4,265,13.6566123962402,11.7194509506226,33.3029518127441,33.3011474609375,52.4980016052723,0,178.350570678711,19
+Hyperprosopon,anale,35.25,-120.75,7312:350:2,150,14.2085208892822,9.40637969970703,33.0908355712891,33.8184356689453,55.134866386652,0,110.435394287109,12
+Hyperprosopon,anale,35.75,-121.25,7312:351:3,332,13.7279930114746,8.30255317687988,32.9412879943848,33.8782196044922,58.1842847168446,0,98.6858139038086,12
+Hyperprosopon,anale,36.25,-121.75,7312:361:2,664,13.2774972915649,7.00983762741089,32.8131713867188,33.9756813049316,61.6089515388012,0,83.9356689453125,13
+Hyperprosopon,anale,36.75,-121.75,7312:361:4,200,13.1923837661743,9.9427375793457,32.4601554870605,33.4761924743652,75.3878429532051,0,169.73454284668,8
+Hyperprosopon,anale,36.75,-122.25,7312:362:3,1365,12.8962163925171,3.68909502029419,32.825511932373,34.4459075927734,69.4629997014999,0,18.5081272125244,22
+Hyperprosopon,anale,37.25,-122.25,7312:372:1,72,12.7344741821289,8.61571407318115,32.3339462280273,33.6055793762207,81.5349370241165,0,149.288848876953,8
+Hyperprosopon,anale,37.75,-122.25,7312:372:3,37,12.5448198318481,12.5954055786133,31.915958404541,32.8801536560059,93.5980007052422,0,264.184265136719,9
+Hyperprosopon,anale,37.75,-122.75,7312:372:4,71,12.4105558395386,11.9178762435913,32.0252532958984,33.1155052185059,89.7559970617294,0,192.358596801758,20
+Hyperprosopon,anale,41.75,-124.25,7412:114:3,131,11.0563440322876,10.9292669296265,32.7723426818848,32.6898498535156,64.9169981479645,0,222.04557800293,16
+Hyperprosopon,anale,44.25,-124.25,7412:144:1,85,11.4733486175537,9.51249408721924,31.2981853485107,32.7116508483887,48.3659990131855,0,146.680862426758,18
+Hyperprosopon,anale,44.75,-124.25,7412:144:3,107,11.6812896728516,9.37424278259277,30.6278896331787,33.0797729492188,49.7069992125034,0,142.532623291016,19

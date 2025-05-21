@@ -1,0 +1,80 @@
+Mapping parameters for Sebastes simulator (Pinkrose rockfish)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77,
+Bounding Box (NSWE): ,34,28,-119,-114
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,99,120,200,293
+Temperature (°C),1,16.35,17.32,18.39,19.49
+Salinity (psu),1,32.86,33.36,33.77,34.27
+Primary Production (mgC·m-3·day-1) ,1,5.97,6.97,47.63,92.65
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,10.84,11.47,247.85,253.89
+Distance to Land (km),0,3,6,70,146
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 33): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Sebastes,simulator,28.75,-115.75,7211:485:4,0.19
+Sebastes,simulator,29.25,-114.75,7211:394:2,0.02
+Sebastes,simulator,32.25,-118.75,7311:228:2,0.34
+Sebastes,simulator,32.75,-117.75,7311:227:4,0.26
+Sebastes,simulator,32.75,-118.75,7311:228:4,0.45
+Sebastes,simulator,29.75,-115.75,7211:495:4,0.50
+Sebastes,simulator,33.75,-118.75,7311:238:4,0.62
+Sebastes,simulator,33.75,-118.25,7311:238:3,0.78
+Sebastes,simulator,33.25,-118.75,7311:238:2,0.62
+Sebastes,simulator,33.25,-117.25,7311:237:1,0.70
+Sebastes,simulator,32.75,-117.25,7311:227:3,0.67
+Sebastes,simulator,32.25,-117.25,7311:227:1,0.74
+Sebastes,simulator,31.25,-116.75,7311:216:2,0.72
+Sebastes,simulator,30.75,-116.25,7311:206:3,0.62
+Sebastes,simulator,33.25,-118.25,7311:238:1,1.00
+Sebastes,simulator,33.75,-117.75,7311:237:4,1.00
+Sebastes,simulator,33.25,-117.75,7311:237:2,1.00
+Sebastes,simulator,32.75,-118.25,7311:228:3,1.00
+Sebastes,simulator,32.25,-116.75,7311:226:2,1.00
+Sebastes,simulator,31.75,-116.75,7311:216:4,0.80
+Sebastes,simulator,31.25,-116.25,7311:216:1,1.00
+Sebastes,simulator,30.25,-116.25,7311:206:1,0.97
+Sebastes,simulator,30.25,-115.75,7311:205:2,0.81
+Sebastes,simulator,29.25,-118.25,7211:498:1,1.00
+Sebastes,simulator,29.25,-115.75,7211:495:2,1.00
+Sebastes,simulator,29.25,-115.25,7211:495:1,0.81
+Sebastes,simulator,28.75,-118.25,7211:488:3,1.00
+Sebastes,simulator,28.75,-115.25,7211:485:3,1.00
+Sebastes,simulator,28.25,-115.75,7211:485:2,1.00
+Sebastes,simulator,28.25,-115.25,7211:485:1,1.00
+Sebastes,simulator,28.75,-114.75,7211:384:4,1.00
+Sebastes,simulator,28.25,-114.75,7211:384:2,1.00
+Sebastes,simulator,28.25,-114.25,7211:384:1,0.89
+
+
+Occurrence cells used for creating environmental envelope (n = 11)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Sebastes,simulator,28.75,-118.25,7211:488:3,2987,18.3937015533447,1.47903203964233,33.510082244873,34.6715545654297,6.96900021284819,0,116.017654418945,24
+Sebastes,simulator,29.25,-117.25,7211:497:1,3380,18.0544738769531,1.30167102813721,33.4890365600586,34.6763954162598,6.45700003951788,0,127.619018554688,146
+Sebastes,simulator,29.25,-118.25,7211:498:1,2358,18.1207523345947,2.44648694992065,33.4836120605469,34.5938148498535,7.82399997115135,0,60.9319458007813,24
+Sebastes,simulator,30.25,-115.75,7311:205:2,89,18.3140697479248,14.5039577484131,33.8655242919922,33.9995422363281,37.6119986176491,0,188.74186706543,11
+Sebastes,simulator,32.75,-117.25,7311:227:3,417,17.5296211242676,17.3001308441162,33.1959571838379,33.4590377807617,47.630000859499,0,253.88542175293,17
+Sebastes,simulator,32.75,-117.75,7311:227:4,871,17.6706161499023,4.49264621734619,33.3589401245117,34.4202270507813,34.0999998152256,0,11.4677352905273,70
+Sebastes,simulator,32.75,-118.25,7311:228:3,979,17.3178062438965,2.66787099838257,33.4622230529785,34.5490036010742,14.1660002991557,0,46.3790397644043,23
+Sebastes,simulator,33.25,-117.25,7311:237:1,346,18.7146682739258,16.5972518920898,33.7724189758301,33.9172439575195,36.3377034664154,0,216.342498779297,6
+Sebastes,simulator,33.25,-117.75,7311:237:2,707,17.6597366333008,4.86465501785278,33.423770904541,34.4202308654785,40.913000702858,0,10.8413753509521,22
+Sebastes,simulator,33.75,-117.75,7311:237:4,279,17.989444732666,16.1753520965576,33.5121688842773,33.739933013916,41.7538620531559,0,226.297241210938,3
+Sebastes,simulator,33.75,-118.25,7311:238:3,435,17.1248607635498,16.0249519348145,33.4362258911133,33.4448699951172,48.8069988787174,0,247.852645874023,15

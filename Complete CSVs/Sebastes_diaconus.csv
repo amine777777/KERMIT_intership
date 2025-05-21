@@ -1,0 +1,71 @@
+Mapping parameters for Sebastes diaconus (Deacon rockfish)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 67 |  77,
+Bounding Box (NSWE): ,48,35,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,8,12,30,50
+Temperature (°C),1,10.59,11.24,12.66,13.19
+Salinity (psu),1,27.95,30.47,32.8,35.54
+Primary Production (mgC·m-3·day-1) ,1,24.68,43.79,70.15,88.73
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,78.3,110.42,195.89,222.05
+Distance to Land (km),0,8,12,39,59
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 29): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Sebastes,diaconus,45.25,-123.75,7412:353:2,0.15
+Sebastes,diaconus,41.25,-124.75,7412:114:2,0.07
+Sebastes,diaconus,39.75,-124.25,7312:394:3,0.04
+Sebastes,diaconus,38.25,-122.25,7312:382:1,0.15
+Sebastes,diaconus,47.75,-124.75,7412:374:4,0.22
+Sebastes,diaconus,47.25,-124.75,7412:374:2,0.33
+Sebastes,diaconus,45.25,-124.25,7412:354:1,0.24
+Sebastes,diaconus,37.25,-122.75,7312:372:2,0.26
+Sebastes,diaconus,37.25,-122.25,7312:372:1,0.33
+Sebastes,diaconus,38.25,-122.75,7312:382:2,0.48
+Sebastes,diaconus,36.75,-122.25,7312:362:3,0.55
+Sebastes,diaconus,47.25,-124.25,7412:374:1,0.63
+Sebastes,diaconus,41.75,-124.25,7412:114:3,0.72
+Sebastes,diaconus,44.75,-124.25,7412:144:3,1.00
+Sebastes,diaconus,44.25,-124.25,7412:144:1,1.00
+Sebastes,diaconus,43.75,-124.25,7412:134:3,1.00
+Sebastes,diaconus,43.25,-124.25,7412:134:1,1.00
+Sebastes,diaconus,42.75,-124.75,7412:124:4,0.90
+Sebastes,diaconus,42.75,-124.25,7412:124:3,1.00
+Sebastes,diaconus,42.25,-124.25,7412:124:1,0.91
+Sebastes,diaconus,41.25,-124.25,7412:114:1,0.99
+Sebastes,diaconus,40.75,-124.25,7412:104:3,0.99
+Sebastes,diaconus,40.25,-124.25,7412:104:1,0.97
+Sebastes,diaconus,39.75,-123.75,7312:393:4,1.00
+Sebastes,diaconus,39.25,-123.75,7312:393:2,0.98
+Sebastes,diaconus,38.75,-123.75,7312:383:4,0.89
+Sebastes,diaconus,38.75,-123.25,7312:383:3,1.00
+Sebastes,diaconus,38.25,-123.25,7312:383:1,0.92
+Sebastes,diaconus,37.75,-123.25,7312:373:3,0.99
+
+
+Occurrence cells used for creating environmental envelope (n = 6)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Sebastes,diaconus,36.75,-121.75,7312:361:4,200,13.1923837661743,9.9427375793457,32.4601554870605,33.4761924743652,75.3878429532051,0,169.73454284668,8
+Sebastes,diaconus,41.25,-124.25,7412:114:1,236,11.4336385726929,10.2497234344482,32.8372993469238,32.847225189209,64.1029998660088,0,156.446029663086,18
+Sebastes,diaconus,41.75,-124.25,7412:114:3,131,11.0563440322876,10.9292669296265,32.7723426818848,32.6898498535156,64.9169981479645,0,222.04557800293,16
+Sebastes,diaconus,44.25,-124.25,7412:144:1,85,11.4733486175537,9.51249408721924,31.2981853485107,32.7116508483887,48.3659990131855,0,146.680862426758,18
+Sebastes,diaconus,44.75,-124.25,7412:144:3,107,11.6812896728516,9.37424278259277,30.6278896331787,33.0797729492188,49.7069992125034,0,142.532623291016,19
+Sebastes,diaconus,44.75,-124.75,7412:144:4,496,12.12526512146,7.39342021942139,30.3031997680664,34.0125198364258,39.2059981822968,0,78.3039093017578,59

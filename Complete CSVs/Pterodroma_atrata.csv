@@ -1,0 +1,80 @@
+Mapping parameters for Pterodroma atrata (Henderson petrel)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 77 |  81 |  87,
+Bounding Box (NSWE): ,-4,-31,-159,-105
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,0,3,5
+Temperature (°C),1,20.58,22.5,24.64,26.81
+Salinity (psu),1,35.46,35.96,36.05,36.55
+Primary Production (mgC·m-3·day-1) ,1,-0.87,0.13,0.15,1.15
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,146.6,161.95,173.85,187.79
+Distance to Land (km),0,23.5,24.5,163,225
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 38): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Pterodroma,atrata,-18.75,-136.25,5113:486:3,0.02
+Pterodroma,atrata,-19.25,-138.75,5113:498:2,0.04
+Pterodroma,atrata,-19.25,-139.25,5113:499:1,0.03
+Pterodroma,atrata,-19.25,-140.75,5114:390:2,0.01
+Pterodroma,atrata,-19.75,-140.25,5114:390:3,0.07
+Pterodroma,atrata,-19.25,-141.25,5114:391:1,0.01
+Pterodroma,atrata,-19.75,-144.75,5114:394:4,0.02
+Pterodroma,atrata,-19.75,-157.75,5115:497:4,0.02
+Pterodroma,atrata,-19.75,-158.25,5115:498:3,0.02
+Pterodroma,atrata,-21.75,-154.75,5215:114:4,0.17
+Pterodroma,atrata,-20.25,-157.25,5215:207:1,0.05
+Pterodroma,atrata,-21.75,-157.75,5215:217:4,0.11
+Pterodroma,atrata,-20.75,-138.25,5213:208:3,0.22
+Pterodroma,atrata,-20.75,-138.75,5213:208:4,0.23
+Pterodroma,atrata,-21.25,-135.25,5213:215:1,0.30
+Pterodroma,atrata,-21.25,-135.75,5213:215:2,0.31
+Pterodroma,atrata,-21.25,-136.25,5213:216:1,0.32
+Pterodroma,atrata,-21.25,-136.75,5213:216:2,0.30
+Pterodroma,atrata,-23.25,-149.25,5214:239:1,0.37
+Pterodroma,atrata,-24.75,-145.75,5214:245:4,0.22
+Pterodroma,atrata,-27.75,-143.25,5214:373:3,0.25
+Pterodroma,atrata,-27.75,-144.25,5214:374:3,0.24
+Pterodroma,atrata,-22.25,-151.25,5215:121:1,0.27
+Pterodroma,atrata,-22.75,-152.75,5215:122:4,0.30
+Pterodroma,atrata,-21.75,-135.25,5213:215:3,0.42
+Pterodroma,atrata,-21.75,-135.75,5213:215:4,0.44
+Pterodroma,atrata,-21.75,-136.25,5213:216:3,0.45
+Pterodroma,atrata,-21.75,-138.75,5213:218:4,0.44
+Pterodroma,atrata,-22.25,-138.75,5213:228:2,0.53
+Pterodroma,atrata,-21.75,-140.75,5214:110:4,0.41
+Pterodroma,atrata,-23.75,-147.75,5214:237:4,0.43
+Pterodroma,atrata,-23.25,-134.75,5213:134:2,0.70
+Pterodroma,atrata,-26.25,-105.25,5210:465:1,0.83
+Pterodroma,atrata,-27.25,-109.25,5210:479:1,0.98
+Pterodroma,atrata,-24.75,-124.75,5212:144:4,0.92
+Pterodroma,atrata,-24.25,-128.25,5212:248:1,1.00
+Pterodroma,atrata,-23.75,-130.75,5213:130:4,0.92
+Pterodroma,atrata,-25.25,-130.25,5213:350:1,0.86
+
+
+Occurrence cells used for creating environmental envelope (n = 6)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Pterodroma,atrata,-27.25,-109.25,5210:479:1,2100,22.4706783294678,1.59161996841431,36.0343322753906,34.6775360107422,0.13299999409355198,0,162.21305847168,24
+Pterodroma,atrata,-27.25,-109.75,5210:479:2,2595,22.5286293029785,1.6632479429245,36.0400009155273,34.6646156311035,0.12099999730708101,0,161.987503051758,99
+Pterodroma,atrata,-25.25,-130.25,5213:350:1,3365,24.0863094329834,1.36955904960632,35.890682220459,34.6828804016113,0.144999998155981,0,174.506698608398,25
+Pterodroma,atrata,-24.25,-127.75,5212:247:2,3233,24.474271774292,1.46407902240753,36.0564994812012,34.6754951477051,0.136000002385117,0,169.75830078125,101
+Pterodroma,atrata,-24.25,-128.25,5212:248:1,2607,24.4738578796387,1.67465794086456,36.0406341552734,34.6622314453125,0.151000000187196,0,161.902862548828,25
+Pterodroma,atrata,-23.75,-130.75,5213:130:4,3002,24.8130416870117,1.39120697975159,36.0294647216797,34.6820411682129,0.148999999510124,0,173.20198059082,225

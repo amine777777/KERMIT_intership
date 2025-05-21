@@ -1,0 +1,129 @@
+Mapping parameters for Octopus pallidus (pale octopus)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO
+FAOAreas: 81,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,3,73,265,589
+Temperature (°C),1,15.61,18.32,22.01,24.37
+Salinity (psu),1,35.03,35.53,35.6,36.1
+Primary Production (mgC·m-3·day-1) ,1,11.75,13.38,22.54,26.37
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,158.37,189.38,223.94,252.71
+Distance to Land (km),0,1,2,86,299
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 76): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Octopus,pallidus,-28.25,153.25,3215:383:1,0.02
+Octopus,pallidus,-28.25,153.75,3215:383:2,0.19
+Octopus,pallidus,-28.25,154.25,3215:384:1,0.01
+Octopus,pallidus,-33.25,151.25,3315:131:1,0.04
+Octopus,pallidus,-35.75,174.25,3317:354:3,0.12
+Octopus,pallidus,-37.75,174.75,3317:374:4,0.07
+Octopus,pallidus,-38.25,174.75,3317:384:2,0.14
+Octopus,pallidus,-38.75,174.25,3317:384:3,0.09
+Octopus,pallidus,-38.75,174.75,3317:384:4,0.07
+Octopus,pallidus,-39.75,172.75,3317:392:4,0.02
+Octopus,pallidus,-39.25,173.75,3317:393:2,0.10
+Octopus,pallidus,-39.75,173.25,3317:393:3,0.01
+Octopus,pallidus,-39.75,173.75,3317:393:4,0.01
+Octopus,pallidus,-39.25,174.25,3317:394:1,0.03
+Octopus,pallidus,-36.25,175.75,3317:465:2,0.09
+Octopus,pallidus,-37.75,176.75,3317:476:4,0.09
+Octopus,pallidus,-39.25,176.75,3317:496:2,0.02
+Octopus,pallidus,-39.25,177.75,3317:497:2,0.11
+Octopus,pallidus,-39.75,177.25,3317:497:3,0.06
+Octopus,pallidus,-40.25,172.25,3417:102:1,0.01
+Octopus,pallidus,-28.75,153.75,3215:383:4,0.25
+Octopus,pallidus,-29.25,153.75,3215:393:2,0.30
+Octopus,pallidus,-29.75,153.75,3215:393:4,0.30
+Octopus,pallidus,-30.25,153.75,3315:103:2,0.35
+Octopus,pallidus,-31.75,152.75,3315:112:4,0.25
+Octopus,pallidus,-36.25,150.75,3315:360:2,0.29
+Octopus,pallidus,-37.25,175.75,3317:475:2,0.38
+Octopus,pallidus,-37.75,176.25,3317:476:3,0.30
+Octopus,pallidus,-38.75,177.75,3317:487:4,0.21
+Octopus,pallidus,-38.25,178.25,3317:488:1,0.34
+Octopus,pallidus,-38.75,178.25,3317:488:3,0.29
+Octopus,pallidus,-29.25,153.25,3215:393:1,0.58
+Octopus,pallidus,-30.25,153.25,3315:103:1,0.59
+Octopus,pallidus,-30.75,153.25,3315:103:3,0.52
+Octopus,pallidus,-31.25,153.25,3315:113:1,0.55
+Octopus,pallidus,-32.25,152.25,3315:122:1,0.41
+Octopus,pallidus,-32.25,152.75,3315:122:2,0.59
+Octopus,pallidus,-33.25,152.75,3315:132:2,0.43
+Octopus,pallidus,-35.25,150.25,3315:350:1,0.51
+Octopus,pallidus,-37.25,176.25,3317:476:1,0.57
+Octopus,pallidus,-37.75,177.25,3317:477:3,0.56
+Octopus,pallidus,-37.75,177.75,3317:477:4,0.59
+Octopus,pallidus,-37.75,178.25,3317:478:3,0.57
+Octopus,pallidus,-38.25,178.75,3317:488:2,0.47
+Octopus,pallidus,-29.75,153.25,3215:393:3,0.64
+Octopus,pallidus,-36.75,149.75,3314:469:4,0.65
+Octopus,pallidus,-31.25,152.75,3315:112:2,0.67
+Octopus,pallidus,-31.75,153.25,3315:113:3,0.62
+Octopus,pallidus,-32.25,153.25,3315:123:1,0.71
+Octopus,pallidus,-34.25,150.75,3315:140:2,0.67
+Octopus,pallidus,-35.75,174.75,3317:354:4,0.78
+Octopus,pallidus,-36.25,174.75,3317:364:2,0.63
+Octopus,pallidus,-36.25,175.25,3317:465:1,0.67
+Octopus,pallidus,-36.75,175.75,3317:465:4,0.64
+Octopus,pallidus,-32.75,151.75,3315:121:4,1.00
+Octopus,pallidus,-32.75,152.25,3315:122:3,1.00
+Octopus,pallidus,-32.75,152.75,3315:122:4,1.00
+Octopus,pallidus,-33.25,151.75,3315:131:2,1.00
+Octopus,pallidus,-33.75,151.25,3315:131:3,1.00
+Octopus,pallidus,-33.75,151.75,3315:131:4,1.00
+Octopus,pallidus,-33.25,152.25,3315:132:1,1.00
+Octopus,pallidus,-33.75,152.25,3315:132:3,0.91
+Octopus,pallidus,-34.75,150.75,3315:140:4,1.00
+Octopus,pallidus,-34.25,151.25,3315:141:1,1.00
+Octopus,pallidus,-34.25,151.75,3315:141:2,1.00
+Octopus,pallidus,-34.75,151.25,3315:141:3,1.00
+Octopus,pallidus,-35.25,150.75,3315:350:2,1.00
+Octopus,pallidus,-35.75,150.25,3315:350:3,0.91
+Octopus,pallidus,-35.75,150.75,3315:350:4,1.00
+Octopus,pallidus,-35.25,151.25,3315:351:1,1.00
+Octopus,pallidus,-36.25,150.25,3315:360:1,1.00
+Octopus,pallidus,-36.75,150.25,3315:360:3,1.00
+Octopus,pallidus,-37.25,150.25,3315:370:1,1.00
+Octopus,pallidus,-37.75,150.25,3315:370:3,1.00
+Octopus,pallidus,-38.25,150.25,3315:380:1,0.97
+Octopus,pallidus,-35.25,174.25,3317:354:1,0.81
+
+
+Occurrence cells used for creating environmental envelope (n = 17)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Octopus,pallidus,-37.75,150.25,3315:370:3,1042,18.3201541900635,2.85206604003906,35.592399597168,34.5659027099609,17.2370001673698,0,158.368988037109,82
+Octopus,pallidus,-37.25,150.25,3315:370:1,391,18.4787502288818,16.0979862213135,35.5838623046875,35.4585266113281,19.2230008542538,0,213.27180480957,22
+Octopus,pallidus,-36.75,149.75,3314:469:4,9,18.1302661895752,16.7738094329834,35.589038848877,35.521541595459,20.1375037431717,0,222.754318237305,2
+Octopus,pallidus,-36.75,150.25,3315:360:3,399,18.8941898345947,15.2096824645996,35.5814208984375,35.3957443237305,20.9819991141558,0,207.489852905273,22
+Octopus,pallidus,-36.25,150.25,3315:360:1,300,19.1574211120605,16.5478630065918,35.5854682922363,35.5173377990723,22.5389990955591,0,208.682662963867,17
+Octopus,pallidus,-35.75,150.25,3315:350:3,56,19.1552925109863,18.4370212554932,35.5900077819824,35.5928344726563,22.8860005736351,0,218.205307006836,12
+Octopus,pallidus,-35.25,150.75,3315:350:2,184,19.7186489105225,17.2264995574951,35.5791091918945,35.5259895324707,20.0479999184608,0,203.0458984375,20
+Octopus,pallidus,-35.25,151.25,3315:351:1,2277,20.4031448364258,1.55450296401978,35.5987739562988,34.7288360595703,15.081999823451001,0,189.380874633789,84
+Octopus,pallidus,-35.25,153.75,3315:353:2,4870,20.6753978729248,0.834689974784851,35.594898223877,34.7113571166992,13.1339998915792,0,191.048919677734,299
+Octopus,pallidus,-34.25,150.75,3315:140:2,11,20.0122375488281,20.5275497436523,35.5968055725098,35.5807037353516,19.4278284907341,0,225.160308837891,2
+Octopus,pallidus,-34.25,151.25,3315:141:1,181,20.5473594665527,17.2316284179688,35.5556869506836,35.4919967651367,19.0399996936321,0,195.749328613281,21
+Octopus,pallidus,-33.75,151.25,3315:131:3,38,20.3722381591797,20.9656944274902,35.5346717834473,35.5825614929199,19.7570007294416,0,223.944488525391,12
+Octopus,pallidus,-33.25,151.75,3315:131:2,80,20.7134037017822,18.6355323791504,35.5311088562012,35.5654487609863,18.309999257326098,0,197.036926269531,21
+Octopus,pallidus,-33.25,152.25,3315:132:1,632,21.4505767822266,6.8258490562439,35.5587768554688,34.5088005065918,18.1450005620718,0,202.707168579102,85
+Octopus,pallidus,-32.75,152.25,3315:122:3,83,21.0859203338623,19.1069278717041,35.5331115722656,35.5813484191895,20.8919998258352,0,195.200134277344,20
+Octopus,pallidus,-32.75,152.75,3315:122:4,709,22.0116882324219,6.84254693984985,35.5430374145508,34.511905670166,20.856000483036,0,203.422714233398,86
+Octopus,pallidus,-28.75,153.75,3215:383:4,219,23.5709533691406,22.3651103973389,35.4006805419922,35.6042900085449,13.381999917328399,0,201.836410522461,21

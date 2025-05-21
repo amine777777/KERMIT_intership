@@ -1,0 +1,71 @@
+Mapping parameters for Octopus tetricus (gloomy octopus)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 57 |  81,
+Bounding Box (NSWE): ,-23,-34,110,116
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,6,31,60
+Temperature (°C),1,19.82,20.32,21.63,22.17
+Salinity (psu),1,34.81,35.31,35.54,36.04
+Primary Production (mgC·m-3·day-1) ,1,0.47,1.96,4.73,7.16
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,217.81,219.91,225.81,229.19
+Distance to Land (km),0,6,10.2,71,96
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 28): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Octopus,tetricus,-27.75,114.25,3211:374:3,0.09
+Octopus,tetricus,-29.75,114.25,3211:394:3,0.08
+Octopus,tetricus,-33.75,115.25,3311:235:3,0.06
+Octopus,tetricus,-29.25,114.25,3211:394:1,0.24
+Octopus,tetricus,-33.25,115.75,3311:235:2,0.30
+Octopus,tetricus,-28.25,114.25,3211:384:1,0.56
+Octopus,tetricus,-28.25,114.75,3211:384:2,0.41
+Octopus,tetricus,-28.75,114.25,3211:384:3,0.54
+Octopus,tetricus,-32.75,114.75,3311:124:4,0.72
+Octopus,tetricus,-31.25,115.75,3311:215:2,0.67
+Octopus,tetricus,-32.75,115.75,3311:225:4,0.78
+Octopus,tetricus,-28.75,114.75,3211:384:4,0.83
+Octopus,tetricus,-29.25,114.75,3211:394:2,0.89
+Octopus,tetricus,-29.75,114.75,3211:394:4,1.00
+Octopus,tetricus,-29.25,115.25,3211:495:1,0.97
+Octopus,tetricus,-29.75,115.25,3211:495:3,0.83
+Octopus,tetricus,-30.25,114.75,3311:104:2,0.96
+Octopus,tetricus,-30.75,114.75,3311:104:4,0.94
+Octopus,tetricus,-33.25,114.75,3311:134:2,1.00
+Octopus,tetricus,-33.75,114.75,3311:134:4,1.00
+Octopus,tetricus,-30.25,115.25,3311:205:1,1.00
+Octopus,tetricus,-30.75,115.25,3311:205:3,1.00
+Octopus,tetricus,-31.25,115.25,3311:215:1,1.00
+Octopus,tetricus,-31.75,115.25,3311:215:3,1.00
+Octopus,tetricus,-31.75,115.75,3311:215:4,1.00
+Octopus,tetricus,-32.25,115.25,3311:225:1,1.00
+Octopus,tetricus,-32.25,115.75,3311:225:2,1.00
+Octopus,tetricus,-32.75,115.25,3311:225:3,0.84
+
+
+Occurrence cells used for creating environmental envelope (n = 7)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Octopus,tetricus,-33.75,115.25,3311:235:3,55,19.851505279541,20.2288608551025,35.5621032714844,35.7101898193359,4.78646392002702,0,226.489593505859,6
+Octopus,tetricus,-32.25,115.25,3311:225:1,199,20.8867225646973,20.7318668365479,35.5147094726563,35.6975784301758,4.6169999986887005,0,224.163146972656,71
+Octopus,tetricus,-32.25,115.75,3311:225:2,14,20.6379947662354,20.4993762969971,35.5177001953125,35.643497467041,4.68949228525162,0,225.360580444336,14
+Octopus,tetricus,-31.75,115.25,3311:215:3,222,21.1492862701416,20.6870536804199,35.4858856201172,35.6827735900879,3.9229998365044603,0,224.068008422852,71
+Octopus,tetricus,-31.75,115.75,3311:215:4,18,20.8391799926758,20.7073249816895,35.4906044006348,35.6183624267578,4.01695072650909,0,224.486053466797,13
+Octopus,tetricus,-29.25,114.75,3211:394:2,29,21.4735717773438,21.6934871673584,35.2899169921875,35.5095100402832,1.8469999777153099,0,220.090087890625,22
+Octopus,tetricus,-28.25,114.25,3211:384:1,32,21.8675289154053,21.7325496673584,35.3251190185547,35.4468116760254,2.03699991106987,0,219.651382446289,18

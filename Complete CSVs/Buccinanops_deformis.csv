@@ -1,0 +1,265 @@
+Mapping parameters for Buccinanops deformis ()
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 41,
+Bounding Box (NSWE): ,-20,-42,64,40
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,4,21,40
+Temperature (°C),1,10.75,14.12,23.11,23.73
+Salinity (psu),1,20.49,26.8,36.06,36.56
+Primary Production (mgC·m-3·day-1) ,1,-0.48,0.52,35.74,70.74
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,211.4,215.92,276.92,284.07
+Distance to Land (km),0,0,1,91,97
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 214): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Buccinanops,deformis,-41.25,-61.75,5406:111:2,0.11
+Buccinanops,deformis,-41.75,-60.25,5406:110:3,0.04
+Buccinanops,deformis,-41.75,-58.75,5405:218:4,0.13
+Buccinanops,deformis,-41.25,-58.25,5405:218:1,0.18
+Buccinanops,deformis,-40.75,-59.75,5405:209:4,0.08
+Buccinanops,deformis,-40.75,-59.25,5405:209:3,0.19
+Buccinanops,deformis,-40.25,-59.75,5405:209:2,0.16
+Buccinanops,deformis,-39.25,-56.75,5305:496:2,0.07
+Buccinanops,deformis,-39.25,-55.75,5305:495:2,0.08
+Buccinanops,deformis,-38.75,-57.75,5305:487:4,0.11
+Buccinanops,deformis,-37.75,-56.25,5305:476:3,0.16
+Buccinanops,deformis,-36.25,-56.25,5305:466:1,0.16
+Buccinanops,deformis,-31.25,-49.75,5304:219:2,0.05
+Buccinanops,deformis,-29.75,-51.25,5205:391:3,0.13
+Buccinanops,deformis,-29.75,-49.25,5204:499:3,0.16
+Buccinanops,deformis,-25.75,-47.25,5204:457:3,0.05
+Buccinanops,deformis,-24.25,-45.25,5204:245:1,0.03
+Buccinanops,deformis,-23.25,-45.25,5204:235:1,0.17
+Buccinanops,deformis,-23.25,-44.75,5204:134:2,0.19
+Buccinanops,deformis,-23.25,-43.25,5204:133:1,0.16
+Buccinanops,deformis,-22.75,-43.75,5204:123:4,0.06
+Buccinanops,deformis,-21.75,-41.25,5204:111:3,0.12
+Buccinanops,deformis,-41.75,-62.75,5406:112:4,0.37
+Buccinanops,deformis,-40.25,-60.75,5406:100:2,0.37
+Buccinanops,deformis,-41.25,-58.75,5405:218:2,0.28
+Buccinanops,deformis,-40.75,-58.75,5405:208:4,0.26
+Buccinanops,deformis,-40.25,-57.25,5405:207:1,0.25
+Buccinanops,deformis,-39.75,-60.25,5306:390:3,0.32
+Buccinanops,deformis,-39.25,-57.25,5305:497:1,0.37
+Buccinanops,deformis,-38.75,-57.25,5305:487:3,0.26
+Buccinanops,deformis,-38.75,-56.25,5305:486:3,0.25
+Buccinanops,deformis,-36.75,-56.75,5305:466:4,0.35
+Buccinanops,deformis,-35.75,-56.25,5305:456:3,0.25
+Buccinanops,deformis,-35.25,-55.75,5305:455:2,0.32
+Buccinanops,deformis,-36.75,-54.25,5305:364:3,0.37
+Buccinanops,deformis,-30.25,-51.25,5305:101:1,0.26
+Buccinanops,deformis,-30.75,-50.75,5305:100:4,0.37
+Buccinanops,deformis,-26.25,-47.75,5204:467:2,0.37
+Buccinanops,deformis,-25.25,-48.75,5204:458:2,0.25
+Buccinanops,deformis,-23.75,-45.75,5204:235:4,0.35
+Buccinanops,deformis,-23.25,-44.25,5204:134:1,0.24
+Buccinanops,deformis,-23.25,-43.75,5204:133:2,0.29
+Buccinanops,deformis,-22.75,-43.25,5204:123:3,0.20
+Buccinanops,deformis,-22.75,-42.75,5204:122:4,0.25
+Buccinanops,deformis,-22.75,-42.25,5204:122:3,0.29
+Buccinanops,deformis,-41.75,-64.75,5406:114:4,0.58
+Buccinanops,deformis,-41.25,-64.75,5406:114:2,0.57
+Buccinanops,deformis,-41.25,-64.25,5406:114:1,0.58
+Buccinanops,deformis,-41.75,-63.25,5406:113:3,0.42
+Buccinanops,deformis,-41.75,-62.25,5406:112:3,0.53
+Buccinanops,deformis,-40.25,-59.25,5405:209:1,0.58
+Buccinanops,deformis,-40.25,-58.25,5405:208:1,0.46
+Buccinanops,deformis,-39.25,-59.25,5305:499:1,0.42
+Buccinanops,deformis,-39.75,-57.25,5305:497:3,0.55
+Buccinanops,deformis,-38.75,-56.75,5305:486:4,0.51
+Buccinanops,deformis,-38.75,-55.75,5305:485:4,0.44
+Buccinanops,deformis,-36.75,-56.25,5305:466:3,0.44
+Buccinanops,deformis,-36.75,-55.25,5305:465:3,0.57
+Buccinanops,deformis,-36.75,-54.75,5305:364:4,0.46
+Buccinanops,deformis,-35.25,-52.75,5305:352:2,0.53
+Buccinanops,deformis,-34.75,-55.25,5305:245:3,0.50
+Buccinanops,deformis,-34.25,-52.25,5305:142:1,0.42
+Buccinanops,deformis,-31.25,-51.25,5305:111:1,0.57
+Buccinanops,deformis,-30.75,-51.25,5305:101:3,0.43
+Buccinanops,deformis,-28.25,-48.25,5204:488:1,0.53
+Buccinanops,deformis,-24.75,-45.75,5204:245:4,0.40
+Buccinanops,deformis,-23.75,-46.25,5204:236:3,0.44
+Buccinanops,deformis,-23.75,-45.25,5204:235:3,0.46
+Buccinanops,deformis,-23.75,-44.75,5204:134:4,0.41
+Buccinanops,deformis,-22.75,-41.75,5204:121:4,0.53
+Buccinanops,deformis,-22.25,-41.25,5204:121:1,0.49
+Buccinanops,deformis,-41.25,-63.75,5406:113:2,0.68
+Buccinanops,deformis,-41.75,-61.25,5406:111:3,0.63
+Buccinanops,deformis,-40.75,-61.25,5406:101:3,0.63
+Buccinanops,deformis,-40.75,-60.75,5406:100:4,0.74
+Buccinanops,deformis,-39.75,-59.75,5305:499:4,0.63
+Buccinanops,deformis,-39.25,-58.75,5305:498:2,0.74
+Buccinanops,deformis,-38.25,-55.75,5305:485:2,0.67
+Buccinanops,deformis,-38.25,-55.25,5305:485:1,0.63
+Buccinanops,deformis,-37.25,-55.75,5305:475:2,0.60
+Buccinanops,deformis,-36.25,-54.75,5305:364:2,0.73
+Buccinanops,deformis,-36.25,-53.25,5305:363:1,0.63
+Buccinanops,deformis,-35.25,-53.25,5305:353:1,0.70
+Buccinanops,deformis,-34.75,-53.75,5305:143:4,0.79
+Buccinanops,deformis,-34.75,-52.75,5305:142:4,0.74
+Buccinanops,deformis,-31.75,-51.25,5305:111:3,0.76
+Buccinanops,deformis,-31.25,-51.75,5305:111:2,0.60
+Buccinanops,deformis,-31.25,-50.75,5305:110:2,0.74
+Buccinanops,deformis,-30.75,-50.25,5305:100:3,0.79
+Buccinanops,deformis,-30.25,-50.75,5305:100:2,0.64
+Buccinanops,deformis,-24.25,-46.75,5204:246:2,0.67
+Buccinanops,deformis,-24.25,-46.25,5204:246:1,0.70
+Buccinanops,deformis,-24.25,-45.75,5204:245:2,0.79
+Buccinanops,deformis,-41.75,-65.25,5406:215:3,0.98
+Buccinanops,deformis,-41.25,-65.25,5406:215:1,1.00
+Buccinanops,deformis,-40.75,-65.25,5406:205:3,1.00
+Buccinanops,deformis,-41.75,-63.75,5406:113:4,0.86
+Buccinanops,deformis,-41.25,-63.25,5406:113:1,0.87
+Buccinanops,deformis,-41.25,-62.75,5406:112:2,1.00
+Buccinanops,deformis,-41.25,-62.25,5406:112:1,1.00
+Buccinanops,deformis,-41.25,-61.25,5406:111:1,1.00
+Buccinanops,deformis,-41.75,-60.75,5406:110:4,0.84
+Buccinanops,deformis,-41.25,-60.75,5406:110:2,0.95
+Buccinanops,deformis,-40.75,-64.75,5406:104:4,1.00
+Buccinanops,deformis,-40.75,-64.25,5406:104:3,1.00
+Buccinanops,deformis,-40.75,-62.75,5406:102:4,1.00
+Buccinanops,deformis,-40.75,-62.25,5406:102:3,1.00
+Buccinanops,deformis,-40.25,-62.25,5406:102:1,1.00
+Buccinanops,deformis,-40.75,-61.75,5406:101:4,1.00
+Buccinanops,deformis,-40.25,-61.75,5406:101:2,1.00
+Buccinanops,deformis,-40.25,-61.25,5406:101:1,1.00
+Buccinanops,deformis,-39.75,-62.25,5306:392:3,1.00
+Buccinanops,deformis,-39.25,-62.25,5306:392:1,1.00
+Buccinanops,deformis,-39.75,-61.75,5306:391:4,1.00
+Buccinanops,deformis,-39.75,-61.25,5306:391:3,1.00
+Buccinanops,deformis,-39.25,-61.75,5306:391:2,1.00
+Buccinanops,deformis,-39.25,-61.25,5306:391:1,1.00
+Buccinanops,deformis,-39.75,-60.75,5306:390:4,0.89
+Buccinanops,deformis,-39.25,-60.75,5306:390:2,1.00
+Buccinanops,deformis,-39.25,-60.25,5306:390:1,0.95
+Buccinanops,deformis,-38.75,-62.25,5306:382:3,1.00
+Buccinanops,deformis,-38.75,-61.75,5306:381:4,1.00
+Buccinanops,deformis,-38.75,-61.25,5306:381:3,1.00
+Buccinanops,deformis,-38.75,-60.75,5306:380:4,1.00
+Buccinanops,deformis,-38.75,-60.25,5306:380:3,1.00
+Buccinanops,deformis,-39.25,-59.75,5305:499:2,0.95
+Buccinanops,deformis,-39.25,-58.25,5305:498:1,0.95
+Buccinanops,deformis,-39.25,-57.75,5305:497:2,0.85
+Buccinanops,deformis,-38.75,-59.75,5305:489:4,1.00
+Buccinanops,deformis,-38.75,-59.25,5305:489:3,1.00
+Buccinanops,deformis,-38.75,-58.75,5305:488:4,1.00
+Buccinanops,deformis,-38.75,-58.25,5305:488:3,1.00
+Buccinanops,deformis,-38.25,-58.25,5305:488:1,1.00
+Buccinanops,deformis,-38.25,-57.75,5305:487:2,1.00
+Buccinanops,deformis,-38.25,-57.25,5305:487:1,1.00
+Buccinanops,deformis,-38.25,-56.75,5305:486:2,0.84
+Buccinanops,deformis,-38.25,-56.25,5305:486:1,0.91
+Buccinanops,deformis,-37.75,-57.75,5305:477:4,1.00
+Buccinanops,deformis,-37.75,-57.25,5305:477:3,1.00
+Buccinanops,deformis,-37.25,-57.25,5305:477:1,0.97
+Buccinanops,deformis,-37.75,-56.75,5305:476:4,1.00
+Buccinanops,deformis,-37.25,-56.75,5305:476:2,1.00
+Buccinanops,deformis,-37.25,-56.25,5305:476:1,1.00
+Buccinanops,deformis,-36.75,-55.75,5305:465:4,1.00
+Buccinanops,deformis,-36.25,-55.75,5305:465:2,0.99
+Buccinanops,deformis,-36.25,-55.25,5305:465:1,0.86
+Buccinanops,deformis,-35.75,-55.75,5305:455:4,1.00
+Buccinanops,deformis,-35.75,-55.25,5305:455:3,1.00
+Buccinanops,deformis,-35.25,-55.25,5305:455:1,1.00
+Buccinanops,deformis,-36.25,-54.25,5305:364:1,0.80
+Buccinanops,deformis,-36.75,-53.75,5305:363:4,1.00
+Buccinanops,deformis,-36.25,-53.75,5305:363:2,1.00
+Buccinanops,deformis,-35.75,-54.75,5305:354:4,0.90
+Buccinanops,deformis,-35.75,-54.25,5305:354:3,0.81
+Buccinanops,deformis,-35.25,-54.75,5305:354:2,0.96
+Buccinanops,deformis,-35.25,-54.25,5305:354:1,0.88
+Buccinanops,deformis,-35.75,-53.75,5305:353:4,0.82
+Buccinanops,deformis,-35.75,-53.25,5305:353:3,1.00
+Buccinanops,deformis,-35.25,-53.75,5305:353:2,0.86
+Buccinanops,deformis,-34.75,-54.75,5305:144:4,1.00
+Buccinanops,deformis,-34.75,-54.25,5305:144:3,0.84
+Buccinanops,deformis,-34.75,-53.25,5305:143:3,0.85
+Buccinanops,deformis,-34.25,-53.75,5305:143:2,1.00
+Buccinanops,deformis,-34.25,-53.25,5305:143:1,1.00
+Buccinanops,deformis,-34.25,-52.75,5305:142:2,0.85
+Buccinanops,deformis,-34.25,-51.75,5305:141:2,1.00
+Buccinanops,deformis,-33.75,-53.75,5305:133:4,1.00
+Buccinanops,deformis,-33.75,-53.25,5305:133:3,1.00
+Buccinanops,deformis,-33.25,-53.25,5305:133:1,1.00
+Buccinanops,deformis,-33.75,-52.75,5305:132:4,1.00
+Buccinanops,deformis,-33.75,-52.25,5305:132:3,0.93
+Buccinanops,deformis,-33.25,-52.75,5305:132:2,1.00
+Buccinanops,deformis,-33.25,-52.25,5305:132:1,1.00
+Buccinanops,deformis,-33.75,-51.75,5305:131:4,1.00
+Buccinanops,deformis,-33.25,-51.75,5305:131:2,1.00
+Buccinanops,deformis,-32.75,-52.75,5305:122:4,1.00
+Buccinanops,deformis,-32.75,-52.25,5305:122:3,1.00
+Buccinanops,deformis,-32.25,-52.25,5305:122:1,1.00
+Buccinanops,deformis,-32.75,-51.75,5305:121:4,1.00
+Buccinanops,deformis,-32.25,-51.75,5305:121:2,1.00
+Buccinanops,deformis,-32.25,-51.25,5305:121:1,1.00
+Buccinanops,deformis,-32.25,-50.25,5305:120:1,0.89
+Buccinanops,deformis,-31.75,-52.25,5305:112:3,1.00
+Buccinanops,deformis,-31.75,-51.75,5305:111:4,0.85
+Buccinanops,deformis,-31.75,-50.75,5305:110:4,1.00
+Buccinanops,deformis,-31.25,-50.25,5305:110:1,1.00
+Buccinanops,deformis,-30.25,-50.25,5305:100:1,0.89
+Buccinanops,deformis,-30.25,-49.75,5304:209:2,1.00
+Buccinanops,deformis,-29.75,-50.25,5205:390:3,1.00
+Buccinanops,deformis,-29.75,-49.75,5204:499:4,1.00
+Buccinanops,deformis,-29.25,-49.75,5204:499:2,1.00
+Buccinanops,deformis,-29.25,-49.25,5204:499:1,1.00
+Buccinanops,deformis,-28.75,-49.25,5204:489:3,1.00
+Buccinanops,deformis,-28.75,-48.75,5204:488:4,1.00
+Buccinanops,deformis,-28.25,-48.75,5204:488:2,1.00
+Buccinanops,deformis,-27.75,-48.75,5204:478:4,1.00
+Buccinanops,deformis,-27.75,-48.25,5204:478:3,1.00
+Buccinanops,deformis,-27.25,-48.75,5204:478:2,1.00
+Buccinanops,deformis,-27.25,-48.25,5204:478:1,1.00
+Buccinanops,deformis,-26.75,-48.75,5204:468:4,1.00
+Buccinanops,deformis,-26.75,-48.25,5204:468:3,1.00
+Buccinanops,deformis,-26.25,-48.75,5204:468:2,1.00
+Buccinanops,deformis,-26.25,-48.25,5204:468:1,1.00
+Buccinanops,deformis,-25.75,-48.75,5204:458:4,1.00
+Buccinanops,deformis,-25.75,-48.25,5204:458:3,1.00
+Buccinanops,deformis,-25.25,-48.25,5204:458:1,1.00
+Buccinanops,deformis,-25.75,-47.75,5204:457:4,0.84
+Buccinanops,deformis,-25.25,-47.75,5204:457:2,1.00
+Buccinanops,deformis,-25.25,-47.25,5204:457:1,0.89
+Buccinanops,deformis,-24.75,-47.75,5204:247:4,1.00
+Buccinanops,deformis,-24.75,-47.25,5204:247:3,0.99
+Buccinanops,deformis,-24.25,-47.25,5204:247:1,0.81
+Buccinanops,deformis,-24.75,-46.75,5204:246:4,1.00
+Buccinanops,deformis,-22.25,-41.75,5204:121:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 15)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Buccinanops,deformis,-41.75,-64.25,5406:114:3,130,14.1207208633423,11.6996440887451,35.5568199157715,33.7011604309082,0.161999996635132,0,275.308929443359,97
+Buccinanops,deformis,-41.75,-65.25,5406:215:3,9,14.0626611709595,6.71896648406982,35.0490417480469,33.9840965270996,2.05166032537818,0,277.444122314453,1
+Buccinanops,deformis,-41.25,-62.75,5406:112:2,30,14.4772424697876,13.9537057876587,34.9720687866211,33.7515182495117,0.524999981280416,0,265.927276611328,20
+Buccinanops,deformis,-40.75,-64.75,5406:104:4,35,14.5578804016113,6.8461275100708,35.312427520752,34.0210456848145,3.0225825030356597,0,276.916473388672,11
+Buccinanops,deformis,-40.25,-62.25,5406:102:1,7,14.6385154724121,14.6113882064819,32.7054214477539,33.6728134155273,6.62400014698505,0,257.153991699219,14
+Buccinanops,deformis,-38.75,-61.25,5306:381:3,13,15.3950634002686,15.1783094406128,31.0538520812988,33.1737632751465,10.660485364496699,0,261.664276123047,2
+Buccinanops,deformis,-38.75,-62.25,5306:382:3,9,15.2286167144775,14.7532377243042,31.6995792388916,33.3203544616699,9.90390405058861,0,255.205856323242,5
+Buccinanops,deformis,-38.25,-57.75,5305:487:2,26,15.1185731887817,14.704381942749,33.2202796936035,33.2224617004395,15.926999971270599,0,261.762634277344,14
+Buccinanops,deformis,-37.75,-57.75,5305:477:4,17,15.5189456939697,14.9270334243774,29.3838768005371,32.9894866943359,18.0728603154421,0,267.921966552734,0
+Buccinanops,deformis,-35.25,-55.25,5305:455:1,22,16.9881649017334,16.857536315918,26.800085067749,33.2472953796387,30.109999701380698,0,264.324127197266,89
+Buccinanops,deformis,-34.75,-54.25,5305:144:3,28,17.0333423614502,14.3929090499878,30.0413799285889,33.8714141845703,41.5120013058186,0,264.93505859375,16
+Buccinanops,deformis,-34.75,-54.75,5305:144:4,17,17.0990028381348,15.6808376312256,26.8900566101074,32.4046745300293,35.741336643695796,0,266.999542236328,7
+Buccinanops,deformis,-34.75,-55.25,5305:245:3,16,17.133674621582,16.5248756408691,23.6596832275391,31.21409034729,32.059796154499104,0,267.798217773438,9
+Buccinanops,deformis,-22.75,-41.25,5204:121:3,63,23.7287139892578,20.220703125,36.5163803100586,36.700008392334,20.393999293446498,0,211.404754638672,91
+Buccinanops,deformis,-22.25,-41.75,5204:121:2,15,23.1110343933105,23.5819149017334,36.0566749572754,36.7231330871582,19.14899982512,0,215.921356201172,9

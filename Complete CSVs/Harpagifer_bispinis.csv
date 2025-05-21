@@ -1,0 +1,183 @@
+Mapping parameters for Harpagifer bispinis (Magellan plunderfish)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 41 |  58 |  87 |  88,
+Bounding Box (NSWE): ,-52,-57,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,40,41,46,50
+Temperature (°C),1,5.41,5.91,7.27,7.77
+Salinity (psu),1,33.29,33.79,34.04,34.54
+Primary Production (mgC·m-3·day-1) ,1,3.08,5.36,38.8,65.52
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,209.66,292.37,309,312.3
+Distance to Land (km),0,1,4,144,339
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 125): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Harpagifer,bispinis,-54.75,-60.75,5506:140:4,0.03
+Harpagifer,bispinis,-53.75,-74.25,5507:134:3,0.10
+Harpagifer,bispinis,-54.25,-73.25,5507:143:1,0.11
+Harpagifer,bispinis,-54.25,-58.75,5505:248:2,0.33
+Harpagifer,bispinis,-54.75,-58.75,5505:248:4,0.22
+Harpagifer,bispinis,-54.25,-59.25,5505:249:1,0.35
+Harpagifer,bispinis,-54.25,-59.75,5505:249:2,0.39
+Harpagifer,bispinis,-56.75,-68.75,5506:468:4,0.34
+Harpagifer,bispinis,-52.25,-73.25,5507:123:1,0.38
+Harpagifer,bispinis,-52.75,-74.25,5507:124:3,0.27
+Harpagifer,bispinis,-53.25,-73.75,5507:133:2,0.35
+Harpagifer,bispinis,-54.75,-72.75,5507:142:4,0.28
+Harpagifer,bispinis,-54.25,-73.75,5507:143:2,0.33
+Harpagifer,bispinis,-53.75,-64.25,5506:134:3,0.45
+Harpagifer,bispinis,-54.25,-60.25,5506:140:1,0.47
+Harpagifer,bispinis,-54.25,-60.75,5506:140:2,0.58
+Harpagifer,bispinis,-55.75,-66.25,5506:456:3,0.58
+Harpagifer,bispinis,-56.75,-67.75,5506:467:4,0.43
+Harpagifer,bispinis,-52.75,-71.75,5507:121:4,0.53
+Harpagifer,bispinis,-52.25,-72.75,5507:122:2,0.50
+Harpagifer,bispinis,-52.75,-72.25,5507:122:3,0.53
+Harpagifer,bispinis,-52.75,-72.75,5507:122:4,0.53
+Harpagifer,bispinis,-52.75,-73.75,5507:123:4,0.54
+Harpagifer,bispinis,-53.25,-72.75,5507:132:2,0.57
+Harpagifer,bispinis,-53.25,-73.25,5507:133:1,0.55
+Harpagifer,bispinis,-53.75,-73.25,5507:133:3,0.45
+Harpagifer,bispinis,-54.25,-72.75,5507:142:2,0.44
+Harpagifer,bispinis,-54.75,-72.25,5507:142:3,0.42
+Harpagifer,bispinis,-54.25,-61.25,5506:141:1,0.61
+Harpagifer,bispinis,-52.25,-72.25,5507:122:1,0.65
+Harpagifer,bispinis,-52.25,-73.75,5507:123:2,0.60
+Harpagifer,bispinis,-53.25,-71.75,5507:131:2,0.77
+Harpagifer,bispinis,-53.25,-72.25,5507:132:1,0.67
+Harpagifer,bispinis,-53.75,-72.75,5507:132:4,0.77
+Harpagifer,bispinis,-54.75,-73.25,5507:143:3,0.79
+Harpagifer,bispinis,-52.25,-58.25,5505:228:1,1.00
+Harpagifer,bispinis,-52.25,-58.75,5505:228:2,1.00
+Harpagifer,bispinis,-52.25,-59.25,5505:229:1,1.00
+Harpagifer,bispinis,-52.25,-59.75,5505:229:2,1.00
+Harpagifer,bispinis,-52.75,-59.25,5505:229:3,1.00
+Harpagifer,bispinis,-52.25,-60.25,5506:120:1,1.00
+Harpagifer,bispinis,-52.25,-60.75,5506:120:2,1.00
+Harpagifer,bispinis,-52.25,-61.25,5506:121:1,1.00
+Harpagifer,bispinis,-54.75,-63.75,5506:143:4,1.00
+Harpagifer,bispinis,-54.75,-64.25,5506:144:3,1.00
+Harpagifer,bispinis,-54.75,-64.75,5506:144:4,1.00
+Harpagifer,bispinis,-52.25,-67.75,5506:227:2,0.93
+Harpagifer,bispinis,-52.75,-67.75,5506:227:4,0.96
+Harpagifer,bispinis,-52.25,-68.25,5506:228:1,1.00
+Harpagifer,bispinis,-52.25,-68.75,5506:228:2,1.00
+Harpagifer,bispinis,-52.75,-68.25,5506:228:3,1.00
+Harpagifer,bispinis,-52.75,-68.75,5506:228:4,1.00
+Harpagifer,bispinis,-52.25,-69.25,5506:229:1,1.00
+Harpagifer,bispinis,-52.25,-69.75,5506:229:2,1.00
+Harpagifer,bispinis,-52.75,-69.25,5506:229:3,1.00
+Harpagifer,bispinis,-52.75,-69.75,5506:229:4,1.00
+Harpagifer,bispinis,-53.25,-66.75,5506:236:2,1.00
+Harpagifer,bispinis,-53.75,-66.25,5506:236:3,1.00
+Harpagifer,bispinis,-53.75,-66.75,5506:236:4,1.00
+Harpagifer,bispinis,-53.25,-67.75,5506:237:2,0.99
+Harpagifer,bispinis,-53.75,-67.25,5506:237:3,1.00
+Harpagifer,bispinis,-53.75,-67.75,5506:237:4,0.99
+Harpagifer,bispinis,-53.25,-68.25,5506:238:1,1.00
+Harpagifer,bispinis,-53.25,-68.75,5506:238:2,1.00
+Harpagifer,bispinis,-53.25,-69.25,5506:239:1,1.00
+Harpagifer,bispinis,-53.25,-69.75,5506:239:2,1.00
+Harpagifer,bispinis,-53.75,-69.75,5506:239:4,1.00
+Harpagifer,bispinis,-54.25,-65.25,5506:245:1,1.00
+Harpagifer,bispinis,-54.75,-65.25,5506:245:3,1.00
+Harpagifer,bispinis,-54.75,-65.75,5506:245:4,1.00
+Harpagifer,bispinis,-54.25,-66.25,5506:246:1,1.00
+Harpagifer,bispinis,-54.25,-66.75,5506:246:2,1.00
+Harpagifer,bispinis,-54.75,-66.25,5506:246:3,1.00
+Harpagifer,bispinis,-54.75,-66.75,5506:246:4,1.00
+Harpagifer,bispinis,-54.25,-67.25,5506:247:1,1.00
+Harpagifer,bispinis,-54.75,-67.75,5506:247:4,1.00
+Harpagifer,bispinis,-54.75,-68.25,5506:248:3,1.00
+Harpagifer,bispinis,-54.75,-68.75,5506:248:4,1.00
+Harpagifer,bispinis,-54.25,-69.25,5506:249:1,1.00
+Harpagifer,bispinis,-54.25,-69.75,5506:249:2,1.00
+Harpagifer,bispinis,-54.75,-69.25,5506:249:3,1.00
+Harpagifer,bispinis,-54.75,-69.75,5506:249:4,1.00
+Harpagifer,bispinis,-55.25,-66.25,5506:456:1,1.00
+Harpagifer,bispinis,-55.25,-66.75,5506:456:2,1.00
+Harpagifer,bispinis,-55.75,-66.75,5506:456:4,1.00
+Harpagifer,bispinis,-55.25,-67.25,5506:457:1,1.00
+Harpagifer,bispinis,-55.25,-67.75,5506:457:2,1.00
+Harpagifer,bispinis,-55.75,-67.25,5506:457:3,1.00
+Harpagifer,bispinis,-55.75,-67.75,5506:457:4,1.00
+Harpagifer,bispinis,-55.25,-68.25,5506:458:1,1.00
+Harpagifer,bispinis,-55.25,-68.75,5506:458:2,1.00
+Harpagifer,bispinis,-55.75,-68.25,5506:458:3,1.00
+Harpagifer,bispinis,-55.75,-68.75,5506:458:4,1.00
+Harpagifer,bispinis,-55.25,-69.25,5506:459:1,1.00
+Harpagifer,bispinis,-55.25,-69.75,5506:459:2,1.00
+Harpagifer,bispinis,-55.75,-69.25,5506:459:3,0.95
+Harpagifer,bispinis,-55.75,-69.75,5506:459:4,0.88
+Harpagifer,bispinis,-56.25,-67.75,5506:467:2,1.00
+Harpagifer,bispinis,-56.25,-68.25,5506:468:1,1.00
+Harpagifer,bispinis,-56.25,-68.75,5506:468:2,1.00
+Harpagifer,bispinis,-52.75,-70.25,5507:120:3,1.00
+Harpagifer,bispinis,-52.75,-70.75,5507:120:4,1.00
+Harpagifer,bispinis,-52.75,-71.25,5507:121:3,1.00
+Harpagifer,bispinis,-53.25,-70.25,5507:130:1,1.00
+Harpagifer,bispinis,-53.25,-70.75,5507:130:2,1.00
+Harpagifer,bispinis,-53.75,-70.25,5507:130:3,1.00
+Harpagifer,bispinis,-53.75,-70.75,5507:130:4,1.00
+Harpagifer,bispinis,-53.25,-71.25,5507:131:1,1.00
+Harpagifer,bispinis,-53.75,-71.25,5507:131:3,0.98
+Harpagifer,bispinis,-53.75,-71.75,5507:131:4,0.92
+Harpagifer,bispinis,-53.75,-72.25,5507:132:3,0.94
+Harpagifer,bispinis,-54.25,-70.25,5507:140:1,1.00
+Harpagifer,bispinis,-54.25,-70.75,5507:140:2,1.00
+Harpagifer,bispinis,-54.75,-70.25,5507:140:3,1.00
+Harpagifer,bispinis,-54.75,-70.75,5507:140:4,1.00
+Harpagifer,bispinis,-54.25,-71.25,5507:141:1,1.00
+Harpagifer,bispinis,-54.25,-71.75,5507:141:2,1.00
+Harpagifer,bispinis,-54.75,-71.25,5507:141:3,1.00
+Harpagifer,bispinis,-54.75,-71.75,5507:141:4,0.86
+Harpagifer,bispinis,-54.25,-72.25,5507:142:1,0.86
+Harpagifer,bispinis,-55.25,-70.25,5507:350:1,1.00
+Harpagifer,bispinis,-55.25,-70.75,5507:350:2,1.00
+Harpagifer,bispinis,-55.75,-70.25,5507:350:3,1.00
+Harpagifer,bispinis,-55.25,-71.25,5507:351:1,0.96
+Harpagifer,bispinis,-55.25,-71.75,5507:351:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 22)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Harpagifer,bispinis,-56.25,-67.25,5506:467:1,125,6.89965677261353,5.04684782028198,33.9224090576172,34.1096153259277,10.7230003923178,0,296.65673828125,87
+Harpagifer,bispinis,-55.75,-68.25,5506:458:3,55,7.20687389373779,6.58371114730835,33.8421211242676,34.0162887573242,29.8040006309748,0,302.292388916016,15
+Harpagifer,bispinis,-55.75,-69.25,5506:459:3,61,7.29557323455811,6.93581199645996,33.8443756103516,33.9902725219727,23.0340007692575,0,302.035705566406,16
+Harpagifer,bispinis,-55.25,-67.25,5506:457:1,72,7.08266496658325,6.97636318206787,33.846321105957,33.590087890625,38.7969985604286,0,310.482543945313,10
+Harpagifer,bispinis,-55.25,-68.25,5506:458:1,45,6.93445491790771,7.02171277999878,33.8285675048828,33.9231338500977,38.586001843214,0,303.377014160156,9
+Harpagifer,bispinis,-55.25,-68.75,5506:458:2,2,6.93773412704468,6.93744611740112,33.8295822143555,33.8544616699219,33.1998132169247,0,303.866607666016,7
+Harpagifer,bispinis,-55.25,-77.75,5507:457:2,4209,5.91378688812256,0.596242010593414,34.0932922363281,34.7100105285645,3.07899992913008,0,209.663848876953,339
+Harpagifer,bispinis,-54.75,-63.75,5506:143:4,595,6.59647798538208,5.28068113327026,33.9840126037598,34.1083183288574,5.54599985480309,0,303.107727050781,16
+Harpagifer,bispinis,-54.75,-64.25,5506:144:3,308,6.78238010406494,5.40846586227417,33.9692993164063,34.0874519348145,12.287000194191899,0,304.699462890625,15
+Harpagifer,bispinis,-54.75,-64.75,5506:144:4,162,6.93236684799194,5.81026220321655,33.9570236206055,34.0254859924316,11.652000248432199,0,306.338317871094,15
+Harpagifer,bispinis,-54.75,-65.25,5506:245:3,113,7.00347518920898,6.60884523391724,33.947193145752,33.7996482849121,16.9649999588728,0,308.996612548828,11
+Harpagifer,bispinis,-54.75,-67.25,5506:247:3,7,6.91076326370239,6.87410688400269,33.9197654724121,33.469596862793,35.1850613951683,0,308.019866943359,3
+Harpagifer,bispinis,-54.75,-68.25,5506:248:3,44,6.80920124053955,6.98124027252197,33.888355255127,33.5995635986328,33.623997122049296,0,304.734497070313,4
+Harpagifer,bispinis,-54.25,-62.25,5506:142:1,410,5.82642412185669,4.86332321166992,34.0213241577148,34.0819625854492,5.35999983549118,0,298.016510009766,144
+Harpagifer,bispinis,-53.75,-64.75,5506:134:4,125,6.90025901794434,5.82471704483032,33.9798202514648,33.9438247680664,8.4859998896718,0,302.843109130859,144
+Harpagifer,bispinis,-53.75,-70.75,5507:130:4,200,7.04390621185303,7.32242012023926,33.7896919250488,33.7430419921875,24.4440007954836,0,299.689178466797,11
+Harpagifer,bispinis,-53.25,-68.25,5506:238:1,21,6.51301288604736,6.91621494293213,34.039608001709,32.8518409729004,25.3190007060766,0,301.146606445313,10
+Harpagifer,bispinis,-53.25,-70.75,5507:130:2,169,7.07538986206055,6.85352611541748,33.9960289001465,34.1284027099609,13.9619996771216,0,293.1123046875,14
+Harpagifer,bispinis,-52.75,-69.75,5506:229:4,27,6.8934178352356,7.19941806793213,33.9949340820313,33.2185974121094,13.6380000039935,0,304.172637939453,8
+Harpagifer,bispinis,-52.75,-73.75,5507:123:4,160,7.26543998718262,7.90536689758301,33.640266418457,33.8855514526367,45.056998729705796,0,292.373565673828,14
+Harpagifer,bispinis,-52.25,-58.75,5505:228:2,38,6.88616704940796,6.38840198516846,34.0324935913086,34.056999206543,29.3930005282164,0,308.030883789063,17
+Harpagifer,bispinis,-52.25,-69.25,5506:229:1,33,6.86172294616699,7.01609086990356,33.9673194885254,32.6056060791016,13.7459998950362,0,300.082336425781,10

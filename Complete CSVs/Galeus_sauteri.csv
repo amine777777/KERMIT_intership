@@ -1,0 +1,101 @@
+Mapping parameters for Galeus sauteri (Blacktip sawtail catshark)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 61 |  71,
+Bounding Box (NSWE): ,25,21,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,60,63,76,90
+Temperature (°C),1,24.33,25.16,27.03,31.23
+Salinity (psu),1,32.93,33.43,34.17,34.67
+Primary Production (mgC·m-3·day-1) ,1,3.17,7.53,20.85,25.1
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,67.37,99.73,177.38,210.49
+Distance to Land (km),0,5,6.5,86.5,142.875
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 59): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Galeus,sauteri,21.25,107.75,1210:217:2,0.09
+Galeus,sauteri,21.25,108.25,1210:218:1,0.12
+Galeus,sauteri,21.25,108.75,1210:218:2,0.19
+Galeus,sauteri,21.25,115.25,1211:215:1,0.05
+Galeus,sauteri,21.25,115.75,1211:215:2,0.01
+Galeus,sauteri,21.75,117.25,1211:217:3,0.08
+Galeus,sauteri,22.25,116.25,1211:226:1,0.08
+Galeus,sauteri,22.75,117.75,1211:227:4,0.10
+Galeus,sauteri,23.75,119.25,1211:239:3,0.05
+Galeus,sauteri,24.25,119.75,1211:249:2,0.17
+Galeus,sauteri,21.25,121.75,1212:111:2,0.13
+Galeus,sauteri,24.25,123.25,1212:143:1,0.15
+Galeus,sauteri,24.25,123.75,1212:143:2,0.15
+Galeus,sauteri,24.25,124.25,1212:144:1,0.15
+Galeus,sauteri,24.75,125.75,1212:245:4,0.17
+Galeus,sauteri,21.25,114.75,1211:114:2,0.24
+Galeus,sauteri,21.75,116.25,1211:216:3,0.39
+Galeus,sauteri,22.75,119.75,1211:229:4,0.36
+Galeus,sauteri,22.25,120.25,1212:120:1,0.28
+Galeus,sauteri,24.75,122.75,1212:142:4,0.27
+Galeus,sauteri,24.75,123.25,1212:143:3,0.31
+Galeus,sauteri,24.75,124.25,1212:144:3,0.27
+Galeus,sauteri,24.75,124.75,1212:144:4,0.23
+Galeus,sauteri,24.75,125.25,1212:245:3,0.24
+Galeus,sauteri,21.75,116.75,1211:216:4,0.44
+Galeus,sauteri,22.25,116.75,1211:226:2,0.56
+Galeus,sauteri,22.75,118.25,1211:228:3,0.42
+Galeus,sauteri,21.75,120.75,1212:110:4,0.45
+Galeus,sauteri,22.25,121.75,1212:121:2,0.49
+Galeus,sauteri,22.75,121.75,1212:121:4,0.59
+Galeus,sauteri,24.25,122.75,1212:142:2,0.41
+Galeus,sauteri,21.25,114.25,1211:114:1,0.61
+Galeus,sauteri,21.75,115.75,1211:215:4,0.63
+Galeus,sauteri,22.75,118.75,1211:228:4,0.79
+Galeus,sauteri,21.25,112.75,1211:112:2,0.86
+Galeus,sauteri,21.25,113.25,1211:113:1,1.00
+Galeus,sauteri,21.25,113.75,1211:113:2,1.00
+Galeus,sauteri,21.75,114.75,1211:114:4,0.89
+Galeus,sauteri,21.75,115.25,1211:215:3,0.87
+Galeus,sauteri,22.25,117.25,1211:227:1,0.94
+Galeus,sauteri,22.25,117.75,1211:227:2,1.00
+Galeus,sauteri,22.25,118.25,1211:228:1,1.00
+Galeus,sauteri,22.25,118.75,1211:228:2,0.94
+Galeus,sauteri,22.75,119.25,1211:229:3,1.00
+Galeus,sauteri,23.25,119.25,1211:239:1,0.99
+Galeus,sauteri,23.25,119.75,1211:239:2,1.00
+Galeus,sauteri,23.75,119.75,1211:239:4,1.00
+Galeus,sauteri,22.25,120.75,1212:120:2,0.84
+Galeus,sauteri,22.75,120.25,1212:120:3,1.00
+Galeus,sauteri,22.75,120.75,1212:120:4,1.00
+Galeus,sauteri,22.75,121.25,1212:121:3,0.98
+Galeus,sauteri,23.25,120.25,1212:130:1,1.00
+Galeus,sauteri,23.75,120.25,1212:130:3,1.00
+Galeus,sauteri,23.25,121.25,1212:131:1,1.00
+Galeus,sauteri,23.25,121.75,1212:131:2,0.99
+Galeus,sauteri,23.75,121.75,1212:131:4,1.00
+Galeus,sauteri,24.25,121.75,1212:141:2,1.00
+Galeus,sauteri,24.75,121.75,1212:141:4,1.00
+Galeus,sauteri,24.75,122.25,1212:142:3,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 6)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Galeus,sauteri,22.25,120.25,1212:120:1,721,27.2525634765625,6.90843200683594,33.3172874450684,34.3943138122559,4.82999999076128,0,94.3491134643555,97
+Galeus,sauteri,22.75,120.25,1212:120:3,179,26.8173828125,11.5326318740845,33.5370750427246,34.4966201782227,10.2279428392649,0,132.292877197266,15
+Galeus,sauteri,23.25,121.25,1212:131:1,147,26.7109260559082,5.74197053909302,33.8170280456543,34.5407791137695,13.193809427321,0,133.573883056641,5
+Galeus,sauteri,24.25,120.25,1212:140:1,41,24.7277927398682,24.036958694458,33.6709480285645,34.1134262084961,25.0979997217655,0,210.488708496094,24
+Galeus,sauteri,24.75,121.75,1212:141:4,251,25.5842208862305,11.5410594940186,33.8024673461914,34.4810256958008,16.5951624512672,0,144.274871826172,8
+Galeus,sauteri,24.75,122.25,1212:142:3,582,26.4691123962402,7.12051105499268,34.0237579345703,34.3056678771973,12.1740000322461,0,105.113349914551,76

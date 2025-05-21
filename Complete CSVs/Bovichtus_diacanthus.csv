@@ -1,0 +1,52 @@
+Mapping parameters for Bovichtus diacanthus ()
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO
+FAOAreas: 47,
+Bounding Box (NSWE): ,,,,
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,1,8,15
+Temperature (°C),1,8.39,12.67,16.61,20.23
+Salinity (psu),1,33.86,34.36,35.36,35.86
+Primary Production (mgC·m-3·day-1) ,1,4.52,5.52,5.91,6.91
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,200.71,217.32,242.87,252.18
+Distance to Land (km),0,20.5,21.5,377,642
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 10): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Bovichtus,diacanthus,-42.25,0.25,3400:120:1,0.25
+Bovichtus,diacanthus,-42.25,-0.25,5400:120:1,0.35
+Bovichtus,diacanthus,-41.75,0.25,3400:110:3,0.55
+Bovichtus,diacanthus,-39.25,-6.25,5300:496:1,1.00
+Bovichtus,diacanthus,-39.25,-6.75,5300:496:2,1.00
+Bovichtus,diacanthus,-39.75,-6.25,5300:496:3,1.00
+Bovichtus,diacanthus,-39.75,-6.75,5300:496:4,1.00
+Bovichtus,diacanthus,-37.25,-12.25,5301:372:1,1.00
+Bovichtus,diacanthus,-37.25,-12.75,5301:372:2,1.00
+Bovichtus,diacanthus,-40.25,-9.75,5400:209:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 6)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Bovichtus,diacanthus,-40.75,-10.25,5401:100:3,3186,12.5380258560181,1.78807497024536,34.5720901489258,34.7854385375977,5.41500002145767,0,216.531280517578,112
+Bovichtus,diacanthus,-40.25,-9.75,5400:209:2,2718,12.8103256225586,1.97378599643707,34.567741394043,34.7864379882813,5.63200004398823,0,218.109817504883,21
+Bovichtus,diacanthus,-40.25,-10.25,5401:100:1,3227,12.8839282989502,1.96425902843475,34.5872764587402,34.7861785888672,5.63400005921721,0,218.53759765625,85
+Bovichtus,diacanthus,-37.25,12.75,3301:372:2,5059,17.4094505310059,0.592114984989166,35.3450088500977,34.7285690307617,6.0490001924336,0,218.33854675293,642
+Bovichtus,diacanthus,-37.25,-12.25,5301:372:1,2082,15.7271022796631,2.23142194747925,34.9261131286621,34.8365783691406,5.77899999916553,0,233.559661865234,22
+Bovichtus,diacanthus,-37.25,-12.75,5301:372:2,2418,15.8089570999146,13.8549928665161,34.9396209716797,35.1622886657715,5.68500021472573,0,252.176574707031,89

@@ -1,0 +1,105 @@
+Mapping parameters for Typhlonarke aysoni (Blind electric ray)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 81,
+Bounding Box (NSWE): ,-42,-47,169,176
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,65,300,400,900
+Temperature (°C),1,9.07,10.75,13.47,15.55
+Salinity (psu),1,33.9,34.4,34.79,35.29
+Primary Production (mgC·m-3·day-1) ,1,9.95,11.23,33.17,42.55
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,167.58,215.11,282.96,344.63
+Distance to Land (km),0,15,16,201,336.5
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 51): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Typhlonarke,aysoni,-42.75,169.75,3416:229:4,0.08
+Typhlonarke,aysoni,-43.25,169.25,3416:239:1,0.17
+Typhlonarke,aysoni,-43.25,169.75,3416:239:2,0.19
+Typhlonarke,aysoni,-43.75,169.25,3416:239:3,0.18
+Typhlonarke,aysoni,-43.75,169.75,3416:239:4,0.09
+Typhlonarke,aysoni,-42.25,170.75,3417:120:2,0.05
+Typhlonarke,aysoni,-42.75,170.25,3417:120:3,0.09
+Typhlonarke,aysoni,-42.75,170.75,3417:120:4,0.05
+Typhlonarke,aysoni,-42.75,174.25,3417:124:3,0.16
+Typhlonarke,aysoni,-43.25,170.25,3417:130:1,0.04
+Typhlonarke,aysoni,-43.75,173.25,3417:133:3,0.10
+Typhlonarke,aysoni,-44.25,172.25,3417:142:1,0.10
+Typhlonarke,aysoni,-46.75,169.25,3416:469:3,0.29
+Typhlonarke,aysoni,-42.25,174.75,3417:124:2,0.20
+Typhlonarke,aysoni,-44.75,173.25,3417:143:3,0.43
+Typhlonarke,aysoni,-42.75,175.75,3417:225:4,0.50
+Typhlonarke,aysoni,-46.25,169.75,3416:469:2,0.71
+Typhlonarke,aysoni,-42.25,173.75,3417:123:2,0.77
+Typhlonarke,aysoni,-42.75,174.75,3417:124:4,0.67
+Typhlonarke,aysoni,-42.75,175.25,3417:225:3,0.73
+Typhlonarke,aysoni,-45.25,170.75,3417:350:2,0.78
+Typhlonarke,aysoni,-46.75,169.75,3416:469:4,1.00
+Typhlonarke,aysoni,-42.75,173.75,3417:123:4,1.00
+Typhlonarke,aysoni,-42.25,174.25,3417:124:1,1.00
+Typhlonarke,aysoni,-43.25,173.75,3417:133:2,1.00
+Typhlonarke,aysoni,-43.75,173.75,3417:133:4,1.00
+Typhlonarke,aysoni,-43.25,174.25,3417:134:1,1.00
+Typhlonarke,aysoni,-43.25,174.75,3417:134:2,1.00
+Typhlonarke,aysoni,-43.75,174.25,3417:134:3,1.00
+Typhlonarke,aysoni,-43.75,174.75,3417:134:4,1.00
+Typhlonarke,aysoni,-44.75,171.75,3417:141:4,1.00
+Typhlonarke,aysoni,-44.25,172.75,3417:142:2,1.00
+Typhlonarke,aysoni,-44.75,172.25,3417:142:3,1.00
+Typhlonarke,aysoni,-44.75,172.75,3417:142:4,0.96
+Typhlonarke,aysoni,-44.25,173.25,3417:143:1,1.00
+Typhlonarke,aysoni,-44.25,173.75,3417:143:2,1.00
+Typhlonarke,aysoni,-44.25,174.25,3417:144:1,0.91
+Typhlonarke,aysoni,-44.25,174.75,3417:144:2,0.84
+Typhlonarke,aysoni,-43.25,175.25,3417:235:1,1.00
+Typhlonarke,aysoni,-43.25,175.75,3417:235:2,0.99
+Typhlonarke,aysoni,-43.75,175.25,3417:235:3,1.00
+Typhlonarke,aysoni,-43.75,175.75,3417:235:4,1.00
+Typhlonarke,aysoni,-44.25,175.25,3417:245:1,0.85
+Typhlonarke,aysoni,-44.25,175.75,3417:245:2,1.00
+Typhlonarke,aysoni,-45.75,170.25,3417:350:3,1.00
+Typhlonarke,aysoni,-45.75,170.75,3417:350:4,0.80
+Typhlonarke,aysoni,-45.25,171.25,3417:351:1,1.00
+Typhlonarke,aysoni,-45.25,171.75,3417:351:2,0.99
+Typhlonarke,aysoni,-45.75,171.25,3417:351:3,1.00
+Typhlonarke,aysoni,-46.25,170.25,3417:360:1,1.00
+Typhlonarke,aysoni,-46.25,170.75,3417:360:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 18)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Typhlonarke,aysoni,-46.75,169.25,3416:469:3,83,11.640025138855,10.235746383667,34.3989791870117,34.4275512695313,27.8719998896122,0,280.111328125,16
+Typhlonarke,aysoni,-46.75,169.75,3416:469:4,217,11.0713891983032,9.07312107086182,34.4717903137207,34.396125793457,20.6620004028082,0,278.89892578125,19
+Typhlonarke,aysoni,-46.75,170.25,3417:360:3,669,10.3056945800781,5.90779209136963,34.4426956176758,34.317684173584,9.953999891877169,0,244.044418334961,76
+Typhlonarke,aysoni,-46.25,170.25,3417:360:1,113,11.5020332336426,10.1643829345703,34.4785995483398,34.3554916381836,24.8349998146296,0,282.957122802734,17
+Typhlonarke,aysoni,-46.25,170.75,3417:360:2,483,10.7507753372192,7.07332277297974,34.4542274475098,34.3571090698242,14.562999829649899,0,265.397735595703,76
+Typhlonarke,aysoni,-45.75,170.75,3417:350:4,53,11.5884971618652,10.3548364639282,34.4337882995605,34.3328399658203,28.421999886632,0,284.794006347656,15
+Typhlonarke,aysoni,-44.25,173.75,3417:143:2,531,11.4766998291016,6.54990720748901,34.4008407592773,34.3393173217773,12.0989996939898,0,257.159210205078,108
+Typhlonarke,aysoni,-43.75,173.25,3417:133:3,56,12.4489488601685,10.2500591278076,34.4121322631836,34.5700149536133,35.521999001503,0,278.235382080078,19
+Typhlonarke,aysoni,-43.75,173.75,3417:133:4,106,12.0893325805664,9.9280252456665,34.4248275756836,34.6076965332031,19.639000296592698,0,274.385040283203,80
+Typhlonarke,aysoni,-43.75,174.75,3417:134:4,488,12.7164478302002,7.31032609939575,34.6059036254883,34.4499053955078,15.075000002980198,0,254.252792358398,161
+Typhlonarke,aysoni,-43.75,175.25,3417:235:3,393,12.9442939758301,7.46462106704712,34.6303672790527,34.456298828125,13.0249997600913,0,257.378570556641,201
+Typhlonarke,aysoni,-43.25,173.75,3417:133:2,377,12.6059627532959,7.20019912719727,34.4788513183594,34.4256401062012,22.5530005991459,0,215.113037109375,78
+Typhlonarke,aysoni,-43.25,174.25,3417:134:1,644,13.1212005615234,7.48222780227661,34.6459922790527,34.4588966369629,18.2429999113083,0,218.208450317383,114
+Typhlonarke,aysoni,-43.25,174.75,3417:134:2,444,13.3987264633179,7.76796197891235,34.7504081726074,34.522762298584,13.051999732852,0,237.981521606445,145
+Typhlonarke,aysoni,-43.25,175.25,3417:235:1,151,13.3952436447144,11.2223320007324,34.7682266235352,34.7659454345703,11.46399974823,0,251.896743774414,177
+Typhlonarke,aysoni,-43.25,175.75,3417:235:2,276,13.4713888168335,7.85833120346069,34.7934303283691,34.5664253234863,11.2269995734096,0,233.974227905273,212
+Typhlonarke,aysoni,-42.75,175.25,3417:225:3,1021,13.7061624526978,4.37986278533936,34.8796310424805,34.4624557495117,13.844000175595301,0,175.551223754883,146
+Typhlonarke,aysoni,-42.25,174.25,3417:124:1,909,13.0662593841553,7.48407697677612,34.54052734375,34.4883689880371,33.1749990582466,0,218.060638427734,49

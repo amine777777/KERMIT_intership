@@ -1,0 +1,202 @@
+Mapping parameters for Paracaesio caerulea (Japanese snapper)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 61 |  71,
+Bounding Box (NSWE): ,37,29,126,142
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,100,128,220,355
+Temperature (°C),1,18.4,20.08,24.76,27.11
+Salinity (psu),1,33.3,33.8,34.57,35.07
+Primary Production (mgC·m-3·day-1) ,1,7.05,8.05,30.99,39.6
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,140.74,166.59,210.52,244.29
+Distance to Land (km),0,17.9,18.9,74.8,97
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 162): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Paracaesio,caerulea,29.25,129.75,1212:499:2,0.12
+Paracaesio,caerulea,30.75,126.75,1312:206:4,0.16
+Paracaesio,caerulea,30.25,128.25,1312:208:1,0.13
+Paracaesio,caerulea,32.25,126.25,1312:226:1,0.07
+Paracaesio,caerulea,33.25,126.75,1312:236:2,0.16
+Paracaesio,caerulea,32.75,130.25,1313:120:3,0.01
+Paracaesio,caerulea,34.25,132.75,1313:142:2,0.06
+Paracaesio,caerulea,34.75,132.25,1313:142:3,0.18
+Paracaesio,caerulea,34.75,134.25,1313:144:3,0.01
+Paracaesio,caerulea,35.25,131.25,1313:351:1,0.04
+Paracaesio,caerulea,35.25,131.75,1313:351:2,0.14
+Paracaesio,caerulea,35.75,131.25,1313:351:3,0.01
+Paracaesio,caerulea,35.75,131.75,1313:351:4,0.01
+Paracaesio,caerulea,35.75,132.25,1313:352:3,0.10
+Paracaesio,caerulea,35.75,132.75,1313:352:4,0.17
+Paracaesio,caerulea,35.75,133.25,1313:353:3,0.15
+Paracaesio,caerulea,35.75,133.75,1313:353:4,0.11
+Paracaesio,caerulea,35.75,134.25,1313:354:3,0.08
+Paracaesio,caerulea,35.75,134.75,1313:354:4,0.06
+Paracaesio,caerulea,36.25,132.75,1313:362:2,0.07
+Paracaesio,caerulea,36.25,133.25,1313:363:1,0.06
+Paracaesio,caerulea,35.75,135.25,1313:455:3,0.06
+Paracaesio,caerulea,35.75,135.75,1313:455:4,0.02
+Paracaesio,caerulea,29.75,128.25,1212:498:3,0.23
+Paracaesio,caerulea,29.75,129.25,1212:499:3,0.29
+Paracaesio,caerulea,29.25,130.25,1213:390:1,0.28
+Paracaesio,caerulea,29.75,130.75,1213:390:4,0.38
+Paracaesio,caerulea,31.25,126.75,1312:216:2,0.20
+Paracaesio,caerulea,31.25,128.75,1312:218:2,0.27
+Paracaesio,caerulea,32.75,126.25,1312:226:3,0.32
+Paracaesio,caerulea,33.25,126.25,1312:236:1,0.21
+Paracaesio,caerulea,33.75,129.75,1312:239:4,0.24
+Paracaesio,caerulea,34.25,129.25,1312:249:1,0.24
+Paracaesio,caerulea,34.25,129.75,1312:249:2,0.20
+Paracaesio,caerulea,32.25,133.25,1313:123:1,0.29
+Paracaesio,caerulea,33.75,132.25,1313:132:3,0.38
+Paracaesio,caerulea,33.75,133.25,1313:133:3,0.21
+Paracaesio,caerulea,34.25,130.25,1313:140:1,0.39
+Paracaesio,caerulea,34.75,131.25,1313:141:3,0.37
+Paracaesio,caerulea,34.75,131.75,1313:141:4,0.38
+Paracaesio,caerulea,34.25,132.25,1313:142:1,0.38
+Paracaesio,caerulea,34.25,133.25,1313:143:1,0.38
+Paracaesio,caerulea,34.25,134.25,1313:144:1,0.23
+Paracaesio,caerulea,32.25,139.75,1313:229:2,0.28
+Paracaesio,caerulea,32.75,139.75,1313:229:4,0.29
+Paracaesio,caerulea,35.25,132.25,1313:352:1,0.21
+Paracaesio,caerulea,35.25,132.75,1313:352:2,0.21
+Paracaesio,caerulea,29.75,126.25,1212:496:3,0.51
+Paracaesio,caerulea,29.75,128.75,1212:498:4,0.43
+Paracaesio,caerulea,30.25,126.75,1312:206:2,0.47
+Paracaesio,caerulea,32.75,129.75,1312:229:4,0.48
+Paracaesio,caerulea,33.75,128.25,1312:238:3,0.54
+Paracaesio,caerulea,33.25,130.25,1313:130:1,0.51
+Paracaesio,caerulea,33.75,131.75,1313:131:4,0.42
+Paracaesio,caerulea,34.25,130.75,1313:140:2,0.42
+Paracaesio,caerulea,34.25,131.75,1313:141:2,0.51
+Paracaesio,caerulea,35.75,140.75,1314:350:4,0.48
+Paracaesio,caerulea,36.25,141.25,1314:361:1,0.40
+Paracaesio,caerulea,29.75,130.25,1213:390:3,0.78
+Paracaesio,caerulea,30.25,129.25,1312:209:1,0.67
+Paracaesio,caerulea,31.75,126.75,1312:216:4,0.61
+Paracaesio,caerulea,30.25,131.25,1313:101:1,0.76
+Paracaesio,caerulea,33.75,131.25,1313:131:3,0.62
+Paracaesio,caerulea,33.75,134.75,1313:134:4,0.68
+Paracaesio,caerulea,34.25,133.75,1313:143:2,0.60
+Paracaesio,caerulea,33.75,139.25,1313:239:3,0.75
+Paracaesio,caerulea,33.25,140.25,1314:130:1,0.68
+Paracaesio,caerulea,29.25,126.25,1212:496:1,1.00
+Paracaesio,caerulea,29.25,126.75,1212:496:2,1.00
+Paracaesio,caerulea,29.75,126.75,1212:496:4,1.00
+Paracaesio,caerulea,29.25,127.25,1212:497:1,1.00
+Paracaesio,caerulea,29.75,127.25,1212:497:3,1.00
+Paracaesio,caerulea,29.75,127.75,1212:497:4,1.00
+Paracaesio,caerulea,29.75,129.75,1212:499:4,0.88
+Paracaesio,caerulea,30.25,127.25,1312:207:1,1.00
+Paracaesio,caerulea,30.25,127.75,1312:207:2,1.00
+Paracaesio,caerulea,30.75,127.25,1312:207:3,1.00
+Paracaesio,caerulea,30.75,127.75,1312:207:4,1.00
+Paracaesio,caerulea,30.75,128.25,1312:208:3,1.00
+Paracaesio,caerulea,30.25,129.75,1312:209:2,0.99
+Paracaesio,caerulea,30.75,129.25,1312:209:3,1.00
+Paracaesio,caerulea,30.75,129.75,1312:209:4,1.00
+Paracaesio,caerulea,31.25,127.25,1312:217:1,1.00
+Paracaesio,caerulea,31.25,127.75,1312:217:2,1.00
+Paracaesio,caerulea,31.75,127.25,1312:217:3,1.00
+Paracaesio,caerulea,31.75,127.75,1312:217:4,1.00
+Paracaesio,caerulea,31.25,128.25,1312:218:1,1.00
+Paracaesio,caerulea,31.75,128.25,1312:218:3,1.00
+Paracaesio,caerulea,31.75,128.75,1312:218:4,1.00
+Paracaesio,caerulea,31.25,129.25,1312:219:1,1.00
+Paracaesio,caerulea,31.25,129.75,1312:219:2,1.00
+Paracaesio,caerulea,31.75,129.75,1312:219:4,1.00
+Paracaesio,caerulea,32.25,126.75,1312:226:2,0.81
+Paracaesio,caerulea,32.75,126.75,1312:226:4,0.81
+Paracaesio,caerulea,32.25,127.25,1312:227:1,1.00
+Paracaesio,caerulea,32.25,127.75,1312:227:2,1.00
+Paracaesio,caerulea,32.75,127.25,1312:227:3,1.00
+Paracaesio,caerulea,32.75,127.75,1312:227:4,1.00
+Paracaesio,caerulea,32.25,128.25,1312:228:1,1.00
+Paracaesio,caerulea,32.25,128.75,1312:228:2,1.00
+Paracaesio,caerulea,32.75,128.25,1312:228:3,1.00
+Paracaesio,caerulea,32.75,128.75,1312:228:4,1.00
+Paracaesio,caerulea,32.25,129.25,1312:229:1,1.00
+Paracaesio,caerulea,32.25,129.75,1312:229:2,1.00
+Paracaesio,caerulea,32.75,129.25,1312:229:3,1.00
+Paracaesio,caerulea,33.25,127.25,1312:237:1,0.83
+Paracaesio,caerulea,33.25,127.75,1312:237:2,1.00
+Paracaesio,caerulea,33.25,128.25,1312:238:1,1.00
+Paracaesio,caerulea,33.25,128.75,1312:238:2,1.00
+Paracaesio,caerulea,33.75,128.75,1312:238:4,1.00
+Paracaesio,caerulea,33.25,129.25,1312:239:1,1.00
+Paracaesio,caerulea,33.75,129.25,1312:239:3,1.00
+Paracaesio,caerulea,30.25,130.25,1313:100:1,0.87
+Paracaesio,caerulea,30.25,130.75,1313:100:2,1.00
+Paracaesio,caerulea,30.75,130.25,1313:100:3,1.00
+Paracaesio,caerulea,30.75,130.75,1313:100:4,1.00
+Paracaesio,caerulea,30.75,131.25,1313:101:3,1.00
+Paracaesio,caerulea,31.25,130.25,1313:110:1,1.00
+Paracaesio,caerulea,31.25,130.75,1313:110:2,1.00
+Paracaesio,caerulea,31.75,130.25,1313:110:3,1.00
+Paracaesio,caerulea,31.75,130.75,1313:110:4,1.00
+Paracaesio,caerulea,31.25,131.25,1313:111:1,1.00
+Paracaesio,caerulea,31.25,131.75,1313:111:2,1.00
+Paracaesio,caerulea,31.75,131.75,1313:111:4,1.00
+Paracaesio,caerulea,32.25,131.75,1313:121:2,1.00
+Paracaesio,caerulea,32.75,131.75,1313:121:4,1.00
+Paracaesio,caerulea,32.25,132.25,1313:122:1,1.00
+Paracaesio,caerulea,32.25,132.75,1313:122:2,0.99
+Paracaesio,caerulea,32.75,132.25,1313:122:3,1.00
+Paracaesio,caerulea,32.75,132.75,1313:122:4,1.00
+Paracaesio,caerulea,32.75,133.25,1313:123:3,1.00
+Paracaesio,caerulea,33.25,131.75,1313:131:2,0.93
+Paracaesio,caerulea,33.25,132.25,1313:132:1,1.00
+Paracaesio,caerulea,33.25,133.25,1313:133:1,1.00
+Paracaesio,caerulea,33.25,133.75,1313:133:2,1.00
+Paracaesio,caerulea,33.75,133.75,1313:133:4,1.00
+Paracaesio,caerulea,33.25,134.25,1313:134:1,1.00
+Paracaesio,caerulea,33.25,134.75,1313:134:2,1.00
+Paracaesio,caerulea,33.75,134.25,1313:134:3,0.99
+Paracaesio,caerulea,33.25,135.75,1313:235:2,1.00
+Paracaesio,caerulea,33.75,135.25,1313:235:3,1.00
+Paracaesio,caerulea,33.75,135.75,1313:235:4,1.00
+Paracaesio,caerulea,33.75,136.25,1313:236:3,1.00
+Paracaesio,caerulea,33.75,138.75,1313:238:4,1.00
+Paracaesio,caerulea,33.25,139.75,1313:239:2,1.00
+Paracaesio,caerulea,33.75,139.75,1313:239:4,1.00
+Paracaesio,caerulea,34.25,136.25,1313:246:1,1.00
+Paracaesio,caerulea,34.25,136.75,1313:246:2,1.00
+Paracaesio,caerulea,34.25,137.25,1313:247:1,1.00
+Paracaesio,caerulea,34.25,138.25,1313:248:1,1.00
+Paracaesio,caerulea,34.25,138.75,1313:248:2,1.00
+Paracaesio,caerulea,34.75,138.25,1313:248:3,1.00
+Paracaesio,caerulea,34.75,138.75,1313:248:4,1.00
+Paracaesio,caerulea,34.25,139.25,1313:249:1,1.00
+Paracaesio,caerulea,34.25,139.75,1313:249:2,1.00
+Paracaesio,caerulea,34.75,139.25,1313:249:3,1.00
+Paracaesio,caerulea,34.75,139.75,1313:249:4,1.00
+Paracaesio,caerulea,33.75,140.25,1314:130:3,1.00
+Paracaesio,caerulea,34.75,140.25,1314:140:3,1.00
+Paracaesio,caerulea,35.25,140.75,1314:350:2,1.00
+Paracaesio,caerulea,35.25,141.25,1314:351:1,1.00
+Paracaesio,caerulea,35.75,141.25,1314:351:3,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 4)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Paracaesio,caerulea,29.75,130.25,1213:390:3,452,24.99143409729,12.8227519989014,34.3601188659668,34.5899124145508,7.91900046169758,0,157.929000854492,97
+Paracaesio,caerulea,30.25,130.75,1313:100:2,234,24.2186737060547,22.3506755828857,34.2616500854492,34.6356925964355,8.36499966681004,0,202.64680480957,21
+Paracaesio,caerulea,30.75,131.25,1313:101:3,337,24.0177898406982,20.1749973297119,34.207218170166,34.6931190490723,10.885000228881799,0,186.788970947266,23
+Paracaesio,caerulea,36.25,140.75,1314:360:2,150,18.3984451293945,13.3505458831787,33.6268463134766,34.2413787841797,39.5999997854233,0,213.900192260742,18

@@ -1,0 +1,67 @@
+Mapping parameters for Epigonus crassicaudus ()
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 87,
+Bounding Box (NSWE): ,-30,-44,-74,-71
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,180,204,284,400
+Temperature (°C),1,12.71,13.21,14.85,15.35
+Salinity (psu),1,32.63,33.19,34.19,34.69
+Primary Production (mgC·m-3·day-1) ,1,11.8,27.77,73.28,84.7
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,59.73,79.88,139.36,166.37
+Distance to Land (km),0,8,14.6,134.6,209
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 26): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Epigonus,crassicaudus,-37.25,-73.25,5307:373:1,0.08
+Epigonus,crassicaudus,-38.75,-73.75,5307:383:4,0.08
+Epigonus,crassicaudus,-37.25,-73.75,5307:373:2,0.34
+Epigonus,crassicaudus,-37.75,-73.75,5307:373:4,0.21
+Epigonus,crassicaudus,-30.25,-71.75,5307:101:2,0.45
+Epigonus,crassicaudus,-30.75,-71.75,5307:101:4,0.50
+Epigonus,crassicaudus,-31.25,-71.75,5307:111:2,0.58
+Epigonus,crassicaudus,-34.75,-72.75,5307:142:4,0.59
+Epigonus,crassicaudus,-35.75,-72.75,5307:352:4,0.55
+Epigonus,crassicaudus,-36.25,-72.75,5307:362:2,0.51
+Epigonus,crassicaudus,-36.25,-73.25,5307:363:1,0.50
+Epigonus,crassicaudus,-30.25,-71.25,5307:101:1,0.71
+Epigonus,crassicaudus,-31.75,-71.75,5307:111:4,0.66
+Epigonus,crassicaudus,-32.25,-71.75,5307:121:2,0.78
+Epigonus,crassicaudus,-36.75,-73.75,5307:363:4,0.63
+Epigonus,crassicaudus,-32.75,-71.75,5307:121:4,1.00
+Epigonus,crassicaudus,-33.25,-71.75,5307:131:2,1.00
+Epigonus,crassicaudus,-33.75,-71.75,5307:131:4,1.00
+Epigonus,crassicaudus,-33.75,-72.25,5307:132:3,1.00
+Epigonus,crassicaudus,-34.25,-71.75,5307:141:2,1.00
+Epigonus,crassicaudus,-34.25,-72.25,5307:142:1,1.00
+Epigonus,crassicaudus,-34.75,-72.25,5307:142:3,1.00
+Epigonus,crassicaudus,-35.25,-72.25,5307:352:1,1.00
+Epigonus,crassicaudus,-35.25,-72.75,5307:352:2,1.00
+Epigonus,crassicaudus,-35.75,-73.25,5307:353:3,1.00
+Epigonus,crassicaudus,-36.25,-73.75,5307:363:2,0.86
+
+
+Occurrence cells used for creating environmental envelope (n = 5)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Epigonus,crassicaudus,-36.75,-73.25,5307:363:3,139,12.7341899871826,11.696400642395,32.6299171447754,34.0956649780273,84.696002304554,0,83.1979827880859,19
+Epigonus,crassicaudus,-33.75,-71.75,5307:131:4,171,13.9216775894165,11.7848138809204,34.0794296264648,34.3351135253906,56.1488382518291,0,77.6702194213867,13
+Epigonus,crassicaudus,-33.25,-71.75,5307:131:2,509,14.0279026031494,12.1824169158936,34.0795745849609,34.2473335266113,55.8260008692741,0,88.5015258789063,17
+Epigonus,crassicaudus,-33.25,-73.75,5307:133:2,3720,15.2746114730835,1.34171497821808,34.1682548522949,34.6925621032715,11.7979999631643,0,166.372848510742,209
+Epigonus,crassicaudus,-32.75,-71.75,5307:121:4,1210,14.2182397842407,5.81501007080078,34.1778182983398,34.3138809204102,51.731001585722,0,98.8412017822266,23

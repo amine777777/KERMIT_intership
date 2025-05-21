@@ -1,0 +1,240 @@
+Mapping parameters for Todarodes angolensis (Angolan flying squid)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas: 34 |  47 |  51 |  81,
+Bounding Box (NSWE): ,-10,-35,10,20
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,0,197,636,1500
+Temperature (°C),1,13.22,16.08,24.51,25.28
+Salinity (psu),1,34.17,34.67,35.67,36.17
+Primary Production (mgC·m-3·day-1) ,1,10.36,20.39,93.33,109.43
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,23.91,36.2,224.34,397.36
+Distance to Land (km),0,20,22.4,260.8,295
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 195): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Todarodes,angolensis,-10.25,13.25,3101:103:1,0.05
+Todarodes,angolensis,-10.25,13.75,3101:103:2,0.08
+Todarodes,angolensis,-15.75,11.25,3101:351:3,0.13
+Todarodes,angolensis,-18.75,10.75,3101:380:4,0.17
+Todarodes,angolensis,-20.75,13.75,3201:103:4,0.17
+Todarodes,angolensis,-21.75,14.25,3201:114:3,0.01
+Todarodes,angolensis,-24.25,14.75,3201:144:2,0.01
+Todarodes,angolensis,-24.75,14.75,3201:144:4,0.02
+Todarodes,angolensis,-25.25,14.75,3201:354:2,0.01
+Todarodes,angolensis,-27.75,13.75,3201:373:4,0.16
+Todarodes,angolensis,-29.25,14.25,3201:394:1,0.03
+Todarodes,angolensis,-29.75,14.75,3201:394:4,0.04
+Todarodes,angolensis,-26.25,15.25,3201:465:1,0.12
+Todarodes,angolensis,-27.75,15.75,3201:475:4,0.17
+Todarodes,angolensis,-29.25,17.25,3201:497:1,0.11
+Todarodes,angolensis,-30.25,15.25,3301:205:1,0.18
+Todarodes,angolensis,-30.75,15.75,3301:205:4,0.18
+Todarodes,angolensis,-31.25,18.25,3301:218:1,0.12
+Todarodes,angolensis,-32.75,16.25,3301:226:3,0.14
+Todarodes,angolensis,-33.75,16.75,3301:236:4,0.07
+Todarodes,angolensis,-33.75,18.75,3301:238:4,0.03
+Todarodes,angolensis,-34.25,17.25,3301:247:1,0.18
+Todarodes,angolensis,-34.75,17.75,3301:247:4,0.11
+Todarodes,angolensis,-10.75,13.25,3101:103:3,0.38
+Todarodes,angolensis,-12.25,12.75,3101:122:2,0.37
+Todarodes,angolensis,-18.75,12.75,3101:382:4,0.20
+Todarodes,angolensis,-19.75,10.25,3101:390:3,0.27
+Todarodes,angolensis,-19.75,13.25,3101:393:3,0.21
+Todarodes,angolensis,-20.25,10.25,3201:100:1,0.26
+Todarodes,angolensis,-20.25,10.75,3201:100:2,0.26
+Todarodes,angolensis,-20.75,11.25,3201:101:3,0.30
+Todarodes,angolensis,-21.25,13.75,3201:113:2,0.32
+Todarodes,angolensis,-21.75,13.75,3201:113:4,0.33
+Todarodes,angolensis,-23.25,14.25,3201:134:1,0.26
+Todarodes,angolensis,-24.25,12.75,3201:142:2,0.25
+Todarodes,angolensis,-24.75,14.25,3201:144:3,0.31
+Todarodes,angolensis,-25.75,14.75,3201:354:4,0.28
+Todarodes,angolensis,-26.75,13.25,3201:363:3,0.30
+Todarodes,angolensis,-26.25,14.75,3201:364:2,0.35
+Todarodes,angolensis,-29.25,14.75,3201:394:2,0.30
+Todarodes,angolensis,-26.75,15.25,3201:465:3,0.26
+Todarodes,angolensis,-27.25,15.25,3201:475:1,0.39
+Todarodes,angolensis,-28.75,15.75,3201:485:4,0.38
+Todarodes,angolensis,-28.25,16.25,3201:486:1,0.26
+Todarodes,angolensis,-28.75,16.75,3201:486:4,0.31
+Todarodes,angolensis,-29.25,16.75,3201:496:2,0.39
+Todarodes,angolensis,-30.75,17.75,3301:207:4,0.28
+Todarodes,angolensis,-31.25,16.25,3301:216:1,0.30
+Todarodes,angolensis,-31.75,16.25,3301:216:3,0.32
+Todarodes,angolensis,-32.25,16.25,3301:226:1,0.29
+Todarodes,angolensis,-32.25,18.25,3301:228:1,0.38
+Todarodes,angolensis,-32.75,18.25,3301:228:3,0.25
+Todarodes,angolensis,-33.25,16.75,3301:236:2,0.26
+Todarodes,angolensis,-11.25,13.25,3101:113:1,0.40
+Todarodes,angolensis,-11.75,13.25,3101:113:3,0.51
+Todarodes,angolensis,-14.75,11.75,3101:141:4,0.49
+Todarodes,angolensis,-15.75,12.25,3101:352:3,0.48
+Todarodes,angolensis,-16.75,11.25,3101:361:3,0.58
+Todarodes,angolensis,-17.25,11.25,3101:371:1,0.59
+Todarodes,angolensis,-18.25,11.25,3101:381:1,0.47
+Todarodes,angolensis,-18.25,12.25,3101:382:1,0.43
+Todarodes,angolensis,-19.25,10.75,3101:390:2,0.47
+Todarodes,angolensis,-19.75,10.75,3101:390:4,0.42
+Todarodes,angolensis,-21.25,11.75,3201:111:2,0.41
+Todarodes,angolensis,-22.25,12.25,3201:122:1,0.53
+Todarodes,angolensis,-25.25,14.25,3201:354:1,0.44
+Todarodes,angolensis,-25.75,14.25,3201:354:3,0.49
+Todarodes,angolensis,-26.75,14.75,3201:364:4,0.46
+Todarodes,angolensis,-28.75,14.25,3201:384:3,0.55
+Todarodes,angolensis,-29.75,15.25,3201:495:3,0.43
+Todarodes,angolensis,-29.75,16.75,3201:496:4,0.47
+Todarodes,angolensis,-29.75,17.25,3201:497:3,0.40
+Todarodes,angolensis,-30.25,17.25,3301:207:1,0.51
+Todarodes,angolensis,-31.25,17.75,3301:217:2,0.55
+Todarodes,angolensis,-31.75,18.25,3301:218:3,0.48
+Todarodes,angolensis,-33.25,18.25,3301:238:1,0.48
+Todarodes,angolensis,-34.75,18.25,3301:248:3,0.58
+Todarodes,angolensis,-34.25,19.25,3301:249:1,0.49
+Todarodes,angolensis,-14.25,12.25,3101:142:1,0.79
+Todarodes,angolensis,-15.25,11.75,3101:351:2,0.70
+Todarodes,angolensis,-15.75,11.75,3101:351:4,0.69
+Todarodes,angolensis,-16.25,11.25,3101:361:1,0.60
+Todarodes,angolensis,-16.25,11.75,3101:361:2,0.76
+Todarodes,angolensis,-17.25,11.75,3101:371:2,0.75
+Todarodes,angolensis,-17.75,11.25,3101:371:3,0.62
+Todarodes,angolensis,-17.75,11.75,3101:371:4,0.68
+Todarodes,angolensis,-18.25,11.75,3101:381:2,0.69
+Todarodes,angolensis,-18.75,11.25,3101:381:3,0.72
+Todarodes,angolensis,-18.75,11.75,3101:381:4,0.77
+Todarodes,angolensis,-23.75,12.75,3201:132:4,0.76
+Todarodes,angolensis,-24.25,13.75,3201:143:2,0.74
+Todarodes,angolensis,-24.75,13.75,3201:143:4,0.68
+Todarodes,angolensis,-25.25,13.25,3201:353:1,0.75
+Todarodes,angolensis,-25.25,13.75,3201:353:2,0.70
+Todarodes,angolensis,-25.75,13.25,3201:353:3,0.78
+Todarodes,angolensis,-25.75,13.75,3201:353:4,0.79
+Todarodes,angolensis,-26.25,13.25,3201:363:1,0.61
+Todarodes,angolensis,-26.25,14.25,3201:364:1,0.63
+Todarodes,angolensis,-27.75,15.25,3201:475:3,0.70
+Todarodes,angolensis,-28.25,15.25,3201:485:1,0.70
+Todarodes,angolensis,-29.25,16.25,3201:496:1,0.69
+Todarodes,angolensis,-30.25,15.75,3301:205:2,0.67
+Todarodes,angolensis,-30.25,16.75,3301:206:2,0.73
+Todarodes,angolensis,-30.75,16.25,3301:206:3,0.74
+Todarodes,angolensis,-30.75,17.25,3301:207:3,0.64
+Todarodes,angolensis,-31.75,17.75,3301:217:4,0.65
+Todarodes,angolensis,-32.25,17.75,3301:227:2,0.67
+Todarodes,angolensis,-32.75,17.75,3301:227:4,0.76
+Todarodes,angolensis,-34.75,19.75,3301:249:4,0.79
+Todarodes,angolensis,-10.75,13.75,3101:103:4,0.82
+Todarodes,angolensis,-11.25,13.75,3101:113:2,1.00
+Todarodes,angolensis,-11.75,13.75,3101:113:4,1.00
+Todarodes,angolensis,-12.75,12.75,3101:122:4,1.00
+Todarodes,angolensis,-12.25,13.25,3101:123:1,0.98
+Todarodes,angolensis,-12.25,13.75,3101:123:2,1.00
+Todarodes,angolensis,-12.75,13.25,3101:123:3,1.00
+Todarodes,angolensis,-13.25,12.25,3101:132:1,0.82
+Todarodes,angolensis,-13.25,12.75,3101:132:2,1.00
+Todarodes,angolensis,-13.75,12.25,3101:132:3,0.99
+Todarodes,angolensis,-13.75,12.75,3101:132:4,1.00
+Todarodes,angolensis,-14.75,12.25,3101:142:3,0.89
+Todarodes,angolensis,-15.25,12.25,3101:352:1,0.93
+Todarodes,angolensis,-16.75,11.75,3101:361:4,0.81
+Todarodes,angolensis,-18.75,12.25,3101:382:3,0.89
+Todarodes,angolensis,-19.25,10.25,3101:390:1,0.93
+Todarodes,angolensis,-19.25,11.25,3101:391:1,0.83
+Todarodes,angolensis,-19.25,11.75,3101:391:2,0.87
+Todarodes,angolensis,-19.75,11.25,3101:391:3,0.92
+Todarodes,angolensis,-19.75,11.75,3101:391:4,1.00
+Todarodes,angolensis,-19.25,12.25,3101:392:1,0.99
+Todarodes,angolensis,-19.25,12.75,3101:392:2,0.94
+Todarodes,angolensis,-19.75,12.25,3101:392:3,1.00
+Todarodes,angolensis,-19.75,12.75,3101:392:4,1.00
+Todarodes,angolensis,-20.25,11.25,3201:101:1,0.80
+Todarodes,angolensis,-20.25,11.75,3201:101:2,1.00
+Todarodes,angolensis,-20.75,11.75,3201:101:4,0.88
+Todarodes,angolensis,-20.25,12.25,3201:102:1,1.00
+Todarodes,angolensis,-20.25,12.75,3201:102:2,1.00
+Todarodes,angolensis,-20.75,12.25,3201:102:3,1.00
+Todarodes,angolensis,-20.75,12.75,3201:102:4,1.00
+Todarodes,angolensis,-20.25,13.25,3201:103:1,1.00
+Todarodes,angolensis,-20.75,13.25,3201:103:3,1.00
+Todarodes,angolensis,-21.25,12.25,3201:112:1,1.00
+Todarodes,angolensis,-21.25,12.75,3201:112:2,1.00
+Todarodes,angolensis,-21.75,12.25,3201:112:3,0.82
+Todarodes,angolensis,-21.75,12.75,3201:112:4,1.00
+Todarodes,angolensis,-21.25,13.25,3201:113:1,1.00
+Todarodes,angolensis,-21.75,13.25,3201:113:3,1.00
+Todarodes,angolensis,-22.25,12.75,3201:122:2,1.00
+Todarodes,angolensis,-22.75,12.75,3201:122:4,1.00
+Todarodes,angolensis,-22.25,13.25,3201:123:1,1.00
+Todarodes,angolensis,-22.25,13.75,3201:123:2,0.94
+Todarodes,angolensis,-22.75,13.25,3201:123:3,1.00
+Todarodes,angolensis,-22.75,13.75,3201:123:4,0.89
+Todarodes,angolensis,-23.25,12.75,3201:132:2,1.00
+Todarodes,angolensis,-23.25,13.25,3201:133:1,1.00
+Todarodes,angolensis,-23.25,13.75,3201:133:2,0.82
+Todarodes,angolensis,-23.75,13.25,3201:133:3,1.00
+Todarodes,angolensis,-23.75,13.75,3201:133:4,0.80
+Todarodes,angolensis,-24.25,13.25,3201:143:1,1.00
+Todarodes,angolensis,-24.75,13.25,3201:143:3,0.98
+Todarodes,angolensis,-26.25,13.75,3201:363:2,0.94
+Todarodes,angolensis,-26.75,13.75,3201:363:4,1.00
+Todarodes,angolensis,-26.75,14.25,3201:364:3,0.88
+Todarodes,angolensis,-27.25,13.75,3201:373:2,1.00
+Todarodes,angolensis,-27.25,14.25,3201:374:1,1.00
+Todarodes,angolensis,-27.25,14.75,3201:374:2,0.85
+Todarodes,angolensis,-27.75,14.25,3201:374:3,1.00
+Todarodes,angolensis,-27.75,14.75,3201:374:4,1.00
+Todarodes,angolensis,-28.25,14.25,3201:384:1,1.00
+Todarodes,angolensis,-28.25,14.75,3201:384:2,1.00
+Todarodes,angolensis,-28.75,14.75,3201:384:4,1.00
+Todarodes,angolensis,-28.75,15.25,3201:485:3,1.00
+Todarodes,angolensis,-29.25,15.25,3201:495:1,0.82
+Todarodes,angolensis,-29.25,15.75,3201:495:2,0.96
+Todarodes,angolensis,-29.75,15.75,3201:495:4,1.00
+Todarodes,angolensis,-29.75,16.25,3201:496:3,0.83
+Todarodes,angolensis,-30.25,16.25,3301:206:1,1.00
+Todarodes,angolensis,-30.75,16.75,3301:206:4,0.99
+Todarodes,angolensis,-31.25,16.75,3301:216:2,1.00
+Todarodes,angolensis,-31.75,16.75,3301:216:4,1.00
+Todarodes,angolensis,-31.25,17.25,3301:217:1,0.84
+Todarodes,angolensis,-31.75,17.25,3301:217:3,0.88
+Todarodes,angolensis,-32.25,16.75,3301:226:2,1.00
+Todarodes,angolensis,-32.75,16.75,3301:226:4,0.81
+Todarodes,angolensis,-32.25,17.25,3301:227:1,0.98
+Todarodes,angolensis,-32.75,17.25,3301:227:3,1.00
+Todarodes,angolensis,-33.25,17.25,3301:237:1,1.00
+Todarodes,angolensis,-33.75,17.25,3301:237:3,0.85
+Todarodes,angolensis,-33.75,17.75,3301:237:4,1.00
+Todarodes,angolensis,-34.25,17.75,3301:247:2,1.00
+Todarodes,angolensis,-34.25,18.25,3301:248:1,1.00
+Todarodes,angolensis,-34.25,18.75,3301:248:2,0.85
+Todarodes,angolensis,-34.75,18.75,3301:248:4,1.00
+Todarodes,angolensis,-34.75,19.25,3301:249:3,0.90
+
+
+Occurrence cells used for creating environmental envelope (n = 9)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Todarodes,angolensis,-27.75,14.25,3201:374:3,1140,17.264310836792,3.39510011672974,35.0937995910645,34.5756530761719,36.9709990918636,0,171.882263183594,133
+Todarodes,angolensis,-27.75,14.75,3201:374:4,405,16.4373111724854,7.96351003646851,34.9075660705566,34.5820960998535,52.0550012588501,0,131.449478149414,89
+Todarodes,angolensis,-27.25,14.25,3201:374:1,643,16.7467212677002,5.14640188217163,35.0850677490234,34.3917541503906,48.0160005390644,0,155.916290283203,124
+Todarodes,angolensis,-27.25,14.75,3201:374:2,310,15.645320892334,10.313759803772,34.9978103637695,34.847843170166,65.9549981355667,0,90.5896911621094,74
+Todarodes,angolensis,-22.25,11.75,3201:121:2,2607,18.1903457641602,2.62650203704834,35.3420181274414,34.8962287902832,22.902999073267,0,222.824111938477,255
+Todarodes,angolensis,-21.75,13.75,3201:113:4,101,16.2039661407471,15.0836448669434,35.222095489502,35.2170867919922,103.366002440453,0,23.9148406982422,25
+Todarodes,angolensis,-20.75,13.25,3201:103:3,109,16.1944828033447,15.6961908340454,35.3835868835449,35.2745628356934,90.818002820015,0,39.2760810852051,23
+Todarodes,angolensis,-11.25,11.25,3101:111:1,3724,25.2807464599609,2.07635498046875,35.6284484863281,34.9020080566406,10.3599997237325,0,230.419448852539,284
+Todarodes,angolensis,-11.25,13.75,3101:113:2,198,24.3192348480225,25.0321025848389,34.8841896057129,35.4482345581055,63.578002154827104,0,213.299057006836,20

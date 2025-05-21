@@ -1,0 +1,207 @@
+Mapping parameters for Platyrhina sinensis (Chinese fanray)
+
+"Cite AquaMaps itself as: Kaschner, K., Kesner-Reyes, K., Garilao, C., Segschneider, J., Rius-Barile, J. Rees, T., & Froese, R. (2019, October). AquaMaps: Predicted range maps for aquatic species. Retrieved from https://www.aquamaps.org."
+
+Map type: Computer-generated,
+Map Option: In FAO and Bounding Box
+FAOAreas:  61 |  71 ,
+Bounding Box (NSWE): ,26,15,105,121
+
+Pelagic: False,
+Layer used to generate probabilities: Surface,
+
+Species Envelope (HSPEN):
+ ,Used,Min,Pref Min (10th),Pref Max (90th),Max
+Depth (m),1,1,7,31,60
+Temperature (°C),1,19.8,22.26,27.04,31.24
+Salinity (psu),1,28.14,31.13,33.67,35.83
+Primary Production (mgC·m-3·day-1) ,1,4.58,5.58,47.32,97.58
+Sea Ice Concentration (0-1 fraction),1,-1,0,0,0
+Dissolved Bottom Oxygen (mmol·m-3),0,87.85,94.35,224.55,258.18
+Distance to Land (km),0,2,3,97,179
+ 
+
+Map data (HSPEC) for predicted occurrences (n = 155): 
+
+"To get individual probabilities (i.e. Depth, Temperature, Salinity, Primary Production, Sea Ice Concentration, Distance to Land):"
+1. Click on the Create-Your-Own-Map at the bottom left part of the species map page.
+2. Click on the Regenerate Map Data and View Map button then click OK.
+3. In the resulting User-Specified Map for the species click on the Download data (as csv) link.
+4. Select HSPEC then Submit.
+
+Genus,Species,Center Lat,Center Long,C-Square Code,Overall Probability
+Platyrhina,sinensis,21.75,115.25,1211:215:3,0.03
+Platyrhina,sinensis,22.75,114.75,1211:124:4,0.17
+Platyrhina,sinensis,22.75,114.25,1211:124:3,0.11
+Platyrhina,sinensis,21.25,107.25,1210:217:1,0.17
+Platyrhina,sinensis,18.25,105.75,1110:485:2,0.17
+Platyrhina,sinensis,17.75,108.25,1110:478:3,0.07
+Platyrhina,sinensis,22.25,120.25,1212:120:1,0.24
+Platyrhina,sinensis,22.75,113.75,1211:123:4,0.20
+Platyrhina,sinensis,21.75,114.75,1211:114:4,0.38
+Platyrhina,sinensis,21.75,113.75,1211:113:4,0.31
+Platyrhina,sinensis,21.75,113.25,1211:113:3,0.35
+Platyrhina,sinensis,16.75,120.25,1112:360:3,0.32
+Platyrhina,sinensis,19.75,109.75,1110:499:4,0.33
+Platyrhina,sinensis,17.75,109.75,1110:479:4,0.24
+Platyrhina,sinensis,25.75,119.75,1211:459:4,0.43
+Platyrhina,sinensis,25.75,119.25,1211:459:3,0.49
+Platyrhina,sinensis,25.25,119.25,1211:459:1,0.58
+Platyrhina,sinensis,20.75,109.75,1210:209:4,0.43
+Platyrhina,sinensis,16.25,120.25,1112:360:1,0.58
+Platyrhina,sinensis,15.25,120.25,1112:350:1,0.59
+Platyrhina,sinensis,16.25,119.75,1111:469:2,0.57
+Platyrhina,sinensis,15.25,119.75,1111:459:2,0.55
+Platyrhina,sinensis,18.75,108.25,1110:488:3,0.55
+Platyrhina,sinensis,18.25,108.25,1110:488:1,0.43
+Platyrhina,sinensis,17.75,108.75,1110:478:4,0.41
+Platyrhina,sinensis,16.75,108.25,1110:468:3,0.52
+Platyrhina,sinensis,21.75,120.75,1212:110:4,0.64
+Platyrhina,sinensis,25.25,118.75,1211:458:2,0.74
+Platyrhina,sinensis,22.25,116.75,1211:226:2,0.76
+Platyrhina,sinensis,21.25,113.75,1211:113:2,0.62
+Platyrhina,sinensis,20.75,112.75,1211:102:4,0.61
+Platyrhina,sinensis,17.75,109.25,1110:479:3,0.66
+Platyrhina,sinensis,25.75,120.75,1212:350:4,1.00
+Platyrhina,sinensis,25.75,120.25,1212:350:3,0.95
+Platyrhina,sinensis,25.25,120.75,1212:350:2,1.00
+Platyrhina,sinensis,25.25,120.25,1212:350:1,1.00
+Platyrhina,sinensis,24.75,120.75,1212:140:4,1.00
+Platyrhina,sinensis,24.75,120.25,1212:140:3,1.00
+Platyrhina,sinensis,24.25,120.75,1212:140:2,0.98
+Platyrhina,sinensis,24.25,120.25,1212:140:1,1.00
+Platyrhina,sinensis,23.75,120.25,1212:130:3,1.00
+Platyrhina,sinensis,23.25,120.25,1212:130:1,1.00
+Platyrhina,sinensis,22.75,120.75,1212:120:4,1.00
+Platyrhina,sinensis,22.75,120.25,1212:120:3,1.00
+Platyrhina,sinensis,22.25,120.75,1212:120:2,0.94
+Platyrhina,sinensis,25.25,119.75,1211:459:2,0.96
+Platyrhina,sinensis,24.75,119.75,1211:249:4,1.00
+Platyrhina,sinensis,24.75,119.25,1211:249:3,1.00
+Platyrhina,sinensis,24.25,119.75,1211:249:2,0.96
+Platyrhina,sinensis,24.25,119.25,1211:249:1,1.00
+Platyrhina,sinensis,24.75,118.75,1211:248:4,0.92
+Platyrhina,sinensis,24.75,118.25,1211:248:3,1.00
+Platyrhina,sinensis,24.25,118.75,1211:248:2,1.00
+Platyrhina,sinensis,24.25,118.25,1211:248:1,1.00
+Platyrhina,sinensis,24.25,117.75,1211:247:2,1.00
+Platyrhina,sinensis,23.75,119.75,1211:239:4,1.00
+Platyrhina,sinensis,23.75,119.25,1211:239:3,1.00
+Platyrhina,sinensis,23.25,119.75,1211:239:2,1.00
+Platyrhina,sinensis,23.25,119.25,1211:239:1,1.00
+Platyrhina,sinensis,23.75,118.75,1211:238:4,1.00
+Platyrhina,sinensis,23.75,118.25,1211:238:3,1.00
+Platyrhina,sinensis,23.25,118.75,1211:238:2,1.00
+Platyrhina,sinensis,23.25,118.25,1211:238:1,1.00
+Platyrhina,sinensis,23.75,117.75,1211:237:4,1.00
+Platyrhina,sinensis,23.75,117.25,1211:237:3,0.84
+Platyrhina,sinensis,23.25,117.75,1211:237:2,1.00
+Platyrhina,sinensis,23.25,117.25,1211:237:1,0.90
+Platyrhina,sinensis,23.75,116.75,1211:236:4,1.00
+Platyrhina,sinensis,23.25,116.75,1211:236:2,1.00
+Platyrhina,sinensis,22.75,119.25,1211:229:3,1.00
+Platyrhina,sinensis,22.75,118.75,1211:228:4,1.00
+Platyrhina,sinensis,22.75,118.25,1211:228:3,1.00
+Platyrhina,sinensis,22.25,118.75,1211:228:2,1.00
+Platyrhina,sinensis,22.25,118.25,1211:228:1,1.00
+Platyrhina,sinensis,22.75,117.75,1211:227:4,1.00
+Platyrhina,sinensis,22.75,117.25,1211:227:3,1.00
+Platyrhina,sinensis,22.25,117.75,1211:227:2,1.00
+Platyrhina,sinensis,22.25,117.25,1211:227:1,1.00
+Platyrhina,sinensis,22.75,116.75,1211:226:4,1.00
+Platyrhina,sinensis,22.75,116.25,1211:226:3,1.00
+Platyrhina,sinensis,22.25,116.25,1211:226:1,1.00
+Platyrhina,sinensis,22.75,115.75,1211:225:4,1.00
+Platyrhina,sinensis,22.75,115.25,1211:225:3,1.00
+Platyrhina,sinensis,22.25,115.75,1211:225:2,1.00
+Platyrhina,sinensis,22.25,115.25,1211:225:1,1.00
+Platyrhina,sinensis,22.25,114.75,1211:124:2,1.00
+Platyrhina,sinensis,21.75,114.25,1211:114:3,1.00
+Platyrhina,sinensis,21.25,114.25,1211:114:1,1.00
+Platyrhina,sinensis,21.25,113.25,1211:113:1,1.00
+Platyrhina,sinensis,21.75,112.75,1211:112:4,0.95
+Platyrhina,sinensis,21.75,112.25,1211:112:3,1.00
+Platyrhina,sinensis,21.25,112.75,1211:112:2,1.00
+Platyrhina,sinensis,21.25,112.25,1211:112:1,1.00
+Platyrhina,sinensis,21.75,111.75,1211:111:4,1.00
+Platyrhina,sinensis,21.75,111.25,1211:111:3,1.00
+Platyrhina,sinensis,21.25,111.75,1211:111:2,1.00
+Platyrhina,sinensis,21.25,111.25,1211:111:1,1.00
+Platyrhina,sinensis,21.25,110.75,1211:110:2,1.00
+Platyrhina,sinensis,21.25,110.25,1211:110:1,1.00
+Platyrhina,sinensis,20.75,112.25,1211:102:3,1.00
+Platyrhina,sinensis,20.75,111.75,1211:101:4,1.00
+Platyrhina,sinensis,20.75,111.25,1211:101:3,1.00
+Platyrhina,sinensis,20.25,111.75,1211:101:2,0.93
+Platyrhina,sinensis,20.25,111.25,1211:101:1,1.00
+Platyrhina,sinensis,20.75,110.75,1211:100:4,1.00
+Platyrhina,sinensis,20.75,110.25,1211:100:3,1.00
+Platyrhina,sinensis,20.25,110.75,1211:100:2,1.00
+Platyrhina,sinensis,20.25,110.25,1211:100:1,1.00
+Platyrhina,sinensis,21.75,109.75,1210:219:4,1.00
+Platyrhina,sinensis,21.75,109.25,1210:219:3,1.00
+Platyrhina,sinensis,21.25,109.75,1210:219:2,1.00
+Platyrhina,sinensis,21.25,109.25,1210:219:1,1.00
+Platyrhina,sinensis,21.75,108.75,1210:218:4,1.00
+Platyrhina,sinensis,21.75,108.25,1210:218:3,1.00
+Platyrhina,sinensis,21.75,107.75,1210:217:4,1.00
+Platyrhina,sinensis,20.25,109.75,1210:209:2,1.00
+Platyrhina,sinensis,20.75,107.25,1210:207:3,1.00
+Platyrhina,sinensis,20.75,106.75,1210:206:4,1.00
+Platyrhina,sinensis,20.25,106.75,1210:206:2,1.00
+Platyrhina,sinensis,20.25,106.25,1210:206:1,1.00
+Platyrhina,sinensis,19.75,111.25,1111:391:3,1.00
+Platyrhina,sinensis,19.25,111.25,1111:391:1,1.00
+Platyrhina,sinensis,19.75,110.75,1111:390:4,1.00
+Platyrhina,sinensis,19.25,110.75,1111:390:2,1.00
+Platyrhina,sinensis,18.75,110.75,1111:380:4,1.00
+Platyrhina,sinensis,18.75,110.25,1111:380:3,1.00
+Platyrhina,sinensis,18.25,110.25,1111:380:1,1.00
+Platyrhina,sinensis,19.75,109.25,1110:499:3,1.00
+Platyrhina,sinensis,19.75,108.75,1110:498:4,1.00
+Platyrhina,sinensis,19.25,108.75,1110:498:2,1.00
+Platyrhina,sinensis,19.75,106.25,1110:496:3,1.00
+Platyrhina,sinensis,19.25,106.25,1110:496:1,1.00
+Platyrhina,sinensis,19.75,105.75,1110:495:4,1.00
+Platyrhina,sinensis,19.25,105.75,1110:495:2,1.00
+Platyrhina,sinensis,18.25,109.75,1110:489:2,1.00
+Platyrhina,sinensis,18.25,109.25,1110:489:1,1.00
+Platyrhina,sinensis,18.75,108.75,1110:488:4,1.00
+Platyrhina,sinensis,18.25,108.75,1110:488:2,0.97
+Platyrhina,sinensis,18.75,106.25,1110:486:3,1.00
+Platyrhina,sinensis,18.25,106.75,1110:486:2,1.00
+Platyrhina,sinensis,18.25,106.25,1110:486:1,1.00
+Platyrhina,sinensis,18.75,105.75,1110:485:4,1.00
+Platyrhina,sinensis,17.25,107.25,1110:477:1,1.00
+Platyrhina,sinensis,17.75,106.75,1110:476:4,1.00
+Platyrhina,sinensis,17.75,106.25,1110:476:3,1.00
+Platyrhina,sinensis,17.25,106.75,1110:476:2,1.00
+Platyrhina,sinensis,16.25,108.75,1110:468:2,0.97
+Platyrhina,sinensis,16.25,108.25,1110:468:1,1.00
+Platyrhina,sinensis,16.75,107.75,1110:467:4,1.00
+Platyrhina,sinensis,16.75,107.25,1110:467:3,1.00
+Platyrhina,sinensis,16.25,107.75,1110:467:2,1.00
+Platyrhina,sinensis,15.25,109.25,1110:459:1,0.94
+Platyrhina,sinensis,15.75,108.75,1110:458:4,1.00
+Platyrhina,sinensis,15.75,108.25,1110:458:3,1.00
+Platyrhina,sinensis,15.25,108.75,1110:458:2,1.00
+
+
+Occurrence cells used for creating environmental envelope (n = 16)
+Genus,Species,Center Lat,Center Long,C-Square,Depth (m),Surface Water Temp. (°C),Bottom Water Temp. (°C),Surface Salinity (psu),Bottom Salinity (psu),Primary Production (mgC·m-3·day-1),Sea Ice Concentration (0-1 fraction),Dissolved Bottom Oxygen (mmol·m-3),Distance to Land (km)
+Platyrhina,sinensis,16.25,108.25,1110:468:1,34,26.7562217712402,23.9904804229736,33.1056442260742,34.0222244262695,9.36600007116795,0,215.908843994141,21
+Platyrhina,sinensis,18.25,106.25,1110:486:1,39,26.1895179748535,26.1806049346924,32.9636001586914,33.0000267028809,16.428999602794597,0,215.067642211914,14
+Platyrhina,sinensis,21.75,109.25,1210:219:3,7,24.9219360351563,25.3035259246826,32.8797760009766,32.9487686157227,13.4064611047506,0,213.46467590332,3
+Platyrhina,sinensis,22.25,120.25,1212:120:1,721,27.2525634765625,6.90843200683594,33.3172874450684,34.3943138122559,4.82999999076128,0,94.3491134643555,97
+Platyrhina,sinensis,22.25,119.25,1211:229:1,1067,27.0371685028076,3.66421103477478,33.6737327575684,34.5366020202637,5.58200012892485,0,87.8518447875977,163
+Platyrhina,sinensis,22.25,114.25,1211:124:1,10,24.6837882995605,25.0780200958252,28.1429767608643,33.7591972351074,97.5759997963905,0,233.332092285156,22
+Platyrhina,sinensis,23.25,120.25,1212:130:1,30,26.1896705627441,16.1592388153076,33.6179008483887,34.4720802307129,15.4216196388006,0,162.103958129883,9
+Platyrhina,sinensis,23.25,119.75,1211:239:2,79,26.1264839172363,21.9583568572998,33.5534934997559,34.6260452270508,15.6449992209673,0,187.725051879883,77
+Platyrhina,sinensis,23.25,116.75,1211:236:2,19,23.6337985992432,24.3511524200439,32.2073249816895,33.8506622314453,47.3169982433319,0,219.562774658203,18
+Platyrhina,sinensis,23.75,120.25,1212:130:3,31,25.492883682251,20.0634155273438,33.655445098877,34.3401870727539,19.9723094701767,0,188.245315551758,13
+Platyrhina,sinensis,23.75,119.75,1211:239:4,42,25.2194423675537,24.4078578948975,33.5918617248535,34.3561592102051,19.5090007036924,0,207.894790649414,25
+Platyrhina,sinensis,24.25,120.75,1212:140:2,11,25.1578979492188,18.2337093353271,33.7194061279297,34.1846809387207,21.0154093801975,0,190.027526855469,3
+Platyrhina,sinensis,24.25,120.25,1212:140:1,41,24.7277927398682,24.036958694458,33.6709480285645,34.1134262084961,25.0979997217655,0,210.488708496094,24
+Platyrhina,sinensis,24.75,118.25,1211:248:3,7,22.2646560668945,23.0747203826904,31.2113437652588,33.6807289123535,41.6752621531487,0,224.554718017578,8
+Platyrhina,sinensis,25.25,120.25,1212:350:1,50,23.0524578094482,23.5770854949951,32.2948684692383,34.0383110046387,29.1140004992485,0,209.271789550781,90
+Platyrhina,sinensis,25.25,119.75,1211:459:2,22,22.157018661499,23.2630043029785,31.1326122283936,33.832935333252,31.1730001121759,0,211.515869140625,25
