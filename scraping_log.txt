@@ -1,0 +1,25 @@
+[2025-05-21 17:21:30] Index file not found. Setting initial index to 0.
+[2025-05-21 17:21:30] Starting process: 2049 species already processed out of 2534
+[2025-05-21 17:21:30] Current index from index file: 0
+[2025-05-21 17:21:31] Processing species at index 0 (Progress: 0/2534, %)
+[2025-05-21 17:21:31] Waiting for Python process (PID: 28400) to complete...
+[2025-05-21 17:21:45] Python process completed after 14 seconds with exit code: -1073741510
+[2025-05-21 17:21:45] Process failed with exit code -1073741510
+[2025-05-21 17:21:50] Current index is now: 1 (previous: 0)
+[2025-05-21 17:21:50] CSV count: 2049 (previous: 2049)
+[2025-05-21 17:21:50] Index progressed successfully from 0 to 1
+[2025-05-21 17:21:50] No new species files downloaded in this run
+[2025-05-21 17:21:50] Processing species at index 1 (Progress: 1/2534, %)
+[2025-05-21 17:21:50] Waiting for Python process (PID: 16092) to complete...
+[2025-05-21 17:22:01] Starting process: 2049 species already processed out of 2534
+[2025-05-21 17:22:01] Current index from index file: 1
+[2025-05-21 17:22:01] Processing species at index 1 (Progress: 1/2534, %)
+[2025-05-21 17:22:01] Waiting for Python process (PID: 10860) to complete...
+[2025-05-21 17:22:11] Python process completed after 10 seconds with exit code: -1073741510
+[2025-05-21 17:22:11] Process failed with exit code -1073741510
+[2025-05-21 17:22:16] Current index is now: 2 (previous: 1)
+[2025-05-21 17:22:16] CSV count: 2049 (previous: 2049)
+[2025-05-21 17:22:16] Index progressed successfully from 1 to 2
+[2025-05-21 17:22:16] No new species files downloaded in this run
+[2025-05-21 17:22:16] Processing species at index 2 (Progress: 2/2534, %)
+[2025-05-21 17:22:16] Waiting for Python process (PID: 36660) to complete...
